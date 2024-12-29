@@ -1,0 +1,725 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 3.95,
+        "rank_descriptions": [
+          "파운데이션 ・ 리퀴드 -위",
+          "파운데이션 -위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": "리퀴드",
+            "category_code": "001:005:004",
+            "category_name": "파운데이션",
+            "preview_ranking_id": 4323,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:005:004",
+            "category_name": "파운데이션",
+            "preview_ranking_id": 4322,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 77
+      },
+      "goods": {
+        "ask_count": 3,
+        "available_stockcnt": 99,
+        "capacity": "30",
+        "consumer_price": 31000,
+        "delivery_additional_price": null,
+        "delivery_company": "한진택배",
+        "delivery_free_condition": null,
+        "delivery_price": "무료배송",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/5926_15162031mcontent.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/5926_15162031mcontent1.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/5926_15162031mcontent.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/5926_15162031mcontent1.jpg"
+        ],
+        "discount_rate": 14,
+        "estimated_rewards": {
+          "purchase": 265,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": false,
+        "id": 5926,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "메이크업 커버 [208호 브라이트베이지]+물방울스폰지 증정",
+        "notice_images": [],
+        "option_id": 1573763,
+        "partner": {
+          "id": 172,
+          "image_url": "https://img.hwahae.co.kr/commerce/partner/cover/maluwilz1_visual.jpg",
+          "name": "마루빌츠/더마콜 공식몰"
+        },
+        "price": 26500,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/5926_03120032view.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "더마콜 (Dermacol)",
+          "id": 184,
+          "image_url": "https://img.hwahae.co.kr/brands/184/184_20230331150700.png",
+          "name": "더마콜"
+        },
+        "buy_info": "30ml / 29,000원",
+        "categories": [
+          {
+            "code": "001:005:004",
+            "name": "파운데이션"
+          }
+        ],
+        "encrypted_product_id": "7d0d71d6a0197ac3d4465ae5efd7857d",
+        "food_product_info": null,
+        "id": 1797741,
+        "image_url": "https://img.hwahae.co.kr/products/1797741/1797741_20220801000000.jpg",
+        "is_favorite": false,
+        "name": "메이크업 커버 워터프루프 파운데이션 [208호 브라이트베이지]",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "b1d28419-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Mineral Oil, Paraffinum Liquidum",
+          "ewg": "1_3",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 2092,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "미네랄오일",
+          "limitation": "해당 없음",
+          "purpose": "피부보호제, 피부컨디셔닝제(유연제), 용제, 헤어컨디셔닝제, 착향제, 피부컨디셔닝제(수분차단제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            },
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "피부 호흡 및 독소 배출을 방해해 여드름을 유발시키며, 피부 세포 발육을 방해해 피부노화를 유발하는 것으로 알려져 있다."
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": "3",
+          "english": "Titanium Dioxide, CI 77891",
+          "ewg": "1_3",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 6330,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "티타늄디옥사이드, 티타늄다이옥사이드",
+          "limitation": "25%",
+          "purpose": "착색제, 불투명화제, 자외선차단제",
+          "purposes": [
+            {
+              "group_code": "IPGC_08",
+              "group_name": "자외선 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "자외선 차단",
+          "skin_type": "go;gs",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Paraffin",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6349,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "파라핀",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(비수용성), 향료, 수분증발차단제",
+          "purposes": [
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Microcrystalline Wax, Cera Microcristallina",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1772,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "마이크로크리스탈린왁스, 세라마이크로크리스탈리나(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "유화안정제, 벌킹제(증량제), 결합제, 점도증가제(비수성)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Petrolatum, Vaseline",
+          "ewg": "1_4",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6489,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "페트롤라툼, 바세린, 페트롤라튬",
+          "limitation": "해당 없음",
+          "purpose": "헤어컨디셔닝제, 피부보호제, 수분증발차단제",
+          "purposes": [
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": "여드름 유발",
+          "skin_remark_good": null,
+          "skin_type": "bo",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "CI 77492, Hydrated Ferric Oxide, Yellow Oxide of Iron, Iron Oxide Yellow",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8202,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "황색산화철",
+          "limitation": "해당 없음",
+          "purpose": "착색제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "CI 77491, Ferric Oxide, Red Oxide of Iron, Iron Oxide Red",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5308,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "적색산화철",
+          "limitation": "해당 없음",
+          "purpose": "착색제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "CI 77499, Black Oxide of Iron, Ferrous-Ferric, OxideIron Oxides, Iron Oxide Black",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8331,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "흑색산화철",
+          "limitation": "해당 없음",
+          "purpose": "착색제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glyceryl Stearates",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 481,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세릴스테아레이트, 혼합글리세릴스테아레이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(유연제), 계면활성제(유화제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Silica Silylate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 3757,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "실리카실릴레이트",
+          "limitation": "해당 없음",
+          "purpose": "기포방지제/소포제, 현탁화제(비계면활성제), 벌킹제(증량제), 피부컨디셔닝제(유연제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Alumina",
+          "ewg": "3_7",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 4177,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "알루미나",
+          "limitation": "해당 없음",
+          "purpose": "벌킹제(증량제), 안티케이킹제, 스크럽제, 흡수제, 불투명화제",
+          "purposes": [
+            {
+              "group_code": "IPGC_05",
+              "group_name": "각질 제거"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Fragrance, Parfum, Aroma",
+          "ewg": "8",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8030,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "향료",
+          "limitation": "해당 없음",
+          "purpose": "감미제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "향을 유발하는 성분을 통칭해 향료로 표기하기에 실체를 정확히 알 수 없다. 두통, 현기증, 발진, 색소침착, 기관지 자극을 유발한다고 알려져 있다."
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 3.948051929473877,
+        "productIndex": 1797741,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9250246/9250246_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9250246/9250246_0_0.png?size=120x120",
+                "type": "사용전"
+              }
+            ],
+            "reviewId": 9250246
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8931804/8931804_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8931804/8931804_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 8931804
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7816981/7816981_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7816981/7816981_0_0.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7816981/7816981_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7816981/7816981_0_1.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7816981
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/6867330/6867330_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/6867330/6867330_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 6867330
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/6571985/6571985_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/6571985/6571985_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 6571985
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/5801765/5801765_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/5801765/5801765_0_0.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/5801765/5801765_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/5801765/5801765_0_1.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 5801765
+          }
+        ],
+        "totalCount": 77,
+        "totalImageCount": 29
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 77,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          1,
+          5,
+          15,
+          32,
+          24
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "2000",
+          "atopy": false,
+          "badText": "오일이 많아서 시간지나면 산화되어 다크닝있구요 저는 오후에 지우고 다시발랐어요 / 케이스가 좀만 쓰다보면 잘찢어져서\n3분의2쓸때쯤 버리고 새로 다시 사서썼습니다ㅜ",
+          "blind": 0,
+          "brand": "더마콜 (Dermacol)",
+          "commentCount": 0,
+          "encryptedProductId": "7d0d71d6a0197ac3d4465ae5efd7857d",
+          "gender": "여성",
+          "goodText": "극강의 커버력 이거 바르면 피부좋다는 소리 정말 많이들었고\n지인8명이 따라산 꿀템입니다 시간지나도 지워짐 거의없어요!\n3통정도 구매했습니다 저는 수부지라 매트한걸 좋아해서 바르고 파우더까지발랐을때 결표현 넘 예쁘게됐었어요",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1726311306,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1797741/1797741_20220801000000.jpg",
+          "productIndex": 1797741,
+          "productName": "메이크업 커버 워터프루프 파운데이션 [208호 브라이트베이지]",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9351116,
+          "sensitive": false,
+          "skinType": "지성",
+          "trouble": false,
+          "updateTime": 1726311306,
+          "usePeriod": 0,
+          "userId": "693041",
+          "userImageUrl": null,
+          "userName": "skdmsdl1023",
+          "userPhotoToken": 0,
+          "userReviewCount": 2
+        },
+        {
+          "additionText": "",
+          "age": "2007",
+          "atopy": false,
+          "badText": "유분이 전에 쓰던 파데보단 조끔 많은것같고 색상도 생각보다 어두워용.. 근데 전 밝게 쓰는걸 좋아해서 그렇게 느낀걸지도.. 이건 원래 피부색이랑 차이안나게 커버력만 올리고싶을때 써요",
+          "blind": 0,
+          "brand": "더마콜 (Dermacol)",
+          "commentCount": 0,
+          "encryptedProductId": "7d0d71d6a0197ac3d4465ae5efd7857d",
+          "gender": "여성",
+          "goodText": "원래 에뛰드 비건 파데 17호를 사용했는데 그거랑 비교했을땐 약간 회색끼 있고 살짝 어둡더라고요 톤업크림이랑 섞어쓰려구요 글고 이거만 단독으로 써도 전혀 안뻑뻑해요",
+          "images": [
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/9250246/9250246_0_0.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/9250246/9250246_0_0.png?size=120x120",
+              "type": "사용전"
+            }
+          ],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1722915314,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1797741/1797741_20220801000000.jpg",
+          "productIndex": 1797741,
+          "productName": "메이크업 커버 워터프루프 파운데이션 [208호 브라이트베이지]",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9250246,
+          "sensitive": true,
+          "skinType": "복합성",
+          "trouble": true,
+          "updateTime": 1722915314,
+          "usePeriod": 0,
+          "userId": "9609954",
+          "userImageUrl": null,
+          "userName": "품위있는스웨인슨매677",
+          "userPhotoToken": 0,
+          "userReviewCount": 3
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "4a08671a-a3e3-467b-b1c4-ddfe6e53febd",
+        "is_positive": false,
+        "name": "매트한",
+        "review_count": 11,
+        "score": 7.642,
+        "sentence": "매트해요"
+      },
+      {
+        "id": "baf546f2-9c7a-40e2-96d7-b74314a7b12e",
+        "is_positive": false,
+        "name": "답답한",
+        "review_count": 7,
+        "score": 7.042,
+        "sentence": "답답해요"
+      },
+      {
+        "id": "28aa75f2-9b10-4435-a2ed-e2f86ea3c639",
+        "is_positive": false,
+        "name": "보습안되는",
+        "review_count": 12,
+        "score": 6.187,
+        "sentence": "보습이 안돼요"
+      },
+      {
+        "id": "c99153e9-7642-4cd9-829c-8c62fcd4a8cc",
+        "is_positive": false,
+        "name": "밀착안되는",
+        "review_count": 9,
+        "score": 4.788,
+        "sentence": "밀착이 안돼요"
+      },
+      {
+        "id": "904bd1ab-0315-4518-8c6f-28a7dc06f4d8",
+        "is_positive": false,
+        "name": "회색기있는",
+        "review_count": 6,
+        "score": 4.645,
+        "sentence": "회색기가 있어요"
+      },
+      {
+        "id": "d75e3a6a-546d-4670-8d32-25ea638065ae",
+        "is_positive": false,
+        "name": "묻어나는",
+        "review_count": 5,
+        "score": 4.631,
+        "sentence": "잘 묻어나요"
+      },
+      {
+        "id": "372c9905-2108-40ee-8a53-77034e82b807",
+        "is_positive": false,
+        "name": "유분있는",
+        "review_count": 6,
+        "score": 4.497,
+        "sentence": "유분이 있어요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "03fb4d0f-5efd-4de9-a4ed-3a08e7ab9b1a",
+        "is_positive": true,
+        "name": "커버잘되는",
+        "review_count": 53,
+        "score": 9.159,
+        "sentence": "커버가 잘 돼요"
+      },
+      {
+        "id": "aa482f45-6c63-4f19-89dd-9fcff58f735a",
+        "is_positive": true,
+        "name": "리치한",
+        "review_count": 3,
+        "score": 5.36,
+        "sentence": "리치해요"
+      },
+      {
+        "id": "ae81ee0b-960d-45de-86c0-791530b23545",
+        "is_positive": true,
+        "name": "오래사용하는",
+        "review_count": 3,
+        "score": 3.837,
+        "sentence": "오래 사용해요"
+      },
+      {
+        "id": "7e6da918-5b96-4e9e-b9fd-19e593e0d2ed",
+        "is_positive": true,
+        "name": "지속력좋은",
+        "review_count": 8,
+        "score": 3.287,
+        "sentence": "지속력이 좋아요"
+      },
+      {
+        "id": "82f346c3-ba0d-4add-ac6f-b9e2955030d1",
+        "is_positive": true,
+        "name": "얇게발리는",
+        "review_count": 5,
+        "score": 3.116,
+        "sentence": "얇게 발려요"
+      },
+      {
+        "id": "aef4f523-3ee0-413a-a44e-3081023deb57",
+        "is_positive": true,
+        "name": "잘발리는",
+        "review_count": 5,
+        "score": 2.386,
+        "sentence": "잘 발려요"
+      },
+      {
+        "id": "99b4dc7d-debc-4674-a652-b6afcdf30469",
+        "is_positive": true,
+        "name": "톤업되는",
+        "review_count": 2,
+        "score": 2.351,
+        "sentence": "톤 업 돼요"
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

@@ -1,0 +1,2774 @@
+{
+    "pageProps": {
+        "session": null,
+        "productAwardsData": [],
+        "productGoodsPairData": {
+            "common": {
+                "avg_ratings": 4.18,
+                "review_count": 624,
+                "rank_descriptions": [
+                    "에센스/앰플/세럼 ・ 수분 -위",
+                    "에센스/앰플/세럼 -위"
+                ],
+                "rankings": [
+                    {
+                        "rank": null,
+                        "category_code": "001:001:003",
+                        "category_name": "에센스/앰플/세럼",
+                        "root_category_name": "일반",
+                        "attribute_name": "수분",
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4175
+                    },
+                    {
+                        "rank": null,
+                        "category_code": "001:001:003",
+                        "category_name": "에센스/앰플/세럼",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4174
+                    }
+                ]
+            },
+            "product": {
+                "id": 1905136,
+                "uid": "b611fe3b-4208-11ee-b457-0a737d0456c2",
+                "encrypted_product_id": "9bd926c91bcfaf4fc713d1c375cfd1a6",
+                "image_url": "https://img.hwahae.co.kr/products/1905136/1905136_20220801000000.jpg",
+                "obsolete": false,
+                "is_favorite": false,
+                "buy_info": "100ml / 22,500원",
+                "name": "프로폴리스 유수분 세럼",
+                "product_type": 1,
+                "brand": {
+                    "id": 480,
+                    "name": "보나쥬르",
+                    "full_name": "보나쥬르 (BONAJOUR)",
+                    "image_url": "https://img.hwahae.co.kr/brands/480/480_20230405140512.png"
+                },
+                "food_product_info": null,
+                "categories": [
+                    {
+                        "code": "001:001:003",
+                        "name": "에센스/앰플/세럼"
+                    }
+                ]
+            },
+            "goods": {
+                "id": 3072,
+                "type": "NORMAL",
+                "partner": {
+                    "id": 64,
+                    "name": "보나쥬르 공식몰",
+                    "image_url": "https://img.hwahae.co.kr/commerce/partner/cover/bonajour_visual.jpg"
+                },
+                "sale_status": "SELNG",
+                "title_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/210826_122500_thumbnail_%ED%94%84%EB%A1%9C%ED%8F%B4%EB%A6%AC%EC%8A%A4%EC%84%B8%EB%9F%BC.jpg"
+                ],
+                "detail_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20230426_104329_pp_sr.jpg"
+                ],
+                "short_notice": null,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "name": "프로폴리스 세럼 100ml",
+                "discount_rate": 13,
+                "consumer_price": 22500,
+                "price": 19500,
+                "estimated_rewards": {
+                    "purchase": 195,
+                    "review_write": 1000,
+                    "review_photo": 100
+                },
+                "description_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20230426_104329_pp_sr.jpg"
+                ],
+                "notice_images": [],
+                "delivery_price": "2,500원",
+                "delivery_free_condition": "25,000원 이상 구매 시 무료",
+                "delivery_additional_price": null,
+                "delivery_company": "우체국택배",
+                "ask_count": 13,
+                "wish_index": null,
+                "has_related_goods": false,
+                "has_applicable_coupon": false,
+                "capacity": "100ml",
+                "gift": null,
+                "option_id": 991435,
+                "available_stockcnt": 99210,
+                "max_purchase_count": null,
+                "min_purchase_count": 1,
+                "is_promotion_set": false,
+                "stamp": null
+            }
+        },
+        "targetSaleEventNoticeData": {
+            "notice_lines": []
+        },
+        "sampleSurveysByProductData": null,
+        "productTopicsNegative": [
+            {
+                "id": "a905a72e-864e-4db8-97ee-70fe9dde9b75",
+                "name": "알러지반응오는",
+                "sentence": "알러지 반응이 와요",
+                "is_positive": false,
+                "review_count": 25,
+                "score": 6.439
+            },
+            {
+                "id": "3d4b4bd5-df46-40f9-b3d2-05cf9601825c",
+                "name": "따가운",
+                "sentence": "따가워요",
+                "is_positive": false,
+                "review_count": 17,
+                "score": 5.252
+            },
+            {
+                "id": "ce1a918d-347c-47d7-a9ec-668685758ced",
+                "name": "가려운",
+                "sentence": "가려워요",
+                "is_positive": false,
+                "review_count": 7,
+                "score": 3.024
+            },
+            {
+                "id": "77a12475-8a42-403c-8f45-03ba8843e8fa",
+                "name": "리치하지않은",
+                "sentence": "리치하지 않아요",
+                "is_positive": false,
+                "review_count": 4,
+                "score": 2.383
+            },
+            {
+                "id": "e1f35149-8698-4f56-b0f6-052922721e3d",
+                "name": "때처럼나오는",
+                "sentence": "때처럼 나와요",
+                "is_positive": false,
+                "review_count": 3,
+                "score": 1.781
+            },
+            {
+                "id": "bc47230b-b727-44a6-9d79-ce1c970176e0",
+                "name": "내용물이새는",
+                "sentence": "내용물이 새요",
+                "is_positive": false,
+                "review_count": 2,
+                "score": 1.769
+            },
+            {
+                "id": "c47c7d42-73f1-4f19-8bd7-6d1414cb3adc",
+                "name": "블랙헤드안없어지는",
+                "sentence": "블랙헤드가 안 없어져요",
+                "is_positive": false,
+                "review_count": 2,
+                "score": 1.517
+            }
+        ],
+        "productTopicsPositive": [
+            {
+                "id": "d6d2f14a-fd5f-41b9-8997-a1ac48754147",
+                "name": "트러블없어지는",
+                "sentence": "트러블이 없어져요",
+                "is_positive": true,
+                "review_count": 111,
+                "score": 23.697
+            },
+            {
+                "id": "a60efe36-ef77-4c2d-8e29-9335fad72941",
+                "name": "흡수잘되는",
+                "sentence": "흡수가 잘 돼요",
+                "is_positive": true,
+                "review_count": 147,
+                "score": 19.548
+            },
+            {
+                "id": "abc5259b-66a2-4203-84c6-cae6e9111ae9",
+                "name": "피지없어지는",
+                "sentence": "피지가 없어져요",
+                "is_positive": true,
+                "review_count": 33,
+                "score": 18.745
+            },
+            {
+                "id": "80168b55-ebf5-4d77-9fad-7374c391cefd",
+                "name": "유분없는",
+                "sentence": "유분이 없어요",
+                "is_positive": true,
+                "review_count": 53,
+                "score": 18.523
+            },
+            {
+                "id": "e3f2f6ff-82c8-4c39-b390-d89da6bbd9ae",
+                "name": "진정되는",
+                "sentence": "진정이 잘 돼요",
+                "is_positive": true,
+                "review_count": 78,
+                "score": 18.251
+            },
+            {
+                "id": "bac870a5-2991-4f04-88c0-3986a52622f8",
+                "name": "잘발리는",
+                "sentence": "잘 발려요",
+                "is_positive": true,
+                "review_count": 82,
+                "score": 17.656
+            },
+            {
+                "id": "e1556a6a-2e23-4d72-9f78-873f5f5eadc5",
+                "name": "수분있는",
+                "sentence": "수분이 있어요",
+                "is_positive": true,
+                "review_count": 156,
+                "score": 16.14
+            }
+        ],
+        "productReviewSummaryData": {
+            "productMetaData": {
+                "productIndex": 1905136,
+                "avgRatings": 4.184294700622559,
+                "reviewImageArray": [
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8653149/8653149_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8653149/8653149_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8653149
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8614218/8614218_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8614218/8614218_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8614218
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8281373/8281373_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8281373/8281373_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8281373
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8017657/8017657_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8017657/8017657_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 8017657
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7538391/7538391_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7538391/7538391_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 7538391
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7154170/7154170_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7154170/7154170_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 7154170
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7105097/7105097_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7105097/7105097_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 7105097
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7080445/7080445_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7080445/7080445_0_0.png",
+                                "type": "사용전"
+                            }
+                        ],
+                        "reviewId": 7080445
+                    }
+                ],
+                "totalCount": 624,
+                "totalImageCount": 173
+            },
+            "reviewList": [
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "아직은 없어요!! 워낙 잘쓰던 제품이라 제형이 젤인게 아쉬운정도요",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 2,
+                    "rating": 3,
+                    "likeCount": 0,
+                    "productName": "프로폴리스 유수분 세럼",
+                    "isCheckingReview": false,
+                    "skinType": "복합성",
+                    "modifyTime": 1721176403,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "보나쥬르 (BONAJOUR)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1905136/1905136_20220801000000.jpg",
+                    "images": [],
+                    "productIndex": 1905136,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1721176403,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "playnote_yj",
+                    "userId": "3839564",
+                    "userReviewCount": 19,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "원래 고등학교 때부터 잘 쓰던 제품이라서 구매했어요! 요새 딱 쓰기 좋을거 같아서요! 원래 아침에 일어나면 기름이 도는데 피지 조절 기능 덕분에 뽀송해졌어요! 항염 성분 때문에 모낭염에 좋다고해서 더 써보려구요",
+                    "encryptedProductId": "9bd926c91bcfaf4fc713d1c375cfd1a6",
+                    "reviewId": 9209327,
+                    "age": "1999",
+                    "isAdvertising": false
+                },
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "건조함을 잡아주는 용도는 아닙니다 별로 특별할 것 없는? 아주 무난한 제품이었어요",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 5,
+                    "likeCount": 0,
+                    "productName": "프로폴리스 유수분 세럼",
+                    "isCheckingReview": false,
+                    "skinType": "지성",
+                    "modifyTime": 1717678034,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "보나쥬르 (BONAJOUR)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1905136/1905136_20220801000000.jpg",
+                    "images": [],
+                    "productIndex": 1905136,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1717678034,
+                    "isAdmin": false,
+                    "sensitive": false,
+                    "userName": "자몽에이드한잔",
+                    "userId": "2955562",
+                    "userReviewCount": 19,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "프로폴리스 제품이 잘 맞아서 구매해봤는데 흡수도 잘 되고 적당히 촉촉해서 좋았어요",
+                    "encryptedProductId": "9bd926c91bcfaf4fc713d1c375cfd1a6",
+                    "reviewId": 9120594,
+                    "age": "1998",
+                    "isAdvertising": false
+                }
+            ],
+            "productReviewMetaData": {
+                "reviewRatings": [
+                    21,
+                    19,
+                    79,
+                    210,
+                    295
+                ],
+                "filterTotalCount": 624,
+                "limitedReviewNumber": 0,
+                "reviewKeywordList": []
+            }
+        },
+        "productIngredientInfoData": {
+            "product_type": 2,
+            "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+            "purpose_default_order": [
+                {
+                    "group_code": "IPGC_01",
+                    "group_name": "피부 보습"
+                },
+                {
+                    "group_code": "IPGC_02",
+                    "group_name": "수분 증발 차단"
+                },
+                {
+                    "group_code": "IPGC_03",
+                    "group_name": "피부 보호"
+                },
+                {
+                    "group_code": "IPGC_04",
+                    "group_name": "수렴 진정"
+                },
+                {
+                    "group_code": "IPGC_05",
+                    "group_name": "각질 제거"
+                },
+                {
+                    "group_code": "IPGC_06",
+                    "group_name": "피부 미백"
+                },
+                {
+                    "group_code": "IPGC_07",
+                    "group_name": "여드름 완화"
+                },
+                {
+                    "group_code": "IPGC_08",
+                    "group_name": "자외선 차단"
+                },
+                {
+                    "group_code": "IPGC_09",
+                    "group_name": "주름 개선"
+                }
+            ],
+            "ingredients": null,
+            "sub_product_ingredients": [
+                {
+                    "sub_product_id": 51119,
+                    "sub_product_name": "프로폴리스 세럼",
+                    "ingredients": [
+                        {
+                            "id": 7005,
+                            "korean": "프로폴리스추출물",
+                            "english": "Propolis Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2454,
+                            "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+                            "english": "Butylene Glycol, 1,3-Butylene Glycol",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": "gd",
+                            "skin_remark_good": "강력 보습",
+                            "skin_remark_bad": null,
+                            "purpose": "용제, 착향제, 점도감소제, 피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 459,
+                            "korean": "글리세린",
+                            "english": "Glycerin, Glycerol",
+                            "ewg": "1_2",
+                            "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": "gd",
+                            "skin_remark_good": "보습력 증가",
+                            "skin_remark_bad": null,
+                            "purpose": "보습제, 피부보호제, 변성제, 점도감소제, 피부컨디셔닝제(보습제), 헤어컨디셔닝제, 착향제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                },
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5321,
+                            "korean": "정제수, 증류수, 물",
+                            "english": "Water, Aqua, Distilled Water, Purified Water",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "용제, 피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 12790,
+                            "korean": "녹차추출물, 녹차잎추출물",
+                            "english": "Camellia Sinensis (Green Tea) Leaf Extract",
+                            "ewg": "2_4",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부보호제, 피부컨디셔닝제, 변색방지제, 산화방지제, 수렴제, 피부컨디셔닝제(유연제), 피부컨디셔닝제(보습제), 향료",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_04",
+                                    "group_name": "수렴 진정"
+                                },
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                },
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8165,
+                            "korean": "흰버드나무껍질추출물, 화이트윌로우껍질추출물(구명칭)",
+                            "english": "Salix Alba (Willow) Bark Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(수분차단제), 헤어컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_02",
+                                    "group_name": "수분 증발 차단"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8301,
+                            "korean": "효모발효물",
+                            "english": "Saccharomyces Ferment",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": null,
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2797,
+                            "korean": "삼나무잎추출물",
+                            "english": "Cryptomeria Japonica Leaf Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "보습제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 4570,
+                            "korean": "연꽃잎추출물",
+                            "english": "Nelumbo Nucifera Leaf Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5443,
+                            "korean": "질경이추출물, 차전초추출물(구명칭)",
+                            "english": "Plantago Asiatica Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 195,
+                            "korean": "감나무잎추출물",
+                            "english": "Diospyros Kaki Leaf Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 11005,
+                            "korean": "당느릅나무추출물(구명칭), 당느릅나무껍질추출물",
+                            "english": "Ulmus Campestris (Elm) Extract(구명칭), Ulmus Campestris (Elm) Bark Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8123,
+                            "korean": "호스테일켈프추출물",
+                            "english": "Laminaria Digitata Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "착향제, 피부보호제, 피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                },
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 416,
+                            "korean": "글레디트시아 아우스트랄리스가시추출물, 글레디치아 아우스트랄리스가시추출물(구명칭)",
+                            "english": "Gleditschia Australis Thorn Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2278,
+                            "korean": "백지추출물(구명칭), 구릿대뿌리추출물",
+                            "english": "Angelica Dahurica Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8466,
+                            "korean": "라케모사승마뿌리추출물",
+                            "english": "Cimicifuga Racemosa Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부보호제, 산화방지제, 수렴제, 피부컨디셔닝제(유연제), 피부컨디셔닝제(보습제), 피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                },
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                },
+                                {
+                                    "group_code": "IPGC_04",
+                                    "group_name": "수렴 진정"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 11648,
+                            "korean": "자란뿌리추출물, 백급추출물(구명칭)",
+                            "english": "Bletilla Striata Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 12784,
+                            "korean": "쌀추출물",
+                            "english": "Oryza Sativa (Rice) Extract",
+                            "ewg": "1_2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "헤어컨디셔닝제, 피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 670,
+                            "korean": "녹두씨추출물, 녹두추출물(구명칭)",
+                            "english": "Phaseolus Radiatus Seed Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "헤어컨디셔닝제, 피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 315,
+                            "korean": "하늘타리뿌리추출물, 괄루근추출물(구명칭)",
+                            "english": "Trichosanthes Kirilowii Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 749,
+                            "korean": "닥나무뿌리추출물",
+                            "english": "Broussonetia Kazinoki Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5963,
+                            "korean": "클로브꽃추출물",
+                            "english": "Eugenia Caryophyllus (Clove) Flower Extract",
+                            "ewg": "3_4",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "향료",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2731,
+                            "korean": "녹각사씨추출물, 사인추출물(구명칭)",
+                            "english": "Amomum Xanthioides Seed Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 825,
+                            "korean": "크랜베리추출물, 덩굴월귤열매추출물(구명칭)",
+                            "english": "Vaccinium Macrocarpon (Cranberry) Fruit Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2552,
+                            "korean": "로우스위트블루베리추출물, 블루베리추출물(구명칭)",
+                            "english": "Vaccinium Angustifolium (Blueberry) Fruit Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 3301,
+                            "korean": "소듐카보머",
+                            "english": "Sodium Carbomer",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "점도증가제(수용성), 유화안정제, 피막형성제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 6535,
+                            "korean": "펜틸렌글라이콜",
+                            "english": "Pentylene Glycol",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "용제, 피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2,
+                            "korean": "1,2-헥산다이올, 1,2-헥산디올(구명칭)",
+                            "english": "1,2-Hexanediol",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "용제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5624,
+                            "korean": "카프릴릴글라이콜",
+                            "english": "Caprylyl Glycol",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(유연제), 헤어컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 4529,
+                            "korean": "에피갈로카테킨갈레이트",
+                            "english": "Epigallocatechin Gallate",
+                            "ewg": "2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "산화방지제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        }
+                    ]
+                },
+                {
+                    "sub_product_id": 51120,
+                    "sub_product_name": "1 리뉴얼 전. 프로폴리스 세럼",
+                    "ingredients": [
+                        {
+                            "id": 7005,
+                            "korean": "프로폴리스추출물",
+                            "english": "Propolis Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2454,
+                            "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+                            "english": "Butylene Glycol, 1,3-Butylene Glycol",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": "gd",
+                            "skin_remark_good": "강력 보습",
+                            "skin_remark_bad": null,
+                            "purpose": "용제, 착향제, 점도감소제, 피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 459,
+                            "korean": "글리세린",
+                            "english": "Glycerin, Glycerol",
+                            "ewg": "1_2",
+                            "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": "gd",
+                            "skin_remark_good": "보습력 증가",
+                            "skin_remark_bad": null,
+                            "purpose": "보습제, 피부보호제, 변성제, 점도감소제, 피부컨디셔닝제(보습제), 헤어컨디셔닝제, 착향제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                },
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5321,
+                            "korean": "정제수, 증류수, 물",
+                            "english": "Water, Aqua, Distilled Water, Purified Water",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "용제, 피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 12790,
+                            "korean": "녹차추출물, 녹차잎추출물",
+                            "english": "Camellia Sinensis (Green Tea) Leaf Extract",
+                            "ewg": "2_4",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부보호제, 피부컨디셔닝제, 변색방지제, 산화방지제, 수렴제, 피부컨디셔닝제(유연제), 피부컨디셔닝제(보습제), 향료",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_04",
+                                    "group_name": "수렴 진정"
+                                },
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                },
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 1508,
+                            "korean": "락토바실러스/콩발효추출물",
+                            "english": "Lactobacillus/Soybean Ferment Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8165,
+                            "korean": "흰버드나무껍질추출물, 화이트윌로우껍질추출물(구명칭)",
+                            "english": "Salix Alba (Willow) Bark Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(수분차단제), 헤어컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_02",
+                                    "group_name": "수분 증발 차단"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8435,
+                            "korean": "육계나무껍질추출물, 육계껍질추출물(구명칭), 육계추출물(구명칭)",
+                            "english": "Cinnamomum Cassia Bark Extract",
+                            "ewg": "3",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 4604,
+                            "korean": "오레가노잎추출물",
+                            "english": "Origanum Vulgare Leaf Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 6538,
+                            "korean": "편백잎추출물, 편백나무잎추출물(구명칭)",
+                            "english": "Chamaecyparis Obtusa Leaf Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8181,
+                            "korean": "황금추출물",
+                            "english": "Scutellaria Baicalensis Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(보습제)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 1775,
+                            "korean": "쇠비름추출물, 마치현추출물(구명칭), 포츌라카올레라세아추출물(구명칭)",
+                            "english": "Portulaca Oleracea Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(보습제)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5443,
+                            "korean": "질경이추출물, 차전초추출물(구명칭)",
+                            "english": "Plantago Asiatica Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 195,
+                            "korean": "감나무잎추출물",
+                            "english": "Diospyros Kaki Leaf Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 11005,
+                            "korean": "당느릅나무추출물(구명칭), 당느릅나무껍질추출물",
+                            "english": "Ulmus Campestris (Elm) Extract(구명칭), Ulmus Campestris (Elm) Bark Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8123,
+                            "korean": "호스테일켈프추출물",
+                            "english": "Laminaria Digitata Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "착향제, 피부보호제, 피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                },
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 416,
+                            "korean": "글레디트시아 아우스트랄리스가시추출물, 글레디치아 아우스트랄리스가시추출물(구명칭)",
+                            "english": "Gleditschia Australis Thorn Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2278,
+                            "korean": "백지추출물(구명칭), 구릿대뿌리추출물",
+                            "english": "Angelica Dahurica Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8466,
+                            "korean": "라케모사승마뿌리추출물",
+                            "english": "Cimicifuga Racemosa Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부보호제, 산화방지제, 수렴제, 피부컨디셔닝제(유연제), 피부컨디셔닝제(보습제), 피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                },
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                },
+                                {
+                                    "group_code": "IPGC_04",
+                                    "group_name": "수렴 진정"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 11648,
+                            "korean": "자란뿌리추출물, 백급추출물(구명칭)",
+                            "english": "Bletilla Striata Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 12784,
+                            "korean": "쌀추출물",
+                            "english": "Oryza Sativa (Rice) Extract",
+                            "ewg": "1_2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "헤어컨디셔닝제, 피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 670,
+                            "korean": "녹두씨추출물, 녹두추출물(구명칭)",
+                            "english": "Phaseolus Radiatus Seed Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "헤어컨디셔닝제, 피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 315,
+                            "korean": "하늘타리뿌리추출물, 괄루근추출물(구명칭)",
+                            "english": "Trichosanthes Kirilowii Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 749,
+                            "korean": "닥나무뿌리추출물",
+                            "english": "Broussonetia Kazinoki Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5963,
+                            "korean": "클로브꽃추출물",
+                            "english": "Eugenia Caryophyllus (Clove) Flower Extract",
+                            "ewg": "3_4",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "향료",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2731,
+                            "korean": "녹각사씨추출물, 사인추출물(구명칭)",
+                            "english": "Amomum Xanthioides Seed Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 825,
+                            "korean": "크랜베리추출물, 덩굴월귤열매추출물(구명칭)",
+                            "english": "Vaccinium Macrocarpon (Cranberry) Fruit Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2552,
+                            "korean": "로우스위트블루베리추출물, 블루베리추출물(구명칭)",
+                            "english": "Vaccinium Angustifolium (Blueberry) Fruit Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 3301,
+                            "korean": "소듐카보머",
+                            "english": "Sodium Carbomer",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "점도증가제(수용성), 유화안정제, 피막형성제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 6535,
+                            "korean": "펜틸렌글라이콜",
+                            "english": "Pentylene Glycol",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "용제, 피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2,
+                            "korean": "1,2-헥산다이올, 1,2-헥산디올(구명칭)",
+                            "english": "1,2-Hexanediol",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "용제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5624,
+                            "korean": "카프릴릴글라이콜",
+                            "english": "Caprylyl Glycol",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(유연제), 헤어컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 4529,
+                            "korean": "에피갈로카테킨갈레이트",
+                            "english": "Epigallocatechin Gallate",
+                            "ewg": "2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "산화방지제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        }
+                    ]
+                },
+                {
+                    "sub_product_id": 51121,
+                    "sub_product_name": "2 리뉴얼 전. 프로폴리스 세럼",
+                    "ingredients": [
+                        {
+                            "id": 7005,
+                            "korean": "프로폴리스추출물",
+                            "english": "Propolis Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2454,
+                            "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+                            "english": "Butylene Glycol, 1,3-Butylene Glycol",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": "gd",
+                            "skin_remark_good": "강력 보습",
+                            "skin_remark_bad": null,
+                            "purpose": "용제, 착향제, 점도감소제, 피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 459,
+                            "korean": "글리세린",
+                            "english": "Glycerin, Glycerol",
+                            "ewg": "1_2",
+                            "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": "gd",
+                            "skin_remark_good": "보습력 증가",
+                            "skin_remark_bad": null,
+                            "purpose": "보습제, 피부보호제, 변성제, 점도감소제, 피부컨디셔닝제(보습제), 헤어컨디셔닝제, 착향제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                },
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 12790,
+                            "korean": "녹차추출물, 녹차잎추출물",
+                            "english": "Camellia Sinensis (Green Tea) Leaf Extract",
+                            "ewg": "2_4",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부보호제, 피부컨디셔닝제, 변색방지제, 산화방지제, 수렴제, 피부컨디셔닝제(유연제), 피부컨디셔닝제(보습제), 향료",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_04",
+                                    "group_name": "수렴 진정"
+                                },
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                },
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 1508,
+                            "korean": "락토바실러스/콩발효추출물",
+                            "english": "Lactobacillus/Soybean Ferment Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8165,
+                            "korean": "흰버드나무껍질추출물, 화이트윌로우껍질추출물(구명칭)",
+                            "english": "Salix Alba (Willow) Bark Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(수분차단제), 헤어컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_02",
+                                    "group_name": "수분 증발 차단"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 4971,
+                            "korean": "실론시나몬나무껍질추출물, 육계추출물(구명칭), 실론시나몬추출물(구명칭)",
+                            "english": "Cinnamomum Zeylanicum Bark Extract",
+                            "ewg": "3",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부보호제, 산화방지제, 수렴제, 피부컨디셔닝제(유연제), 피부컨디셔닝제(보습제), 피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                },
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                },
+                                {
+                                    "group_code": "IPGC_04",
+                                    "group_name": "수렴 진정"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 4604,
+                            "korean": "오레가노잎추출물",
+                            "english": "Origanum Vulgare Leaf Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 6538,
+                            "korean": "편백잎추출물, 편백나무잎추출물(구명칭)",
+                            "english": "Chamaecyparis Obtusa Leaf Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8181,
+                            "korean": "황금추출물",
+                            "english": "Scutellaria Baicalensis Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(보습제)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 1775,
+                            "korean": "쇠비름추출물, 마치현추출물(구명칭), 포츌라카올레라세아추출물(구명칭)",
+                            "english": "Portulaca Oleracea Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(보습제)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5443,
+                            "korean": "질경이추출물, 차전초추출물(구명칭)",
+                            "english": "Plantago Asiatica Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 195,
+                            "korean": "감나무잎추출물",
+                            "english": "Diospyros Kaki Leaf Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 11005,
+                            "korean": "당느릅나무추출물(구명칭), 당느릅나무껍질추출물",
+                            "english": "Ulmus Campestris (Elm) Extract(구명칭), Ulmus Campestris (Elm) Bark Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8123,
+                            "korean": "호스테일켈프추출물",
+                            "english": "Laminaria Digitata Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "착향제, 피부보호제, 피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                },
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 416,
+                            "korean": "글레디트시아 아우스트랄리스가시추출물, 글레디치아 아우스트랄리스가시추출물(구명칭)",
+                            "english": "Gleditschia Australis Thorn Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2278,
+                            "korean": "백지추출물(구명칭), 구릿대뿌리추출물",
+                            "english": "Angelica Dahurica Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8466,
+                            "korean": "라케모사승마뿌리추출물",
+                            "english": "Cimicifuga Racemosa Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부보호제, 산화방지제, 수렴제, 피부컨디셔닝제(유연제), 피부컨디셔닝제(보습제), 피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                },
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                },
+                                {
+                                    "group_code": "IPGC_04",
+                                    "group_name": "수렴 진정"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2254,
+                            "korean": "중국그라운드오키드구근추출물, 백급추출물(구명칭)",
+                            "english": "Bletia Hyacinthina Bulb Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 12784,
+                            "korean": "쌀추출물",
+                            "english": "Oryza Sativa (Rice) Extract",
+                            "ewg": "1_2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "헤어컨디셔닝제, 피부컨디셔닝제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 670,
+                            "korean": "녹두씨추출물, 녹두추출물(구명칭)",
+                            "english": "Phaseolus Radiatus Seed Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "헤어컨디셔닝제, 피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 315,
+                            "korean": "하늘타리뿌리추출물, 괄루근추출물(구명칭)",
+                            "english": "Trichosanthes Kirilowii Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 749,
+                            "korean": "닥나무뿌리추출물",
+                            "english": "Broussonetia Kazinoki Root Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5963,
+                            "korean": "클로브꽃추출물",
+                            "english": "Eugenia Caryophyllus (Clove) Flower Extract",
+                            "ewg": "3_4",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "향료",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2731,
+                            "korean": "녹각사씨추출물, 사인추출물(구명칭)",
+                            "english": "Amomum Xanthioides Seed Extract",
+                            "ewg": null,
+                            "ewg_data_availability_text": "해당 없음",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5504,
+                            "korean": "초피나무열매추출물",
+                            "english": "Zanthoxylum Piperitum Fruit Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 7981,
+                            "korean": "할미꽃추출물, 백두홍추출물",
+                            "english": "Pulsatilla Koreana Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 4351,
+                            "korean": "우스니아추출물, 어스니어추출물(구명칭)",
+                            "english": "Usnea Barbata (Lichen) Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 825,
+                            "korean": "크랜베리추출물, 덩굴월귤열매추출물(구명칭)",
+                            "english": "Vaccinium Macrocarpon (Cranberry) Fruit Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2552,
+                            "korean": "로우스위트블루베리추출물, 블루베리추출물(구명칭)",
+                            "english": "Vaccinium Angustifolium (Blueberry) Fruit Extract",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "피부컨디셔닝제(기타)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_01",
+                                    "group_name": "피부 보습"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 3301,
+                            "korean": "소듐카보머",
+                            "english": "Sodium Carbomer",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "점도증가제(수용성), 유화안정제, 피막형성제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 4529,
+                            "korean": "에피갈로카테킨갈레이트",
+                            "english": "Epigallocatechin Gallate",
+                            "ewg": "2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "산화방지제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "goodsProductsData": null,
+        "goodsProductsCommonData": null
+    },
+    "__N_SSP": true
+}

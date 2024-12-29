@@ -1,0 +1,859 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.57,
+        "rank_descriptions": [
+          "바디미스트/샤워코롱 29위",
+          "헤어미스트 33위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": null,
+            "category_code": "001:008:006",
+            "category_name": "바디미스트/샤워코롱",
+            "preview_ranking_id": 4414,
+            "rank": 29,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:009:004",
+            "category_name": "헤어미스트",
+            "preview_ranking_id": 4441,
+            "rank": 33,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 51
+      },
+      "goods": {
+        "ask_count": 1,
+        "available_stockcnt": 275,
+        "capacity": "105ml",
+        "consumer_price": 9000,
+        "delivery_additional_price": null,
+        "delivery_company": "로젠택배",
+        "delivery_free_condition": "20,000원 이상 구매 시 무료",
+        "delivery_price": "2,500원",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/15069_13165651mcontent.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/15069_13165651mcontent.jpg"
+        ],
+        "discount_rate": 10,
+        "estimated_rewards": {
+          "purchase": 81,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": true,
+        "id": 15069,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "데어 바디 미스트 [양재꽃시장] 105ml",
+        "notice_images": [],
+        "option_id": 1167371,
+        "partner": {
+          "id": 337,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/201221_184249_New%20Project%20%285%29.jpg",
+          "name": "미샤 공식몰"
+        },
+        "price": 8100,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [
+          "LMTSP"
+        ],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/15069_06150412view.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "미샤 (MISSHA)",
+          "id": 1,
+          "image_url": "https://img.hwahae.co.kr/brands/1/1_20230405140512.png",
+          "name": "미샤"
+        },
+        "buy_info": "105ml / 9,000원",
+        "categories": [
+          {
+            "code": "001:008:006",
+            "name": "바디미스트/샤워코롱"
+          },
+          {
+            "code": "001:009:004",
+            "name": "헤어미스트"
+          }
+        ],
+        "encrypted_product_id": "0b4b6034019e962d58fd50dd90b961de",
+        "food_product_info": null,
+        "id": 1886544,
+        "image_url": "https://img.hwahae.co.kr/products/1886544/1886544_20220801000000.jpg",
+        "is_favorite": false,
+        "name": "데어 바디 미스트 [양재꽃시장]",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "b54e9e27-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Alcohol, Ethanol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 4253,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "알코올, 에탄올",
+          "limitation": "해당 없음",
+          "purpose": "기포방지제/소포제, 수렴제, 용제, 점도감소제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_04",
+              "group_name": "수렴 진정"
+            }
+          ],
+          "skin_remark_bad": "수분증발, 피부건조",
+          "skin_remark_good": null,
+          "skin_type": "bs;bd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Fragrance, Parfum, Aroma",
+          "ewg": "8",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8030,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "향료",
+          "limitation": "해당 없음",
+          "purpose": "감미제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "향을 유발하는 성분을 통칭해 향료로 표기하기에 실체를 정확히 알 수 없다. 두통, 현기증, 발진, 색소침착, 기관지 자극을 유발한다고 알려져 있다."
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycerin, Glycerol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 459,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세린",
+          "limitation": "해당 없음",
+          "purpose": "변성제, 피부보호제, 피부컨디셔닝제(보습제), 점도감소제, 헤어컨디셔닝제, 착향제, 보습제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "보습력 증가",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Methylpropanediol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1956,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "메틸프로판다이올, 메칠프로판디올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Camellia Japonica Flower Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 898,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "동백나무꽃추출물, 동백꽃추출물(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(유연제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hibiscus Sabdariffa Flower Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 8359,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "히비스커스꽃추출물",
+          "limitation": "해당 없음",
+          "purpose": "세포용해제, 피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Rosa Damascena Flower Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 733,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다마스크장미꽃수",
+          "limitation": "해당 없음",
+          "purpose": "수렴제, 산화방지제",
+          "purposes": [
+            {
+              "group_code": "IPGC_04",
+              "group_name": "수렴 진정"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "PEG-40 Hydrogenated Castor Oil",
+          "ewg": "1_3",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7308,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "피이지-40하이드로제네이티드캐스터오일",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(용해보조제), 착향제, 계면활성제(유화제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "PEG공통: 섭취시 간장, 신장 장애를 발생할 수 있으며, 알레르기 유발물질로 알려져 있다."
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Linalool",
+          "ewg": "3",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1675,
+          "is_allergy": true,
+          "is_twenty": false,
+          "korean": "리날룰",
+          "limitation": "해당 없음",
+          "purpose": "착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Eugenol",
+          "ewg": "3_5",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 4943,
+          "is_allergy": true,
+          "is_twenty": false,
+          "korean": "유제놀",
+          "limitation": "해당 없음",
+          "purpose": "착향제, 변성제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "d-Limonene, dl-Limonene, Limonene",
+          "ewg": "4_6",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "금지 (과산화물가가 20mmol/L을 초과하는 d-리모넨;과산화물가가 20mmol/L을 초과하는 ㎗-리모넨;과산화물가가 20mmol/L을 초과하는 ℓ-리모넨)",
+          "id": 1686,
+          "is_allergy": true,
+          "is_twenty": false,
+          "korean": "d-리모넨, ㎗-리모넨, 리모넨",
+          "limitation": "해당 없음",
+          "purpose": "용제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Amyl Cinnamal",
+          "ewg": null,
+          "ewg_data_availability_text": "해당 없음",
+          "forbidden": "해당 없음",
+          "id": 3916,
+          "is_allergy": true,
+          "is_twenty": false,
+          "korean": "아밀신남알",
+          "limitation": "해당 없음",
+          "purpose": "착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hexyl Cinnamal",
+          "ewg": "3",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 8078,
+          "is_allergy": true,
+          "is_twenty": false,
+          "korean": "헥실신남알, 헥실신나몰(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.56862735748291,
+        "productIndex": 1886544,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9163860/9163860_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9163860/9163860_0_0.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9163860/9163860_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9163860/9163860_0_1.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9163860
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9065625/9065625_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9065625/9065625_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9065625
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8445503/8445503_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8445503/8445503_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 8445503
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8311034/8311034_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8311034/8311034_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 8311034
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8304116/8304116_1_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8304116/8304116_1_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 8304116
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8219947/8219947_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8219947/8219947_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 8219947
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7721061/7721061_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7721061/7721061_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 7721061
+          }
+        ],
+        "totalCount": 51,
+        "totalImageCount": 41
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 51,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          0,
+          1,
+          4,
+          11,
+          35
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "2003",
+          "atopy": false,
+          "badText": "싼 가격에 사서 너무 좋고 근데 향이 막 엄청 오래 가지는 않아요!",
+          "blind": 0,
+          "brand": "미샤 (MISSHA)",
+          "commentCount": 0,
+          "encryptedProductId": "0b4b6034019e962d58fd50dd90b961de",
+          "gender": "남성",
+          "goodText": "은은하니 냄새 너무 좋아요! 강렬하지도 않아서 더 좋고요",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1723999376,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1886544/1886544_20220801000000.jpg",
+          "productIndex": 1886544,
+          "productName": "데어 바디 미스트 [양재꽃시장]",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9277478,
+          "sensitive": false,
+          "skinType": "건성",
+          "trouble": false,
+          "updateTime": 1723999376,
+          "usePeriod": 0,
+          "userId": "9972898",
+          "userImageUrl": "https://img.hwahae.co.kr/users/profiles/9972898/9972898_20240715172449.png",
+          "userName": "집에서쉬어요",
+          "userPhotoToken": 0,
+          "userReviewCount": 50
+        },
+        {
+          "additionText": "",
+          "age": "1999",
+          "atopy": false,
+          "badText": "🌹지속력\n지속력이 나쁜 편이에요 향기가 오래 지속되지가 않아요",
+          "blind": 0,
+          "brand": "미샤 (MISSHA)",
+          "commentCount": 0,
+          "encryptedProductId": "0b4b6034019e962d58fd50dd90b961de",
+          "gender": "여성",
+          "goodText": "🌹향기가 좋아요\n이름대로 꽃시장에 온 것 같은 향이 나고 풀잎향도 같이 섞여나서 더 좋았어요\n🌹 디자인\n개인적으로 디자인도 예뻐서 마음에 들어요",
+          "images": [
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/9163860/9163860_0_0.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/9163860/9163860_0_0.png?size=120x120",
+              "type": "기타"
+            },
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/9163860/9163860_0_1.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/9163860/9163860_0_1.png?size=120x120",
+              "type": "기타"
+            }
+          ],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1719298860,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1886544/1886544_20220801000000.jpg",
+          "productIndex": 1886544,
+          "productName": "데어 바디 미스트 [양재꽃시장]",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9163860,
+          "sensitive": false,
+          "skinType": "복합성",
+          "trouble": false,
+          "updateTime": 1719298860,
+          "usePeriod": 0,
+          "userId": "10242174",
+          "userImageUrl": null,
+          "userName": "gardem",
+          "userPhotoToken": 0,
+          "userReviewCount": 26
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "b216ecc3-e31b-4654-aec3-0f66b3298e43",
+        "is_positive": false,
+        "name": "지속력안좋은",
+        "review_count": 26,
+        "score": 10.919,
+        "sentence": "지속력이 안 좋아요"
+      },
+      {
+        "id": "8021559e-eb14-44da-9cd9-bdcbed4d7aa7",
+        "is_positive": false,
+        "name": "향지속잘되지않는",
+        "review_count": 17,
+        "score": 8.289,
+        "sentence": "향이 잘 지속되지 않아요"
+      },
+      {
+        "id": "f2593a59-49ee-418c-a4c5-02a4a42fc231",
+        "is_positive": false,
+        "name": "안개분사되는",
+        "review_count": 1,
+        "score": 2.03,
+        "sentence": "안개 분사가 잘 돼요"
+      },
+      {
+        "id": "df25e137-3229-4f31-9cf6-1d0a1f4148ab",
+        "is_positive": false,
+        "name": "답답한",
+        "review_count": 1,
+        "score": 1.574,
+        "sentence": "답답해요"
+      },
+      {
+        "id": "b20d0b04-72eb-4b10-951c-d7ec5b0fde72",
+        "is_positive": false,
+        "name": "알러지반응오는",
+        "review_count": 1,
+        "score": 1.029,
+        "sentence": "알러지 반응이 와요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "4852b08c-db6a-42ee-8fe0-855c9e540930",
+        "is_positive": true,
+        "name": "꽃향나는",
+        "review_count": 33,
+        "score": 25.861,
+        "sentence": "꽃 향이 나요"
+      },
+      {
+        "id": "eeebf9bd-7c7d-475d-8434-e6ad2cb8fe8e",
+        "is_positive": true,
+        "name": "향에만족한",
+        "review_count": 50,
+        "score": 4.941,
+        "sentence": "향에 만족해요"
+      },
+      {
+        "id": "ca7fffb5-1fcf-4d4d-8cb6-787ccffea39c",
+        "is_positive": true,
+        "name": "냄새가독하지않은",
+        "review_count": 5,
+        "score": 4.128,
+        "sentence": "냄새가 독하지 않아요"
+      },
+      {
+        "id": "ca00cfa3-3779-4f4c-96e9-118feec86b47",
+        "is_positive": true,
+        "name": "우드향나는",
+        "review_count": 2,
+        "score": 2.574,
+        "sentence": "우드 향이 나요"
+      },
+      {
+        "id": "8b54d1af-22dd-4334-818e-bfb5503af438",
+        "is_positive": true,
+        "name": "아로마향나는",
+        "review_count": 1,
+        "score": 1.625,
+        "sentence": "아로마 향이 나요"
+      },
+      {
+        "id": "791dea78-9fbd-4309-aa9e-0284a8910cd6",
+        "is_positive": true,
+        "name": "오래사용하는",
+        "review_count": 1,
+        "score": 1.39,
+        "sentence": "오래 사용해요"
+      },
+      {
+        "id": "9417764e-2743-4794-b45b-9a809c4c2515",
+        "is_positive": true,
+        "name": "분사잘되는",
+        "review_count": 2,
+        "score": 1.18,
+        "sentence": "분사가 잘 돼요"
+      }
+    ],
+    "relationGoodsData": [
+      {
+        "discount_price": 8100,
+        "discount_rate": 10,
+        "id": 15069,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/15069_06150412view.jpg",
+        "is_soldout": false,
+        "name": "데어 바디 미스트 [양재꽃시장] 105ml",
+        "original_price": 9000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 8100,
+        "discount_rate": 10,
+        "id": 15269,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/15269_06150125view.jpg",
+        "is_soldout": false,
+        "name": "데어 바디 미스트 [페어앤로즈] 105ml",
+        "original_price": 9000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 8100,
+        "discount_rate": 10,
+        "id": 15261,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/15261_06150146view.jpg",
+        "is_soldout": false,
+        "name": "데어 바디 미스트 [데어센트] 105ml",
+        "original_price": 9000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 8100,
+        "discount_rate": 10,
+        "id": 15243,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/15243_06150213view.jpg",
+        "is_soldout": false,
+        "name": "데어 바디 미스트 [깐자몽] 105ml",
+        "original_price": 9000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 8100,
+        "discount_rate": 10,
+        "id": 15188,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/15188_06150235view.jpg",
+        "is_soldout": false,
+        "name": "데어 바디 미스트 [5성급호텔침구] 105ml",
+        "original_price": 9000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 8100,
+        "discount_rate": 10,
+        "id": 14670,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/14670_06150450view.jpg",
+        "is_soldout": false,
+        "name": "데어 바디 미스트 [푹잠유도제] 105ml",
+        "original_price": 9000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 8100,
+        "discount_rate": 10,
+        "id": 14668,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/14668_06150510view.jpg",
+        "is_soldout": false,
+        "name": "데어 바디 미스트 [산타모니카해변] 105ml",
+        "original_price": 9000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "LMTSP"
+        ],
+        "stamp": null
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

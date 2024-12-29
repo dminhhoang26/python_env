@@ -1,0 +1,815 @@
+{
+    "pageProps": {
+        "session": null,
+        "productAwardsData": [],
+        "productGoodsPairData": {
+            "common": {
+                "avg_ratings": 4.36,
+                "review_count": 11,
+                "rank_descriptions": [
+                    "바디로션 -위",
+                    "바디워시 -위"
+                ],
+                "rankings": [
+                    {
+                        "rank": null,
+                        "category_code": "001:008:002",
+                        "category_name": "바디로션",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4410
+                    },
+                    {
+                        "rank": null,
+                        "category_code": "001:008:001",
+                        "category_name": "바디워시",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4409
+                    }
+                ]
+            },
+            "product": {
+                "id": 1889324,
+                "uid": "b56c9d03-4208-11ee-b457-0a737d0456c2",
+                "encrypted_product_id": "d8ca8c872c2fcfeab12472560e0a50b6",
+                "image_url": "https://img.hwahae.co.kr/products/1889324/1889324_20240119162921.jpg",
+                "obsolete": false,
+                "is_favorite": false,
+                "buy_info": "400ml / 18,000원",
+                "name": "퓨어 올리브 오일 너리싱 바디로션",
+                "product_type": 1,
+                "brand": {
+                    "id": 1814,
+                    "name": "달란디올리브",
+                    "full_name": "달란디올리브 (dalan.d'Olive)",
+                    "image_url": "https://img.hwahae.co.kr/brands/1814/1814_20230405140512.png"
+                },
+                "food_product_info": null,
+                "categories": [
+                    {
+                        "code": "001:008:002",
+                        "name": "바디로션"
+                    }
+                ]
+            },
+            "goods": {
+                "id": 60939,
+                "type": "NORMAL",
+                "partner": {
+                    "id": 4388,
+                    "name": "달란디올리브 공식몰",
+                    "image_url": "https://img.hwahae.co.kr/commerce/cover/20230329/20230329112318396_002.jpg"
+                },
+                "sale_status": "SELNG",
+                "title_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20240306_092653_%EB%8B%AC%EB%9E%802-001.jpg"
+                ],
+                "detail_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20240306_093506_%EC%98%AC%EB%A6%AC%EB%B8%8C%ED%93%A8%EC%96%B4%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%A4%EC%9D%BC%EB%84%88%EB%A6%AC%EC%8B%B1%EB%B0%94%EB%94%94%EB%93%80%EC%98%A411.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240306_093508_%EC%98%AC%EB%A6%AC%EB%B8%8C%ED%93%A8%EC%96%B4%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%A4%EC%9D%BC%EB%84%88%EB%A6%AC%EC%8B%B1%EB%B0%94%EB%94%94%EB%93%80%EC%98%A422.jpg"
+                ],
+                "short_notice": null,
+                "primal_badges": [],
+                "secondary_badges": [
+                    "FREDV",
+                    "LMTSP"
+                ],
+                "name": "퓨어 올리브 너리싱 샤워젤 400ml+너리싱 바디로션 400ml",
+                "discount_rate": 45,
+                "consumer_price": 46000,
+                "price": 25000,
+                "estimated_rewards": {
+                    "purchase": 250,
+                    "review_write": 2000,
+                    "review_photo": 200
+                },
+                "description_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20240306_093506_%EC%98%AC%EB%A6%AC%EB%B8%8C%ED%93%A8%EC%96%B4%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%A4%EC%9D%BC%EB%84%88%EB%A6%AC%EC%8B%B1%EB%B0%94%EB%94%94%EB%93%80%EC%98%A411.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240306_093508_%EC%98%AC%EB%A6%AC%EB%B8%8C%ED%93%A8%EC%96%B4%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%A4%EC%9D%BC%EB%84%88%EB%A6%AC%EC%8B%B1%EB%B0%94%EB%94%94%EB%93%80%EC%98%A422.jpg"
+                ],
+                "notice_images": [],
+                "delivery_price": "무료배송",
+                "delivery_free_condition": null,
+                "delivery_additional_price": "제주 3,000원, 그 외 도서산간지역 3,000원 추가",
+                "delivery_company": "로젠택배",
+                "ask_count": 0,
+                "wish_index": null,
+                "has_related_goods": true,
+                "has_applicable_coupon": false,
+                "capacity": "400ml + 400ml",
+                "gift": {
+                    "name": "핸드크림 20ml 증정",
+                    "image_url": null
+                },
+                "option_id": 1437223,
+                "available_stockcnt": 19,
+                "max_purchase_count": null,
+                "min_purchase_count": 1,
+                "is_promotion_set": true,
+                "stamp": null
+            }
+        },
+        "relationGoodsData": [
+            {
+                "id": 60939,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20240306_092653_%EB%8B%AC%EB%9E%802-001.jpg",
+                "name": "퓨어 올리브 너리싱 샤워젤 400ml+너리싱 바디로션 400ml",
+                "discount_rate": 45,
+                "discount_price": 25000,
+                "original_price": 46000,
+                "primal_badges": [],
+                "secondary_badges": [
+                    "FREDV",
+                    "LMTSP"
+                ],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 59723,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20240122_111450_%EC%9D%B8%ED%85%90%EC%8B%9C%EB%B8%8C%ED%95%B8%EB%93%9C%ED%81%AC%EB%A6%BC150ml_1000_1.jpg",
+                "name": "리퍼레티브 인텐시브 케어 크림 150ml",
+                "discount_rate": 25,
+                "discount_price": 11250,
+                "original_price": 15000,
+                "primal_badges": [],
+                "secondary_badges": [
+                    "FREDV",
+                    "LMTSP"
+                ],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 52383,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20240906_142532_001.jpg",
+                "name": "퓨어 올리브 리페러티브 바디 오일 200ml",
+                "discount_rate": 40,
+                "discount_price": 14400,
+                "original_price": 24000,
+                "primal_badges": [
+                    "GIFTS"
+                ],
+                "secondary_badges": [
+                    "FREDV",
+                    "LMTSP"
+                ],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 57063,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20231024_090043_dksjfke.jpg",
+                "name": "핸드크림 2종 기획 (인텐시브 핸드크림 20ml+너리싱 핸드크림 75ml)",
+                "discount_rate": 31,
+                "discount_price": 5500,
+                "original_price": 8000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 52376,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20230511_154103_%EC%9D%B8%ED%85%90%EC%8B%9C%EB%B8%8C%ED%95%B8%EB%93%9C%ED%81%AC%EB%A6%BC60ml_1000.jpg",
+                "name": "인텐시브 케어 크림 60ml",
+                "discount_rate": 44,
+                "discount_price": 3900,
+                "original_price": 7000,
+                "primal_badges": [],
+                "secondary_badges": [
+                    "LMTSP"
+                ],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            }
+        ],
+        "targetSaleEventNoticeData": {
+            "notice_lines": []
+        },
+        "sampleSurveysByProductData": null,
+        "productTopicsNegative": [
+            {
+                "id": "a2df38c3-18c8-41d3-bd85-9b9cab70541e",
+                "name": "뻑뻑한",
+                "sentence": "뻑뻑해요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 4.036
+            },
+            {
+                "id": "9b4fe188-8c25-43e1-90ee-df097aeac40d",
+                "name": "잘안발리는",
+                "sentence": "잘 안 발려요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 2.908
+            }
+        ],
+        "productTopicsPositive": [
+            {
+                "id": "4b128485-416f-450d-976f-f76333e765a6",
+                "name": "뽀송한",
+                "sentence": "뽀송해요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 2.599
+            },
+            {
+                "id": "92d57f14-7b9e-4aa6-891e-a9de295cc2fc",
+                "name": "끈적하지않은",
+                "sentence": "끈적하지 않아요",
+                "is_positive": true,
+                "review_count": 2,
+                "score": 2.162
+            },
+            {
+                "id": "710ac0c3-f827-49e2-9f25-fa7483276a8e",
+                "name": "가벼운",
+                "sentence": "가벼워요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 1.693
+            },
+            {
+                "id": "548ce955-84ae-4a09-aa67-6cecb6827133",
+                "name": "보습잘되는",
+                "sentence": "보습이 잘 돼요",
+                "is_positive": true,
+                "review_count": 2,
+                "score": 0.976
+            },
+            {
+                "id": "41b586b2-dcba-44b9-bb39-59ff76505d83",
+                "name": "수분있는",
+                "sentence": "수분이 있어요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 0.763
+            },
+            {
+                "id": "3a3ba442-fda7-4baa-9ec8-a9ce19af82f9",
+                "name": "향에만족한",
+                "sentence": "향에 만족해요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 0.541
+            }
+        ],
+        "productReviewSummaryData": {
+            "productMetaData": {
+                "productIndex": 1889324,
+                "avgRatings": 5,
+                "reviewImageArray": [
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9205710/9205710_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9205710/9205710_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 9205710
+                    }
+                ],
+                "totalCount": 2,
+                "totalImageCount": 1
+            },
+            "reviewList": [
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "한번 펌프했을 때 나오는 양이 적어서 여러번 해야해요ㅠㅜ",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 5,
+                    "likeCount": 1,
+                    "productName": "퓨어 올리브 오일 너리싱 바디로션",
+                    "isCheckingReview": false,
+                    "skinType": "건성",
+                    "modifyTime": 1721011847,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "달란디올리브 (dalan.d'Olive)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1889324/1889324_20240119162921.jpg",
+                    "images": [
+                        {
+                            "thumbnail": "https://img.hwahae.co.kr/reviews/9205710/9205710_0_0.png?size=120x120",
+                            "origin": "https://img.hwahae.co.kr/reviews/9205710/9205710_0_0.png",
+                            "type": "기타"
+                        }
+                    ],
+                    "productIndex": 1889324,
+                    "usePeriod": 0,
+                    "atopy": true,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1721011847,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "s_yi",
+                    "userId": "2572676",
+                    "userReviewCount": 6,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "끈적이지 않고 가벼운 느낌이에요~ 여름에 바르지 좋아요~ 저는 건조한 타입이라 겨울에는 어떨지 잘 모르겠지만 우선 잘 사용하고 있어요!",
+                    "encryptedProductId": "d8ca8c872c2fcfeab12472560e0a50b6",
+                    "reviewId": 9205710,
+                    "age": "1993",
+                    "isAdvertising": false
+                },
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "끈적임을 싫어하시는 분들에게는 아주 강점일 수 있으나,\n발림성이 조금 뻑뻑한 느낌이라 선호하지 않는 분들이 있을 수도..!\n저는 요거 쓰다가 니베아 제품 구입해서 써보니까\n니베아가 너무 부드럽게 발려서 살짝 놀라긴 했어요..ㅋㅋㅋ",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 5,
+                    "likeCount": 1,
+                    "productName": "퓨어 올리브 오일 너리싱 바디로션",
+                    "isCheckingReview": false,
+                    "skinType": "수부지",
+                    "modifyTime": 1635384028,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "달란디올리브 (dalan.d'Olive)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1889324/1889324_20240119162921.jpg",
+                    "images": [],
+                    "productIndex": 1889324,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1635384028,
+                    "isAdmin": false,
+                    "sensitive": false,
+                    "userName": "에에우너",
+                    "userId": "7717597",
+                    "userReviewCount": 75,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "제품 자체는 너무 좋은데 가격대가 좀 있기도 하고,\n개인적으로 바디용은 부드럽게 발리는 걸 좋아해서\n핸드크림으로 쓰고 있습니다! 용량이 커서 매우 좋습니다",
+                    "goodText": "달란 핸드크림의 바디로션 버전이에요\n향도 거의 똑같고 발림성도 비슷해서 놀랐어요!\n달란 핸드크림 발랐을 때 약간 뻑뻑하게 발리면서 끈적임 전혀 없이 보송하게 마무리되는데 보습감은 꽉 채워줘서 신기했는데,\n이 제품도 똑같은 느낌입니다\n발랐을 때 전혀 끈적이지 않고 바로 촉촉보송 해지는 신기한 느낌..!\n향도 핸드크림 향과 비슷하게 진하고 좋습니다\n저는 매우 호인데, 호불호는 조금 갈리는 향인듯 하니 테스트 해보고 사시는 걸 추천..!",
+                    "encryptedProductId": "d8ca8c872c2fcfeab12472560e0a50b6",
+                    "reviewId": 6803032,
+                    "age": "1996",
+                    "isAdvertising": false
+                }
+            ],
+            "productReviewMetaData": {
+                "reviewRatings": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    2
+                ],
+                "filterTotalCount": 2,
+                "limitedReviewNumber": 0,
+                "reviewKeywordList": []
+            }
+        },
+        "productIngredientInfoData": {
+            "product_type": 1,
+            "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+            "purpose_default_order": [
+                {
+                    "group_code": "IPGC_01",
+                    "group_name": "피부 보습"
+                },
+                {
+                    "group_code": "IPGC_02",
+                    "group_name": "수분 증발 차단"
+                },
+                {
+                    "group_code": "IPGC_03",
+                    "group_name": "피부 보호"
+                },
+                {
+                    "group_code": "IPGC_04",
+                    "group_name": "수렴 진정"
+                },
+                {
+                    "group_code": "IPGC_05",
+                    "group_name": "각질 제거"
+                },
+                {
+                    "group_code": "IPGC_06",
+                    "group_name": "피부 미백"
+                },
+                {
+                    "group_code": "IPGC_07",
+                    "group_name": "여드름 완화"
+                },
+                {
+                    "group_code": "IPGC_08",
+                    "group_name": "자외선 차단"
+                },
+                {
+                    "group_code": "IPGC_09",
+                    "group_name": "주름 개선"
+                }
+            ],
+            "ingredients": [
+                {
+                    "id": 5321,
+                    "korean": "정제수, 증류수, 물",
+                    "english": "Water, Aqua, Distilled Water, Purified Water",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 481,
+                    "korean": "글리세릴스테아레이트, 혼합글리세릴스테아레이트",
+                    "english": "Glyceryl Stearates",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(유연제), 계면활성제(유화제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3006,
+                    "korean": "세테아레스-20",
+                    "english": "Ceteareth-20",
+                    "ewg": "1_3",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "계면활성제(용해보조제), 계면활성제(세정제)",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3001,
+                    "korean": "세테아레스-12",
+                    "english": "Ceteareth-12",
+                    "ewg": "1_3",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "계면활성제(유화제)",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3029,
+                    "korean": "세테아릴알코올",
+                    "english": "Cetearyl Alcohol, Cetostearyl Alcohol",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "유화안정제, 점도증가제(수용성), 점도증가제(비수용성), 불투명화제, 계면활성제(거품형성제)",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3065,
+                    "korean": "세틸팔미테이트",
+                    "english": "Cetyl Palmitate",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "수분증발차단제, 향료",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1203,
+                    "korean": "다이카프릴릴카보네이트, 디카프릴릴카보네이트(구명칭)",
+                    "english": "Dicaprylyl Carbonate",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(유연제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5619,
+                    "korean": "카프릴릭/카프릭트라이글리세라이드, 카프릴릭/카프릭트리글리세라이드(구명칭)",
+                    "english": "Caprylic/Capric Triglyceride",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 착향제, 피부컨디셔닝제(수분차단제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3493,
+                    "korean": "시어버터, 쉐어버터(구명칭)",
+                    "english": "Butyrospermum Parkii (Shea) Butter",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "bo;gd",
+                    "skin_remark_good": "보습력 증가",
+                    "skin_remark_bad": "여드름 유발",
+                    "purpose": "피부컨디셔닝제(수분차단제), 점도증가제(비수성), 피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 980,
+                    "korean": "다이메티콘, 디메치콘(구명칭)",
+                    "english": "Dimethicone",
+                    "ewg": "2_4",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "기포방지제/소포제, 용제, 피부컨디셔닝제(수분차단제), 피부보호제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4797,
+                    "korean": "올리브오일",
+                    "english": "Olea Europaea (Olive) Fruit Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 459,
+                    "korean": "글리세린",
+                    "english": "Glycerin, Glycerol",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gd",
+                    "skin_remark_good": "보습력 증가",
+                    "skin_remark_bad": null,
+                    "purpose": "보습제, 피부보호제, 변성제, 점도감소제, 피부컨디셔닝제(보습제), 헤어컨디셔닝제, 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 8030,
+                    "korean": "향료",
+                    "english": "Fragrance, Parfum, Aroma",
+                    "ewg": "8",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": true,
+                    "twenty_detail": "향을 유발하는 성분을 통칭해 향료로 표기하기에 실체를 정확히 알 수 없다. 두통, 현기증, 발진, 색소침착, 기관지 자극을 유발한다고 알려져 있다.",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "감미제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 6462,
+                    "korean": "페녹시에탄올",
+                    "english": "Phenoxyethanol",
+                    "ewg": "2_4",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": true,
+                    "twenty_detail": "파라벤과 함께 많이 사용되는 방부제로 피부 자극을 유발하며 체내 흡수시 마취작용을 하는 것으로 알려져 있다.",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "보존제, 착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "1.00%",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4493,
+                    "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+                    "english": "Ethylhexylglycerin",
+                    "ewg": "2",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                }
+            ],
+            "sub_product_ingredients": null
+        },
+        "goodsProductsData": [
+            {
+                "product": {
+                    "index": 1889324,
+                    "name": "퓨어 올리브 오일 너리싱 바디로션",
+                    "encrypted_product_id": "d8ca8c872c2fcfeab12472560e0a50b6",
+                    "image_url": "https://img.hwahae.co.kr/products/1889324/1889324_20240119162921.jpg"
+                },
+                "need_review": null
+            },
+            {
+                "product": {
+                    "index": 1889319,
+                    "name": "퓨어 올리브 오일 샤워젤 [너리싱]",
+                    "encrypted_product_id": "860059c09f2f1760b16db33ae95b2ece",
+                    "image_url": "https://img.hwahae.co.kr/products/1889319/1889319_20220801000000.jpg"
+                },
+                "need_review": null
+            }
+        ],
+        "goodsProductsCommonData": {
+            "avg_ratings": 5,
+            "review_count": 2,
+            "rank_descriptions": [
+                "바디로션 -위"
+            ],
+            "rankings": [
+                {
+                    "rank": null,
+                    "category_code": "001:008:002",
+                    "category_name": "바디로션",
+                    "root_category_name": "일반",
+                    "attribute_name": null,
+                    "ranking_id": 1,
+                    "preview_ranking_id": 4410
+                }
+            ]
+        }
+    },
+    "__N_SSP": true
+}

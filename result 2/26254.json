@@ -1,0 +1,866 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.11,
+        "rank_descriptions": [
+          "스킨/토너 ・ 진정 60위",
+          "스킨/토너 -위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": "진정",
+            "category_code": "001:001:001",
+            "category_name": "스킨/토너",
+            "preview_ranking_id": 4158,
+            "rank": 60,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:001:001",
+            "category_name": "스킨/토너",
+            "preview_ranking_id": 4156,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 79
+      },
+      "goods": {
+        "ask_count": 8,
+        "available_stockcnt": 9928,
+        "capacity": "200ml",
+        "consumer_price": 21000,
+        "delivery_additional_price": "제주, 도서산간지역 0원 추가",
+        "delivery_company": "우체국택배",
+        "delivery_free_condition": "30,000원 이상 구매 시 무료",
+        "delivery_price": "3,000원",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20240902_135006_%ED%99%94%ED%95%B4_240829_%EB%B2%A0%EB%B2%A0%EB%8D%94%EC%98%A4%EB%A6%AC-%ED%82%A4%EB%A7%81-GWP-%EC%95%88%EB%82%B4%ED%8E%98%EC%9D%B4%EC%A7%80.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230824_112314_%ED%99%94%ED%95%B4230823-%EB%84%A4%EC%9D%B4%EB%B2%84_GF%EC%86%94%EB%A3%A8%EC%85%98_%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%9E%AC%EA%B3%A0-%EC%B6%9C%EA%B3%A0-%EC%95%88%EB%82%B4_%EB%B0%B0%EB%84%88.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230511_112704_230508-%EC%9E%90%EC%82%AC%EB%AA%B0_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%83%81%EB%8B%A8%EB%B0%B0%EB%84%88_GF%EC%86%94%EB%A3%A8%EC%85%98_720.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181002_%ED%99%94%ED%95%B4%EC%9A%A9%20231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_1_full_001.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181005_%ED%99%94%ED%95%B4%EC%9A%A9%20231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_1_full_002.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181008_%ED%99%94%ED%95%B4%EC%9A%A9%20231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_1_full_003.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181012_%ED%99%94%ED%95%B4%EC%9A%A9%20231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_1_full_004.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181017_%ED%99%94%ED%95%B4%EC%9A%A9231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_2_full_001.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181021_%ED%99%94%ED%95%B4%EC%9A%A9231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_2_full_002.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181024_%ED%99%94%ED%95%B4%EC%9A%A9231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_2_full_003.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181028_%ED%99%94%ED%95%B4%EC%9A%A9231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_2_full_004.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20240902_135006_%ED%99%94%ED%95%B4_240829_%EB%B2%A0%EB%B2%A0%EB%8D%94%EC%98%A4%EB%A6%AC-%ED%82%A4%EB%A7%81-GWP-%EC%95%88%EB%82%B4%ED%8E%98%EC%9D%B4%EC%A7%80.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230824_112314_%ED%99%94%ED%95%B4230823-%EB%84%A4%EC%9D%B4%EB%B2%84_GF%EC%86%94%EB%A3%A8%EC%85%98_%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%9E%AC%EA%B3%A0-%EC%B6%9C%EA%B3%A0-%EC%95%88%EB%82%B4_%EB%B0%B0%EB%84%88.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230511_112704_230508-%EC%9E%90%EC%82%AC%EB%AA%B0_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%83%81%EB%8B%A8%EB%B0%B0%EB%84%88_GF%EC%86%94%EB%A3%A8%EC%85%98_720.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181002_%ED%99%94%ED%95%B4%EC%9A%A9%20231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_1_full_001.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181005_%ED%99%94%ED%95%B4%EC%9A%A9%20231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_1_full_002.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181008_%ED%99%94%ED%95%B4%EC%9A%A9%20231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_1_full_003.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181012_%ED%99%94%ED%95%B4%EC%9A%A9%20231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_1_full_004.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181017_%ED%99%94%ED%95%B4%EC%9A%A9231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_2_full_001.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181021_%ED%99%94%ED%95%B4%EC%9A%A9231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_2_full_002.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181024_%ED%99%94%ED%95%B4%EC%9A%A9231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_2_full_003.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20231229_181028_%ED%99%94%ED%95%B4%EC%9A%A9231229_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C-2.5-%EC%86%94%EB%A3%A8%EC%85%98_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80_2_full_004.jpg"
+        ],
+        "discount_rate": 29,
+        "estimated_rewards": {
+          "purchase": 149,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": false,
+        "id": 26254,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "그린 플라보노이드 2.5 솔루션 200ml",
+        "notice_images": [],
+        "option_id": 1558386,
+        "partner": {
+          "id": 184,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/20220926_104014_220926-%ED%99%94%ED%95%B4_%EB%A6%AC%EB%B8%8C%EB%9E%9C%EB%94%A9-%EB%A1%9C%EA%B3%A0.jpg",
+          "name": "더랩바이블랑두 공식몰"
+        },
+        "price": 14900,
+        "primal_badges": [
+          "GIFTS"
+        ],
+        "sale_status": "SELNG",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/210708_114207_%EA%B7%B8%EB%A6%B0-%ED%94%8C%EB%9D%BC%EB%B3%B4%EB%85%B8%EC%9D%B4%EB%93%9C_%EC%86%94%EB%A3%A8%EC%85%98_1000.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "더랩바이블랑두 (THELABbyblancdoux)",
+          "id": 8983,
+          "image_url": "https://img.hwahae.co.kr/brands/8983/8983_20240226111037.png",
+          "name": "더랩바이블랑두"
+        },
+        "buy_info": "200ml / 21,000원",
+        "categories": [
+          {
+            "code": "001:001:001",
+            "name": "스킨/토너"
+          }
+        ],
+        "encrypted_product_id": "94ce7071e041e1cb0d703c1168ac359b",
+        "food_product_info": null,
+        "id": 1949251,
+        "image_url": "https://img.hwahae.co.kr/products/1949251/1949251_20220801000000.jpg",
+        "is_favorite": false,
+        "name": "그린 플라보노이드 2.5 솔루션",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "b79f0a79-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Methylpropanediol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1956,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "메틸프로판다이올, 메칠프로판디올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Butylene Glycol, 1,3-Butylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2454,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제, 피부컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "1,2-Hexanediol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "1,2-헥산다이올, 1,2-헥산디올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Propanediol",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 7001,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "프로판다이올, 프로판디올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycerin, Glycerol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 459,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세린",
+          "limitation": "해당 없음",
+          "purpose": "변성제, 피부보호제, 피부컨디셔닝제(보습제), 점도감소제, 헤어컨디셔닝제, 착향제, 보습제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "보습력 증가",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Portulaca Oleracea Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1775,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "쇠비름추출물, 마치현추출물(구명칭), 포츌라카올레라세아추출물(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Citrus Unshiu Peel Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 380,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "귤껍질추출물, 진피추출물",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glucosyl Hesperidin",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 429,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글루코실헤스페리딘",
+          "limitation": "해당 없음",
+          "purpose": "보습제, 피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Centella Asiatica Extract, Hydrocotyl (Centella Asiatica) Extract, Centella Asiatica (Gotu Kola) Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2386,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "병풀추출물",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ficus Carica (Fig) Fruit Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2069,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "무화과추출물",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydrogenated Lecithin",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7639,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드로제네이티드레시틴",
+          "limitation": "해당 없음",
+          "purpose": "현탁화제(비계면활성제), 피부컨디셔닝제, 계면활성제(유화제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Citrate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 3251,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐시트레이트",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제, pH 조정제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ceramide NP, Ceramide 3(구명칭)",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2954,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "세라마이드엔피, 세라마이드3(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "헤어컨디셔닝제, 피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Citric Acid",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 3729,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "시트릭애씨드, 구연산",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제, pH 조정제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": "고농도일경우 피부자극",
+          "skin_remark_good": null,
+          "skin_type": "bs",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Disodium EDTA",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1096,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이소듐이디티에이, 디소듐이디티에이(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydroxyacetophenone",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 8572,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드록시아세토페논",
+          "limitation": "해당 없음",
+          "purpose": "산화방지제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ethylhexylglycerin",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4493,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.113924026489258,
+        "productIndex": 1949251,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9305112/9305112_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9305112/9305112_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9305112
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9273230/9273230_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9273230/9273230_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9273230
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9263309/9263309_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9263309/9263309_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9263309
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9093624/9093624_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9093624/9093624_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9093624
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8891835/8891835_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8891835/8891835_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 8891835
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8672406/8672406_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8672406/8672406_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 8672406
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8630320/8630320_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8630320/8630320_0_0.png?size=120x120",
+                "type": "사용전"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8630320/8630320_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8630320/8630320_0_1.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 8630320
+          }
+        ],
+        "totalCount": 79,
+        "totalImageCount": 30
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 79,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          5,
+          3,
+          7,
+          27,
+          37
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "1995",
+          "atopy": false,
+          "badText": "아쉬운점은 정말 없는데 굳이 뽑다면 대용량이 나왔으면 좋겠다.. 미스트도 내줬으면 좋겠다..?",
+          "blind": 0,
+          "brand": "더랩바이블랑두 (THELABbyblancdoux)",
+          "commentCount": 0,
+          "encryptedProductId": "94ce7071e041e1cb0d703c1168ac359b",
+          "gender": "여성",
+          "goodText": "매번 재구매해서 사용하고 있어요! 다시 구매하려고 들어온김에 작성해요:) 지성/트러블피부인데 정말 순하고 편하게 사용하고 있어요 유분없고 수분촉촉이라 강추입니다!!",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1729694680,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1949251/1949251_20220801000000.jpg",
+          "productIndex": 1949251,
+          "productName": "그린 플라보노이드 2.5 솔루션",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9435208,
+          "sensitive": true,
+          "skinType": "수부지",
+          "trouble": true,
+          "updateTime": 1729694680,
+          "usePeriod": 0,
+          "userId": "1643897",
+          "userImageUrl": "https://img.hwahae.co.kr/users/profiles/1643897/1643897_20230222050037.jpg",
+          "userName": "안뇽안뇽안뇽아",
+          "userPhotoToken": 2,
+          "userReviewCount": 18
+        },
+        {
+          "additionText": "",
+          "age": "2003",
+          "atopy": true,
+          "badText": "아쉬운점은 딱히 없었어요 굳이 뽑자면 뚜껑이 익숙치 않다는 것",
+          "blind": 0,
+          "brand": "더랩바이블랑두 (THELABbyblancdoux)",
+          "commentCount": 0,
+          "encryptedProductId": "94ce7071e041e1cb0d703c1168ac359b",
+          "gender": "여성",
+          "goodText": "피부에 자극되는 것도 없고 무난하니 잘 사용했습니다",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1726389634,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1949251/1949251_20220801000000.jpg",
+          "productIndex": 1949251,
+          "productName": "그린 플라보노이드 2.5 솔루션",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9352397,
+          "sensitive": true,
+          "skinType": "복합성",
+          "trouble": true,
+          "updateTime": 1726389634,
+          "usePeriod": 0,
+          "userId": "5263482",
+          "userImageUrl": null,
+          "userName": "찌은띠은",
+          "userPhotoToken": 0,
+          "userReviewCount": 25
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "d7bdfc34-f161-449d-a998-4202e2df5073",
+        "is_positive": false,
+        "name": "알러지반응오는",
+        "review_count": 6,
+        "score": 3.716,
+        "sentence": "알러지 반응이 와요"
+      },
+      {
+        "id": "c5a0d163-25e6-456c-8073-238bf9b370a4",
+        "is_positive": false,
+        "name": "가려운",
+        "review_count": 3,
+        "score": 3.224,
+        "sentence": "가려워요"
+      },
+      {
+        "id": "814b0811-08e5-4705-99db-0a68e2856510",
+        "is_positive": false,
+        "name": "흘러내리는",
+        "review_count": 4,
+        "score": 3.174,
+        "sentence": "흘러내려요"
+      },
+      {
+        "id": "180a3652-2f86-44d6-923c-04843090827a",
+        "is_positive": false,
+        "name": "유수분밸런스가맞지않는",
+        "review_count": 1,
+        "score": 1.462,
+        "sentence": "유수분 밸런스가 맞지 않아요"
+      },
+      {
+        "id": "5b5ea102-8d9b-4884-b0e3-b196744201da",
+        "is_positive": false,
+        "name": "인공향나는",
+        "review_count": 1,
+        "score": 0.956,
+        "sentence": "인공 향이 나요"
+      },
+      {
+        "id": "fb315fc0-22b3-454e-b331-a311909e1beb",
+        "is_positive": false,
+        "name": "따가운",
+        "review_count": 1,
+        "score": 0.73,
+        "sentence": "따가워요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "f85e1f3b-3131-4d20-8dc9-253e9b81ea7a",
+        "is_positive": true,
+        "name": "진정되는",
+        "review_count": 17,
+        "score": 9.34,
+        "sentence": "진정이 잘 돼요"
+      },
+      {
+        "id": "febbdc29-7e03-4185-a498-b60ba68af8e1",
+        "is_positive": true,
+        "name": "자극없는",
+        "review_count": 23,
+        "score": 6.519,
+        "sentence": "자극이 없어요"
+      },
+      {
+        "id": "065c9058-a7ef-4d5e-9980-2932b07423f9",
+        "is_positive": true,
+        "name": "보습잘되는",
+        "review_count": 12,
+        "score": 4.481,
+        "sentence": "보습이 잘 돼요"
+      },
+      {
+        "id": "4eaafa67-9d22-418f-9297-12ddd0f38084",
+        "is_positive": true,
+        "name": "편안해지는",
+        "review_count": 5,
+        "score": 4.452,
+        "sentence": "편안해져요"
+      },
+      {
+        "id": "57926ad4-1a6a-43d6-b32e-5662db340727",
+        "is_positive": true,
+        "name": "가벼운",
+        "review_count": 8,
+        "score": 4.416,
+        "sentence": "가벼워요"
+      },
+      {
+        "id": "88c91455-d0bb-4f38-b6d6-daf6aa4cca5e",
+        "is_positive": true,
+        "name": "흡수잘되는",
+        "review_count": 9,
+        "score": 3.954,
+        "sentence": "흡수가 잘 돼요"
+      },
+      {
+        "id": "e62c15e5-ac10-47b1-a526-ae6047bd85ff",
+        "is_positive": true,
+        "name": "산뜻한",
+        "review_count": 6,
+        "score": 3.881,
+        "sentence": "산뜻해요"
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

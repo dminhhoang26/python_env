@@ -1,0 +1,782 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [
+      {
+        "award_full_name": "2023 뷰티 어워드",
+        "award_id": 16,
+        "category_desc": "립/아이 리무버 4위",
+        "category_full_name": "일반 카테고리:클렌징/필링:립/아이 리무버",
+        "is_legacy": false,
+        "leaf_award_id": 16,
+        "product_id": 1873373
+      },
+      {
+        "award_full_name": "2022 화해 뷰티 어워드",
+        "award_id": 41,
+        "category_desc": "립/아이 리무버 9위",
+        "category_full_name": "일반 카테고리:클렌징/필링:립/아이 리무버",
+        "is_legacy": true,
+        "leaf_award_id": null,
+        "product_id": 1873373
+      }
+    ],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.76,
+        "rank_descriptions": [
+          "립/아이 리무버 6위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": null,
+            "category_code": "001:002:008",
+            "category_name": "립/아이 리무버",
+            "preview_ranking_id": 4215,
+            "rank": 6,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 482
+      },
+      "goods": {
+        "ask_count": 35,
+        "available_stockcnt": 472,
+        "capacity": "8.5g",
+        "consumer_price": 12000,
+        "delivery_additional_price": "제주 3,000원, 그 외 도서산간지역 3,000원 추가",
+        "delivery_company": "한진택배",
+        "delivery_free_condition": "10,000원 이상 구매 시 무료",
+        "delivery_price": "2,500원",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20220628_145726_%EB%A7%88%EB%A6%AC2222.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20220628_145726_%EB%A7%88%EB%A6%AC2222.jpg"
+        ],
+        "discount_rate": 50,
+        "estimated_rewards": {
+          "purchase": 60,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": false,
+        "id": 34486,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "킬래쉬 마스카라 리무버 8.5g",
+        "notice_images": [],
+        "option_id": 1491612,
+        "partner": {
+          "id": 181,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/20231114/20231114120705220_커버버.jpg",
+          "name": "클럽클리오 공식몰"
+        },
+        "price": 6000,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20220628_150006_%EB%A7%88%EB%A6%AC%EB%88%84%EB%81%BC.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "클리오 (CLIO)",
+          "id": 137,
+          "image_url": "https://img.hwahae.co.kr/brands/137/137_20230405140512.png",
+          "name": "클리오"
+        },
+        "buy_info": "8.5g / 12,000원",
+        "categories": [
+          {
+            "code": "001:002:008",
+            "name": "립/아이 리무버"
+          }
+        ],
+        "encrypted_product_id": "1c6644bb5e0e2226ae92be6cf6a62938",
+        "food_product_info": null,
+        "id": 1873373,
+        "image_url": "https://img.hwahae.co.kr/products/1873373/1873373_20220801000000.jpg",
+        "is_favorite": false,
+        "name": "킬래쉬 마스카라 리무버",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "b4bc13af-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Isododecane",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 5014,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "아이소도데케인, 이소도데칸(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydrogenated Polydecene",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7706,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드로제네이티드폴리데센",
+          "limitation": "해당 없음",
+          "purpose": "향료, 피부컨디셔닝제, 피부컨디셔닝제(유연제), 용제, 헤어컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Cetyl Ethylhexanoate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 3057,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "세틸에틸헥사노에이트, 세틸에칠헥사노에이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제(유연제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Isohexadecane",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 5107,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "아이소헥사데칸, 이소헥사데칸(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제(유연제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Dextrin Palmitate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 867,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "덱스트린팔미테이트",
+          "limitation": "해당 없음",
+          "purpose": "안티케이킹제, 계면활성제(유화제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "C13-15 Alkane (Plant Derived)",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 12496,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "식물유래C13-15알케인",
+          "limitation": "해당 없음",
+          "purpose": null,
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Persea Gratissima (Avocado) Oil",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 3922,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "아보카도오일",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(수분차단제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "수분 증발 방지",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydrolyzed Keratin",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7923,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드롤라이즈드케라틴",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 헤어컨디셔닝제, 네일컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycine Max (Soybean) Seed Extract, Glycine Soja (Soybean) Seed Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 12798,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "검정콩추출물",
+          "limitation": "해당 없음",
+          "purpose": "헤어컨디셔닝제, 피부보호제, 피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            },
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glyceryl Caprylate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 501,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세릴카프릴레이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(유연제), 계면활성제(유화제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Panthenol, D Panthenol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6380,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "판테놀, 디판테놀",
+          "limitation": "해당 없음",
+          "purpose": "용제, 헤어컨디셔닝제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "컨디셔닝",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Butylene Glycol, 1,3-Butylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2454,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제, 피부컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Pentylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6535,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "펜틸렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.759335994720459,
+        "productIndex": 1873373,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9455606/9455606_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9455606/9455606_0_0.png?size=120x120",
+                "type": "사용전"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9455606/9455606_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9455606/9455606_0_1.png?size=120x120",
+                "type": "사용후"
+              }
+            ],
+            "reviewId": 9455606
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9447770/9447770_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9447770/9447770_0_0.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9447770/9447770_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9447770/9447770_0_1.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9447770/9447770_0_2.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9447770/9447770_0_2.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9447770
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9430180/9430180_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9430180/9430180_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9430180
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9385816/9385816_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9385816/9385816_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9385816
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9385284/9385284_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9385284/9385284_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 9385284
+          }
+        ],
+        "totalCount": 482,
+        "totalImageCount": 349
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 482,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          4,
+          1,
+          8,
+          81,
+          388
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "1970",
+          "atopy": true,
+          "badText": "양조절을 못해\n눈에 들어가면 정말 따가워요\n입구에서 양조절 잘해주세요",
+          "blind": 0,
+          "brand": "클리오 (CLIO)",
+          "commentCount": 0,
+          "encryptedProductId": "1c6644bb5e0e2226ae92be6cf6a62938",
+          "gender": "여성",
+          "goodText": "1. 물론 이친구보다 더 잘 지워지는 \n유명한 키스미 하늘색마스카라 리무버가 있다는 것도 \n인정해요 그런 친구를 올영세일때 몇개씩 쟁여서 쓰기도 했지만..\n\n나이가 드니 자꾸 남겨둔 한개를 \n어따 두었는지 \n까먹고 잊어버려서\n쟁이는거 안하기로 맘먹고 나서부터\n\n좋은거는 계속 나오는데.. \n하나씩만 사자..그런 코덕인생 살기로 했거든요 \n\n2. 그러다보니 얘가 눈에 들어왔어요 \n\n얘는 분명 가성비템인게..\n클럽 클리오에서 항상 50%할인된 가격으로 살수 있고\n포인트로도 싸게 사며\n만원이상이면 무료배송\n\n3. 쓱쓱 발라놓고\n5분만 있다가\n무적으로 지워내는 \n마몽드 클렌징밤으로 한꺼번에 문질러지워내기만 하면 끝!\n\n정말 아무문제가 없어요\n\n4. 가장 좋았던 점은 \n키스미 하늘색 마스카라리무버는 솔이 직선형인데\n이 친구는 각도가 약간 꺾여있어서 \n바르기 더 편하다는 점..\n\n5. 그리고 키스미보다 뭔가 더 오래 쓰게되어 가성비가 좋다는 점 \n\n6. 그리고 잘 안지워진다는 키스미도 에뛰드 킬커버도 \n진짜 잘지워져요 ^^\n\n가성비에 가심비템\n단종금지!!!",
+          "images": [
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/9455606/9455606_0_0.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/9455606/9455606_0_0.png?size=120x120",
+              "type": "사용전"
+            },
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/9455606/9455606_0_1.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/9455606/9455606_0_1.png?size=120x120",
+              "type": "사용후"
+            }
+          ],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 2,
+          "modifyTime": 1730754802,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1873373/1873373_20220801000000.jpg",
+          "productIndex": 1873373,
+          "productName": "킬래쉬 마스카라 리무버",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9455606,
+          "sensitive": true,
+          "skinType": "건성",
+          "trouble": false,
+          "updateTime": 1730754802,
+          "usePeriod": 0,
+          "userId": "3076297",
+          "userImageUrl": "https://img.hwahae.co.kr/users/profiles/3076297/3076297_20240916044959.jpg",
+          "userName": "Diddie",
+          "userPhotoToken": 0,
+          "userReviewCount": 416
+        },
+        {
+          "additionText": "",
+          "age": "1995",
+          "atopy": false,
+          "badText": "남은 양이 안보이는게 아쉬워요. 그리고 마스카라 지우고 닦아주지 않으면 리무버액이 검은색으로 변해서 한번 쓸때마다 닦아주는게 좋아요.",
+          "blind": 0,
+          "brand": "클리오 (CLIO)",
+          "commentCount": 0,
+          "encryptedProductId": "1c6644bb5e0e2226ae92be6cf6a62938",
+          "gender": "여성",
+          "goodText": "3통째 쓰는 마스카라리무버에요. 아이리무버로 마스카라 지우기 힘든데 이건 속눈썹에 바르고 조금 기다리면 잘지워져요.",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1730628906,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1873373/1873373_20220801000000.jpg",
+          "productIndex": 1873373,
+          "productName": "킬래쉬 마스카라 리무버",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9453471,
+          "sensitive": false,
+          "skinType": "건성",
+          "trouble": false,
+          "updateTime": 1730628906,
+          "usePeriod": 0,
+          "userId": "5886921",
+          "userImageUrl": null,
+          "userName": "phj302",
+          "userPhotoToken": 0,
+          "userReviewCount": 92
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "60f198f6-484a-4956-8565-9f85c931d144",
+        "is_positive": false,
+        "name": "눈통증있는",
+        "review_count": 57,
+        "score": 15.906,
+        "sentence": "눈 통증이 있어요"
+      },
+      {
+        "id": "ae441575-5079-4171-9567-6f854b8ee239",
+        "is_positive": false,
+        "name": "가려운",
+        "review_count": 5,
+        "score": 4.865,
+        "sentence": "가려워요"
+      },
+      {
+        "id": "9910884e-793a-4b5c-87cc-346c7056f868",
+        "is_positive": false,
+        "name": "알러지반응오는",
+        "review_count": 5,
+        "score": 2.934,
+        "sentence": "알러지 반응이 와요"
+      },
+      {
+        "id": "50595694-1834-4f2b-84ab-7b21b8f46963",
+        "is_positive": false,
+        "name": "흘러내리는",
+        "review_count": 2,
+        "score": 2.155,
+        "sentence": "흘러내려요"
+      },
+      {
+        "id": "5a04889d-7f3f-4860-b841-19fb791a6b5b",
+        "is_positive": false,
+        "name": "유분있는",
+        "review_count": 3,
+        "score": 1.635,
+        "sentence": "유분이 있어요"
+      },
+      {
+        "id": "a6422e4e-dc66-430d-a784-91685c0c4b8a",
+        "is_positive": false,
+        "name": "각질제거안되는",
+        "review_count": 1,
+        "score": 1.346,
+        "sentence": "각질제거가 안돼요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "867516a3-7fa5-43a2-a762-35b90e7aa92f",
+        "is_positive": true,
+        "name": "워터프루프지워지는",
+        "review_count": 51,
+        "score": 18.088,
+        "sentence": "워터프루프 지워져요"
+      },
+      {
+        "id": "21cf131e-00d5-4cc6-a7e7-20b308014922",
+        "is_positive": true,
+        "name": "세정잘되는",
+        "review_count": 77,
+        "score": 13.828,
+        "sentence": "세정이 잘 돼요"
+      },
+      {
+        "id": "dab2a110-a68b-4584-892b-efa17889c4e1",
+        "is_positive": true,
+        "name": "노폐물제거되는",
+        "review_count": 21,
+        "score": 13.396,
+        "sentence": "노폐물 제거가 잘 돼요"
+      },
+      {
+        "id": "a99abd0f-fbe6-4eff-bb3f-fed9f710cc2d",
+        "is_positive": true,
+        "name": "화장잘지워지는",
+        "review_count": 60,
+        "score": 12.882,
+        "sentence": "화장이 잘 지워져요"
+      },
+      {
+        "id": "85e8dc06-5e64-40f1-855e-0c1e48bdff1d",
+        "is_positive": true,
+        "name": "잔여물남지않는",
+        "review_count": 10,
+        "score": 9.835,
+        "sentence": "잔여물이 남지 않아요"
+      },
+      {
+        "id": "d8b1f4a9-fac7-4d6e-9073-3e35003d606b",
+        "is_positive": true,
+        "name": "자극없는",
+        "review_count": 44,
+        "score": 8.089,
+        "sentence": "자극이 없어요"
+      },
+      {
+        "id": "dfbb2f00-f0c3-4ffa-be62-d8d8cd1cd0cd",
+        "is_positive": true,
+        "name": "따갑지않은",
+        "review_count": 17,
+        "score": 6.238,
+        "sentence": "따갑지 않아요"
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

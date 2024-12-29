@@ -1,0 +1,840 @@
+{
+    "pageProps": {
+        "session": null,
+        "productAwardsData": [],
+        "productGoodsPairData": {
+            "common": {
+                "avg_ratings": 3.8,
+                "review_count": 10,
+                "rank_descriptions": [
+                    "아이라이너 ・ 리퀴드 55위",
+                    "아이라이너 -위"
+                ],
+                "rankings": [
+                    {
+                        "rank": 55,
+                        "category_code": "001:006:002",
+                        "category_name": "아이라이너",
+                        "root_category_name": "일반",
+                        "attribute_name": "리퀴드",
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4376
+                    },
+                    {
+                        "rank": null,
+                        "category_code": "001:006:002",
+                        "category_name": "아이라이너",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4374
+                    }
+                ]
+            },
+            "product": {
+                "id": 2013005,
+                "uid": "ba267986-4208-11ee-b457-0a737d0456c2",
+                "encrypted_product_id": "6b48db82449b0945ac2fb00846925cd6",
+                "image_url": "https://img.hwahae.co.kr/products/2013005/2013005_20221005164813.jpg",
+                "obsolete": false,
+                "is_favorite": false,
+                "buy_info": "0.6g / 12,000원",
+                "name": "아트클래스 무드 펜 라이너 [3호 소프트브라운]",
+                "product_type": 1,
+                "brand": {
+                    "id": 172,
+                    "name": "투쿨포스쿨",
+                    "full_name": "투쿨포스쿨 (toocoolforschool)",
+                    "image_url": "https://img.hwahae.co.kr/brands/172/172_20230405140512.png"
+                },
+                "food_product_info": null,
+                "categories": [
+                    {
+                        "code": "001:006:002",
+                        "name": "아이라이너"
+                    }
+                ]
+            },
+            "goods": {
+                "id": 45581,
+                "type": "NORMAL",
+                "partner": {
+                    "id": 242,
+                    "name": "투쿨포스쿨 공식몰",
+                    "image_url": "https://img.hwahae.co.kr/commerce/cover/210412_141619_cover0412.jpg"
+                },
+                "sale_status": "SELNG",
+                "title_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20221005_170527_%EB%AC%B4%EB%93%9C-%ED%8E%9C-%EB%9D%BC%EC%9D%B4%EB%84%88_3%ED%98%B8.jpg"
+                ],
+                "detail_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114916_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_01.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114917_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_02.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114917_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_03.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114923_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_04.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114923_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_05.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114923_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_06.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114929_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_07.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114929_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_08.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114929_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_09.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114934_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_10.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114934_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_12.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114935_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_14.jpg"
+                ],
+                "short_notice": null,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "name": "아트클래스 무드 펜 라이너 [3호 소프트브라운] 0.6g",
+                "discount_rate": 20,
+                "consumer_price": 12000,
+                "price": 9600,
+                "estimated_rewards": {
+                    "purchase": 96,
+                    "review_write": 1000,
+                    "review_photo": 100
+                },
+                "description_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114916_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_01.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114917_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_02.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114917_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_03.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114923_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_04.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114923_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_05.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114923_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_06.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114929_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_07.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114929_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_08.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114929_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_09.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114934_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_10.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114934_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_12.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20231117_114935_%EC%95%84%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_%EC%9B%B9%EC%83%81%EC%84%B8_FN_14.jpg"
+                ],
+                "notice_images": [],
+                "delivery_price": "2,500원",
+                "delivery_free_condition": "15,000원 이상 구매 시 무료",
+                "delivery_additional_price": null,
+                "delivery_company": "우체국택배",
+                "ask_count": 0,
+                "wish_index": null,
+                "has_related_goods": true,
+                "has_applicable_coupon": false,
+                "capacity": "0.6g",
+                "gift": null,
+                "option_id": 1531143,
+                "available_stockcnt": 299,
+                "max_purchase_count": 10,
+                "min_purchase_count": 1,
+                "is_promotion_set": false,
+                "stamp": null
+            }
+        },
+        "relationGoodsData": [
+            {
+                "id": 45581,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221005_170527_%EB%AC%B4%EB%93%9C-%ED%8E%9C-%EB%9D%BC%EC%9D%B4%EB%84%88_3%ED%98%B8.jpg",
+                "name": "아트클래스 무드 펜 라이너 [3호 소프트브라운] 0.6g",
+                "discount_rate": 20,
+                "discount_price": 9600,
+                "original_price": 12000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 45581,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221005_170527_%EB%AC%B4%EB%93%9C-%ED%8E%9C-%EB%9D%BC%EC%9D%B4%EB%84%88_3%ED%98%B8.jpg",
+                "name": "아트클래스 무드 펜 라이너 [3호 소프트브라운] 0.6g",
+                "discount_rate": 20,
+                "discount_price": 9600,
+                "original_price": 12000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 45580,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221005_170319_%EB%AC%B4%EB%93%9C-%ED%8E%9C-%EB%9D%BC%EC%9D%B4%EB%84%88_2%ED%98%B8.jpg",
+                "name": "아트클래스 무드 펜 라이너 [2호 뮤티드브라운] 0.6g",
+                "discount_rate": 20,
+                "discount_price": 9600,
+                "original_price": 12000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 45579,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221005_165442_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%88_1%ED%98%B8.jpg",
+                "name": "아트클래스 무드 펜 라이너 [1호 애쉬블랙] 0.6g",
+                "discount_rate": 20,
+                "discount_price": 9600,
+                "original_price": 12000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 58504,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20231117_130933_%ED%99%94%ED%95%B4%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%885%ED%98%B8.jpg",
+                "name": "아트클래스 무드 펜 라이너 [5호 클래시 브라운] 0.6g",
+                "discount_rate": 20,
+                "discount_price": 9600,
+                "original_price": 12000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 58503,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20231117_130836_%ED%99%94%ED%95%B4%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%AC%B4%EB%93%9C%ED%8E%9C%EB%9D%BC%EC%9D%B4%EB%84%884%ED%98%B8.jpg",
+                "name": "아트클래스 무드 펜 라이너 [4호 포커스 블랙] 0.6g",
+                "discount_rate": 20,
+                "discount_price": 9600,
+                "original_price": 12000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            }
+        ],
+        "targetSaleEventNoticeData": {
+            "notice_lines": []
+        },
+        "sampleSurveysByProductData": null,
+        "productTopicsNegative": [
+            {
+                "id": "7e20e93b-cfea-4425-bb2d-f6b7b697c2e6",
+                "name": "진한",
+                "sentence": "진해요",
+                "is_positive": false,
+                "review_count": 2,
+                "score": 2.165
+            },
+            {
+                "id": "d747366e-e5d2-42a0-ba30-979469e5b08a",
+                "name": "주황톤의",
+                "sentence": "주황 톤이에요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 1.99
+            },
+            {
+                "id": "7db744aa-1624-4dd1-9cd9-94c38f5fdcc0",
+                "name": "잘굳지않는",
+                "sentence": "잘 안 굳어요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 1.743
+            },
+            {
+                "id": "46dbabad-26f5-4c76-9476-4880bc683fcb",
+                "name": "실버톤이아닌",
+                "sentence": "실버 톤이 아니에요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 1.193
+            },
+            {
+                "id": "8aade1a8-09bf-488a-b06a-265f7b013178",
+                "name": "발색안되는",
+                "sentence": "발색이 안돼요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 1.036
+            },
+            {
+                "id": "f9a028df-47a9-4e4f-8087-d9ced7ed14c2",
+                "name": "붓재질안좋은",
+                "sentence": "붓 재질이 안 좋아요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 0.642
+            }
+        ],
+        "productTopicsPositive": [
+            {
+                "id": "f7c42f61-06ca-4f7e-9e4d-2632d60b17be",
+                "name": "연한",
+                "sentence": "연해요",
+                "is_positive": true,
+                "review_count": 5,
+                "score": 6.852
+            },
+            {
+                "id": "655c22c1-e38c-497a-99cf-ceb8020c0e33",
+                "name": "자연스러운",
+                "sentence": "자연스러워요",
+                "is_positive": true,
+                "review_count": 5,
+                "score": 4.266
+            },
+            {
+                "id": "a27916b3-cc22-4e61-9661-e3aa2d3e90b1",
+                "name": "브라운톤의",
+                "sentence": "브라운 톤이에요",
+                "is_positive": true,
+                "review_count": 2,
+                "score": 1.846
+            },
+            {
+                "id": "ae0fb79a-997c-4bd4-ae67-c28bf9bbc086",
+                "name": "그려지는",
+                "sentence": "잘 그려져요",
+                "is_positive": true,
+                "review_count": 4,
+                "score": 1.423
+            },
+            {
+                "id": "8663ecc6-25c9-4929-a04a-e04b09b9b2d4",
+                "name": "잘발리는",
+                "sentence": "잘 발려요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 0.716
+            },
+            {
+                "id": "d4902d19-032f-43f4-83a9-59b7237d849e",
+                "name": "색감좋은",
+                "sentence": "색감이 좋아요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 0.662
+            },
+            {
+                "id": "538b24e3-0b1d-4ece-9653-d5e640300d38",
+                "name": "지속력좋은",
+                "sentence": "지속력이 좋아요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 0.657
+            }
+        ],
+        "productReviewSummaryData": {
+            "productMetaData": {
+                "productIndex": 2013005,
+                "avgRatings": 3.799999952316284,
+                "reviewImageArray": [
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8967267/8967267_1_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8967267/8967267_1_0.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8967267/8967267_1_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8967267/8967267_1_1.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8967267
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8560274/8560274_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8560274/8560274_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8560274
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8479315/8479315_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8479315/8479315_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8479315
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8293219/8293219_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8293219/8293219_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8293219
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7992991/7992991_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7992991/7992991_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 7992991
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7643347/7643347_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7643347/7643347_0_0.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7643347/7643347_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7643347/7643347_0_1.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 7643347
+                    }
+                ],
+                "totalCount": 10,
+                "totalImageCount": 9
+            },
+            "reviewList": [
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "색이 연해서 그런가 잘 안나올때가 많고,,너무 연해서 금방 날아갈때가 많다..? 전 그래서 다른 펜 라이너랑 같이 쓰는 편이에요!",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 4,
+                    "likeCount": 0,
+                    "productName": "아트클래스 무드 펜 라이너 [3호 소프트브라운]",
+                    "isCheckingReview": false,
+                    "skinType": "복합성",
+                    "modifyTime": 1729408231,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "투쿨포스쿨 (toocoolforschool)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/2013005/2013005_20221005164813.jpg",
+                    "images": [],
+                    "productIndex": 2013005,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1729408231,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "꿀피부0203",
+                    "userId": "6920194",
+                    "userReviewCount": 8,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "이걸로 점막부분 채우고 음영감주고 꼬리뺄때는 다른 펜 라이너로 쓰면 좋아요",
+                    "goodText": "색이 너무 진하지도 않고 은은한 브라운 색이어서 점막 채우는데에 편했어요!",
+                    "encryptedProductId": "6b48db82449b0945ac2fb00846925cd6",
+                    "reviewId": 9426492,
+                    "age": "1999",
+                    "isAdvertising": false
+                },
+                {
+                    "userImageUrl": "https://img.hwahae.co.kr/users/profiles/3879803/3879803_20230624235835.jpg",
+                    "blind": 0,
+                    "badText": "붓펜 중에서 번지는건 얘가 처음...\n다 번져버리네요 왜그럴까ㅜㅜ",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 4,
+                    "rating": 3,
+                    "likeCount": 0,
+                    "productName": "아트클래스 무드 펜 라이너 [3호 소프트브라운]",
+                    "isCheckingReview": false,
+                    "skinType": "복합성",
+                    "modifyTime": 1713017086,
+                    "isScrapped": false,
+                    "trouble": false,
+                    "brand": "투쿨포스쿨 (toocoolforschool)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/2013005/2013005_20221005164813.jpg",
+                    "images": [],
+                    "productIndex": 2013005,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1713017086,
+                    "isAdmin": false,
+                    "sensitive": false,
+                    "userName": "뿌아기",
+                    "userId": "3879803",
+                    "userReviewCount": 132,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "잘 그려져요\n꼬리만 싹 빼는데 날렵하게 그려집니다",
+                    "encryptedProductId": "6b48db82449b0945ac2fb00846925cd6",
+                    "reviewId": 8998550,
+                    "age": "1995",
+                    "isAdvertising": false
+                }
+            ],
+            "productReviewMetaData": {
+                "reviewRatings": [
+                    1,
+                    0,
+                    2,
+                    4,
+                    3
+                ],
+                "filterTotalCount": 10,
+                "limitedReviewNumber": 0,
+                "reviewKeywordList": []
+            }
+        },
+        "productIngredientInfoData": {
+            "product_type": 1,
+            "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+            "purpose_default_order": [
+                {
+                    "group_code": "IPGC_01",
+                    "group_name": "피부 보습"
+                },
+                {
+                    "group_code": "IPGC_02",
+                    "group_name": "수분 증발 차단"
+                },
+                {
+                    "group_code": "IPGC_03",
+                    "group_name": "피부 보호"
+                },
+                {
+                    "group_code": "IPGC_04",
+                    "group_name": "수렴 진정"
+                },
+                {
+                    "group_code": "IPGC_05",
+                    "group_name": "각질 제거"
+                },
+                {
+                    "group_code": "IPGC_06",
+                    "group_name": "피부 미백"
+                },
+                {
+                    "group_code": "IPGC_07",
+                    "group_name": "여드름 완화"
+                },
+                {
+                    "group_code": "IPGC_08",
+                    "group_name": "자외선 차단"
+                },
+                {
+                    "group_code": "IPGC_09",
+                    "group_name": "주름 개선"
+                }
+            ],
+            "ingredients": [
+                {
+                    "id": 5321,
+                    "korean": "정제수, 증류수, 물",
+                    "english": "Water, Aqua, Distilled Water, Purified Water",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4109,
+                    "korean": "아크릴레이트코폴리머",
+                    "english": "Acrylates Copolymer",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피막형성제, 모발고정제, 결합제, 점착제, 현탁화제(비계면활성제)",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 2454,
+                    "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+                    "english": "Butylene Glycol, 1,3-Butylene Glycol",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gd",
+                    "skin_remark_good": "강력 보습",
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 착향제, 점도감소제, 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 459,
+                    "korean": "글리세린",
+                    "english": "Glycerin, Glycerol",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gd",
+                    "skin_remark_good": "보습력 증가",
+                    "skin_remark_bad": null,
+                    "purpose": "보습제, 피부보호제, 변성제, 점도감소제, 피부컨디셔닝제(보습제), 헤어컨디셔닝제, 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4253,
+                    "korean": "알코올, 에탄올",
+                    "english": "Alcohol, Ethanol",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "bs;bd",
+                    "skin_remark_good": null,
+                    "skin_remark_bad": "수분증발, 피부건조",
+                    "purpose": "기포방지제/소포제, 용제, 점도감소제, 수렴제, 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_04",
+                            "group_name": "수렴 진정"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5308,
+                    "korean": "적색산화철",
+                    "english": "CI 77491, Ferric Oxide, Red Oxide of Iron, Iron Oxide Red",
+                    "ewg": "2",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착색제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 2,
+                    "korean": "1,2-헥산다이올, 1,2-헥산디올(구명칭)",
+                    "english": "1,2-Hexanediol",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 6462,
+                    "korean": "페녹시에탄올",
+                    "english": "Phenoxyethanol",
+                    "ewg": "2_4",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": true,
+                    "twenty_detail": "파라벤과 함께 많이 사용되는 방부제로 피부 자극을 유발하며 체내 흡수시 마취작용을 하는 것으로 알려져 있다.",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "보존제, 착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "1.00%",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 7371,
+                    "korean": "피이지-60하이드로제네이티드캐스터오일",
+                    "english": "PEG-60 Hydrogenated Castor Oil",
+                    "ewg": "1_3",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": true,
+                    "twenty_detail": "PEG공통: 섭취시 간장, 신장 장애를 발생할 수 있으며, 알레르기 유발물질로 알려져 있다.",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "계면활성제(세정제), 계면활성제(용해보조제), 향료",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5571,
+                    "korean": "카본블랙",
+                    "english": "Carbon Black, Black 2, CI 77266",
+                    "ewg": "4_10",
+                    "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착색제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "금지 (카본블랙(다만, 불순물 중 벤조피렌과 디벤즈(a,h)안트라센이 각각 5ppb 이하이고 총 다환방향족탄화수소류(PAHs)가 0.5ppm 이하인 경우에는 제외))",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4493,
+                    "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+                    "english": "Ethylhexylglycerin",
+                    "ewg": "2",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4286,
+                    "korean": "암모늄아크릴레이트코폴리머",
+                    "english": "Ammonium Acrylates Copolymer",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "점도증가제(수용성), 결합제, 피막형성제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3369,
+                    "korean": "소듐폴리아크릴레이트",
+                    "english": "Sodium Polyacrylate",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "유화안정제, 피막형성제, 점도증가제(수용성), 점도조절제, 피부컨디셔닝제(유연제), 모발고정제, 흡수제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3605,
+                    "korean": "스테아레스-20",
+                    "english": "Steareth-20",
+                    "ewg": "1_3",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "계면활성제(용해보조제), 계면활성제(유화제), 계면활성제(세정제)",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                }
+            ],
+            "sub_product_ingredients": null
+        },
+        "goodsProductsData": null,
+        "goodsProductsCommonData": null
+    },
+    "__N_SSP": true
+}

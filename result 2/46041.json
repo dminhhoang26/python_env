@@ -1,0 +1,937 @@
+{
+    "pageProps": {
+        "session": null,
+        "productAwardsData": [],
+        "productGoodsPairData": {
+            "common": {
+                "avg_ratings": 4.7,
+                "review_count": 10,
+                "rank_descriptions": [
+                    "헤어에센스/오일 -위"
+                ],
+                "rankings": [
+                    {
+                        "rank": null,
+                        "category_code": "001:009:003",
+                        "category_name": "헤어에센스/오일",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4440
+                    }
+                ]
+            },
+            "product": {
+                "id": 1865486,
+                "uid": "b4654034-4208-11ee-b457-0a737d0456c2",
+                "encrypted_product_id": "ec00003e22799d34625a1f11a501f1bd",
+                "image_url": "https://img.hwahae.co.kr/products/1865486/1865486_20220801000000.jpg",
+                "obsolete": false,
+                "is_favorite": false,
+                "buy_info": "50ml / 22,000원",
+                "name": "카멜리아 리페어 헤어 오일",
+                "product_type": 1,
+                "brand": {
+                    "id": 482,
+                    "name": "산다화",
+                    "full_name": "산다화 (Sandawha)",
+                    "image_url": "https://img.hwahae.co.kr/brands/482/482_20230405140512.png"
+                },
+                "food_product_info": null,
+                "categories": [
+                    {
+                        "code": "001:009:003",
+                        "name": "헤어에센스/오일"
+                    }
+                ]
+            },
+            "goods": {
+                "id": 46041,
+                "type": "NORMAL",
+                "partner": {
+                    "id": 65,
+                    "name": "산다화/노스테 공식몰",
+                    "image_url": "https://img.hwahae.co.kr/commerce/partner/cover/skincure_visual.png"
+                },
+                "sale_status": "SELNG",
+                "title_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20221018_172000_%ED%97%A4%EC%96%B4%EC%98%A4%EC%9D%BC.jpg"
+                ],
+                "detail_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20221018_172008_Untitled-1_01.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20221018_172008_Untitled-1_02.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20221018_172008_Untitled-1_03.jpg"
+                ],
+                "short_notice": null,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "name": "카멜리아 리페어 헤어 오일 50ml",
+                "discount_rate": 30,
+                "consumer_price": 31000,
+                "price": 21700,
+                "estimated_rewards": {
+                    "purchase": 217,
+                    "review_write": 1000,
+                    "review_photo": 100
+                },
+                "description_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20221018_172008_Untitled-1_01.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20221018_172008_Untitled-1_02.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20221018_172008_Untitled-1_03.jpg"
+                ],
+                "notice_images": [],
+                "delivery_price": "3,000원",
+                "delivery_free_condition": "30,000원 이상 구매 시 무료",
+                "delivery_additional_price": "제주 3,000원, 그 외 도서산간지역 3,000원 추가",
+                "delivery_company": "CJ대한통운",
+                "ask_count": 0,
+                "wish_index": null,
+                "has_related_goods": false,
+                "has_applicable_coupon": false,
+                "capacity": "50ml",
+                "gift": null,
+                "option_id": 1215276,
+                "available_stockcnt": 996,
+                "max_purchase_count": null,
+                "min_purchase_count": 1,
+                "is_promotion_set": false,
+                "stamp": null
+            }
+        },
+        "targetSaleEventNoticeData": {
+            "notice_lines": []
+        },
+        "sampleSurveysByProductData": null,
+        "productTopicsNegative": [
+            {
+                "id": "5e044c41-545c-4fe0-b8a0-49b47c718bb1",
+                "name": "답답한",
+                "sentence": "답답해요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 2.339
+            },
+            {
+                "id": "067a375f-5e5f-46cd-9631-cccafb8a82b8",
+                "name": "모발떡짐",
+                "sentence": "모발이 떡져요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 0.821
+            }
+        ],
+        "productTopicsPositive": [
+            {
+                "id": "c8056a7b-250b-4fb2-93fc-87f2131a79ab",
+                "name": "푸석해지지않는",
+                "sentence": "푸석해지지 않아요",
+                "is_positive": true,
+                "review_count": 3,
+                "score": 1.963
+            },
+            {
+                "id": "e7721013-47fa-4bc7-a74d-203f56636b8f",
+                "name": "트러블없어지는",
+                "sentence": "트러블이 없어져요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 1.941
+            },
+            {
+                "id": "a03e7da3-43e1-40f7-a88c-3808681a8fe5",
+                "name": "끈적하지않은",
+                "sentence": "끈적하지 않아요",
+                "is_positive": true,
+                "review_count": 3,
+                "score": 1.856
+            },
+            {
+                "id": "c5e02d56-59fb-461c-be8a-68ed9dfb342a",
+                "name": "가벼운",
+                "sentence": "가벼워요",
+                "is_positive": true,
+                "review_count": 2,
+                "score": 1.651
+            },
+            {
+                "id": "7e1fe845-c157-4f45-afb8-b43706d02805",
+                "name": "손상모에좋은",
+                "sentence": "손상모에 좋아요",
+                "is_positive": true,
+                "review_count": 3,
+                "score": 1.576
+            },
+            {
+                "id": "ecfdc26c-db49-4f70-b56e-f1f8662d2ab7",
+                "name": "자극없는",
+                "sentence": "자극이 없어요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 1.459
+            },
+            {
+                "id": "cbb29307-2aa7-4d34-971a-8d735f82827f",
+                "name": "리치하지않은",
+                "sentence": "리치하지 않아요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 1.401
+            }
+        ],
+        "productReviewSummaryData": {
+            "productMetaData": {
+                "productIndex": 1865486,
+                "avgRatings": 4.699999809265137,
+                "reviewImageArray": [
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/6442347/6442347_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/6442347/6442347_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 6442347
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/6352416/6352416_1_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/6352416/6352416_1_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 6352416
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/6346304/6346304_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/6346304/6346304_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 6346304
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/5402985/5402985_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/5402985/5402985_0_0.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/5402985/5402985_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/5402985/5402985_0_1.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 5402985
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/5227538/5227538_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/5227538/5227538_0_0.png",
+                                "type": "패키지"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/5227538/5227538_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/5227538/5227538_0_1.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/5227538/5227538_0_2.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/5227538/5227538_0_2.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 5227538
+                    }
+                ],
+                "totalCount": 10,
+                "totalImageCount": 8
+            },
+            "reviewList": [
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "아직까지는 아쉬움 없이 만족하며 잘 쓰고 있어요",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 5,
+                    "likeCount": 0,
+                    "productName": "카멜리아 리페어 헤어 오일",
+                    "isCheckingReview": false,
+                    "skinType": "복합성",
+                    "modifyTime": 1631707989,
+                    "isScrapped": false,
+                    "trouble": false,
+                    "brand": "산다화 (Sandawha)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1865486/1865486_20220801000000.jpg",
+                    "images": [],
+                    "productIndex": 1865486,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1631707989,
+                    "isAdmin": false,
+                    "sensitive": false,
+                    "userName": "캐렂",
+                    "userId": "2093636",
+                    "userReviewCount": 45,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "최근 반복된 염색과 펌으로 머릿곁이 많이 푸석푸석해서 여러종류 오일을 사서 써봤는데 여기 오일이 좀 유명한거 같더라구요!!\n동백 오일이라는데 끈적이지도 않고 머리가 떡지지도 않아요!!!\n좀 고급스러운 유리병에 담겨있어서 생긴것도 이쁘네요",
+                    "encryptedProductId": "ec00003e22799d34625a1f11a501f1bd",
+                    "reviewId": 6718559,
+                    "age": "2001",
+                    "isAdvertising": false
+                },
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "두피,앞머리 부근에는 최대한 닿지 않게 발라주어야 해요. 안그러면 떡지기 쉽습니다. 또한 소량씩 발라야 떡지지 않아요. \n양이 적다고 느껴질 수 있는데 다른 헤어에센스 한번 펌핑한 양보다도 훨씬 적게 바르기 때문에 적은 양이 아니에요!",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 8,
+                    "rating": 5,
+                    "likeCount": 0,
+                    "productName": "카멜리아 리페어 헤어 오일",
+                    "isCheckingReview": false,
+                    "skinType": "건성",
+                    "modifyTime": 1620378471,
+                    "isScrapped": false,
+                    "trouble": false,
+                    "brand": "산다화 (Sandawha)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1865486/1865486_20220801000000.jpg",
+                    "images": [
+                        {
+                            "thumbnail": "https://img.hwahae.co.kr/reviews/6442347/6442347_0_0.png?size=120x120",
+                            "origin": "https://img.hwahae.co.kr/reviews/6442347/6442347_0_0.png",
+                            "type": "기타"
+                        }
+                    ],
+                    "productIndex": 1865486,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1620378471,
+                    "isAdmin": false,
+                    "sensitive": false,
+                    "userName": "kokoyuri",
+                    "userId": "127891",
+                    "userReviewCount": 21,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "머릿결에 도포 후 헤어를 돌돌 말아 꾹꾹 눌러주면 흡수가 더 잘된다(사진참고!)",
+                    "goodText": "*본인 머릿결은 숯 많고 굵은 모발이며 곱슬기가 약간 있는 편입니다\n\n*제형,사용감\n로드샵에서 접할 수 있는 츠바키 동백오일과 사용감 면에서 비슷하다고 느꼈어요. 가볍고 수분감이 느껴지는 오일 제형이지만 실리콘이 첨가되지 않았기 때문에 조금 뻑뻑하고, 바르기가 쉽진 않아요. 머리에 쉽게 고루 발라지거나 흡수가 빠른 편은 아니며 머릿결이 즉각적으로 찰랑거리고 부드러워지는 효과는 떨어지지만, 흡수했을 때 부시시한 머리를 차분한 상태로 건강하게 유지해주는 편이라고 느꼈어요. 따라서 스타일링 목적이 아닌 홈케어 목적으로 사용하기에 적절한것 같아요.\n\n*향\n동백꽃향+오일향의 묵직한 향. 오일향만 맡았을 땐 약간 좋은 향은 아니지만 머리에 고루 바르고 흡수된 이후 머릿결에서 은은하게 동백향이 납니다. \n\n*장점1. 끈적임,묻어남이 덜하다\n실리콘이 없어서 좋은 점은 손에 묻어나거나 끈적이지 않는다는 점이에요. 헤어오일/에센스 바른 후 손에 끈적임이 남거나 미끌거리는게 싫었는데 이 제품은 그런게 덜해요. ,,\n\n*장점2.건강한 모발관리가 가능하다.\n천연 동백오일 함유량이 높고 천연성분으로 이루어져 그런지 사용 2주 정도 되었을 때 머리빠짐이 덜했고(샴푸시, 평소 빠지는 머리카락), 모발이 굵어지는 경험. 본인은 염색하지 않은 검은 머리인데 머리 색도 더 진해진 느낌이에요. 아무래도 실리콘 샴푸, 헤어오일을 반복적으로 사용하다보면 모발 큐티클 상태나 두피 건강에 좋지 않은 영향을 줄 수 있다고 생각하기에, 평소에 데일리 제품으로 사용하면 모발을 건강하게 유지할 수 있을거라고 생각합니다.",
+                    "encryptedProductId": "ec00003e22799d34625a1f11a501f1bd",
+                    "reviewId": 6442347,
+                    "age": "1993",
+                    "isAdvertising": false
+                }
+            ],
+            "productReviewMetaData": {
+                "reviewRatings": [
+                    0,
+                    0,
+                    1,
+                    1,
+                    8
+                ],
+                "filterTotalCount": 10,
+                "limitedReviewNumber": 0,
+                "reviewKeywordList": []
+            }
+        },
+        "productIngredientInfoData": {
+            "product_type": 1,
+            "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+            "purpose_default_order": [
+                {
+                    "group_code": "IPGC_01",
+                    "group_name": "피부 보습"
+                },
+                {
+                    "group_code": "IPGC_02",
+                    "group_name": "수분 증발 차단"
+                },
+                {
+                    "group_code": "IPGC_03",
+                    "group_name": "피부 보호"
+                },
+                {
+                    "group_code": "IPGC_04",
+                    "group_name": "수렴 진정"
+                },
+                {
+                    "group_code": "IPGC_05",
+                    "group_name": "각질 제거"
+                },
+                {
+                    "group_code": "IPGC_06",
+                    "group_name": "피부 미백"
+                },
+                {
+                    "group_code": "IPGC_07",
+                    "group_name": "여드름 완화"
+                },
+                {
+                    "group_code": "IPGC_08",
+                    "group_name": "자외선 차단"
+                },
+                {
+                    "group_code": "IPGC_09",
+                    "group_name": "주름 개선"
+                }
+            ],
+            "ingredients": [
+                {
+                    "id": 898,
+                    "korean": "동백나무꽃추출물, 동백꽃추출물(구명칭)",
+                    "english": "Camellia Japonica Flower Extract",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(유연제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 900,
+                    "korean": "동백나무씨추출물",
+                    "english": "Camellia Japonica Seed Extract",
+                    "ewg": null,
+                    "ewg_data_availability_text": "해당 없음",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5619,
+                    "korean": "카프릴릭/카프릭트라이글리세라이드, 카프릴릭/카프릭트리글리세라이드(구명칭)",
+                    "english": "Caprylic/Capric Triglyceride",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 착향제, 피부컨디셔닝제(수분차단제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 575,
+                    "korean": "꿀풀추출물",
+                    "english": "Prunella Vulgaris Extract",
+                    "ewg": null,
+                    "ewg_data_availability_text": "해당 없음",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "산화방지제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4880,
+                    "korean": "운데케인, 운데칸(구명칭)",
+                    "english": "Undecane",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(유연제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5772,
+                    "korean": "코코-카프릴레이트/카프레이트",
+                    "english": "Coco-Caprylate/Caprate",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(유연제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 6177,
+                    "korean": "트라이데케인, 트리데칸(구명칭)",
+                    "english": "Tridecane",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(유연제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1203,
+                    "korean": "다이카프릴릴카보네이트, 디카프릴릴카보네이트(구명칭)",
+                    "english": "Dicaprylyl Carbonate",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(유연제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 7082,
+                    "korean": "피마자씨오일, 피마자오일(구명칭), 캐스터오일(구명칭)",
+                    "english": "Ricinus Communis (Castor) Seed Oil",
+                    "ewg": "2",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 683,
+                    "korean": "녹차씨오일",
+                    "english": "Camellia Sinensis Seed Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 피부컨디셔닝제(보습제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 904,
+                    "korean": "동백나무씨오일, 동백오일(구명칭)",
+                    "english": "Camellia Japonica Seed Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 8135,
+                    "korean": "호호바씨오일, 호호바오일(구명칭)",
+                    "english": "Simmondsia Chinensis (Jojoba) Seed Oil, Buxus Chinensis Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 헤어컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3872,
+                    "korean": "아르간커넬오일, 아르간트리커넬오일(구명칭)",
+                    "english": "Argania Spinosa Kernel Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 피부컨디셔닝제(유연제), 피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        },
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 932,
+                    "korean": "드럼스틱씨오일, 드럼스틱나무씨오일(구명칭)",
+                    "english": "Moringa Oleifera Seed Oil, Moringa Pterygosperma Seed Oil(구명칭)",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 피부컨디셔닝제(유연제), 피부컨디셔닝제(보습제), 피부보호제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        },
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 6098,
+                    "korean": "토코페롤, 비타민E",
+                    "english": "Tocopherol, Vitamin E",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gd",
+                    "skin_remark_good": "피부 재생, 탄력",
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제, 착향제, 수분증발차단제, 산화방지제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "20%",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1819,
+                    "korean": "아라비안자스민꽃추출물, 말리화꽃추출물(구명칭)",
+                    "english": "Jasminum Sambac (Jasmine) Flower Extract",
+                    "ewg": null,
+                    "ewg_data_availability_text": "해당 없음",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 734,
+                    "korean": "다마스크장미꽃오일",
+                    "english": "Rosa Damascena Flower Oil",
+                    "ewg": "3",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제, 피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1675,
+                    "korean": "리날룰",
+                    "english": "Linalool",
+                    "ewg": "3",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3727,
+                    "korean": "시트로넬올, 시트로넬롤(구명칭)",
+                    "english": "Citronellol",
+                    "ewg": "3_4",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5326,
+                    "korean": "제라니올",
+                    "english": "Geraniol",
+                    "ewg": "3_5",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 2366,
+                    "korean": "벤질벤조에이트",
+                    "english": "Benzyl Benzoate",
+                    "ewg": "4_5",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 2371,
+                    "korean": "벤질알코올",
+                    "english": "Benzyl Alcohol",
+                    "ewg": "4_6",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "보존제, 용제, 착향제, 점도감소제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "1.0% (다만, 두발 염색용 제품류에 용제로 사용할 경우에는 10%)",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 6342,
+                    "korean": "파네솔",
+                    "english": "Farnesol",
+                    "ewg": "3_4",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                }
+            ],
+            "sub_product_ingredients": null
+        },
+        "goodsProductsData": null,
+        "goodsProductsCommonData": null
+    },
+    "__N_SSP": true
+}

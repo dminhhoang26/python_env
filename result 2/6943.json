@@ -1,0 +1,743 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 3.95,
+        "rank_descriptions": [
+          "에센스/앰플/세럼 -위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": null,
+            "category_code": "001:001:003",
+            "category_name": "에센스/앰플/세럼",
+            "preview_ranking_id": 4174,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 109
+      },
+      "goods": {
+        "ask_count": 0,
+        "available_stockcnt": 0,
+        "capacity": "30ml",
+        "consumer_price": 29000,
+        "delivery_additional_price": null,
+        "delivery_company": "우체국택배",
+        "delivery_free_condition": "30,000원 이상 구매 시 무료",
+        "delivery_price": "2,500원",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/6943_12133521mcontent.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/6943_12133521mcontent.jpg"
+        ],
+        "discount_rate": 0,
+        "estimated_rewards": {
+          "purchase": 290,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": false,
+        "id": 6943,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "더모 퓨리파이어 수퍼 세럼 30ml",
+        "notice_images": [],
+        "option_id": 430147,
+        "partner": {
+          "id": 254,
+          "image_url": "https://img.hwahae.co.kr/commerce/partner/cover/icos_visual.jpg",
+          "name": "유세린 공식몰"
+        },
+        "price": 29000,
+        "primal_badges": [],
+        "sale_status": "SLDOT",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/6943_06112153view.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "유세린 (Eucerin)",
+          "id": 581,
+          "image_url": "https://img.hwahae.co.kr/brands/581/581_20230405140512.png",
+          "name": "유세린"
+        },
+        "buy_info": "30ml / 29,000원",
+        "categories": [
+          {
+            "code": "001:001:003",
+            "name": "에센스/앰플/세럼"
+          }
+        ],
+        "encrypted_product_id": "dee7c725443839ec3b87ec46096a9752",
+        "food_product_info": null,
+        "id": 1839415,
+        "image_url": "https://img.hwahae.co.kr/products/1839415/1839415_20220801000000.jpg",
+        "is_favorite": false,
+        "name": "더모 퓨리파이어 수퍼 세럼",
+        "obsolete": true,
+        "product_type": 1,
+        "uid": "b36d1c26-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Cyclomethicone",
+          "ewg": "10",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 2720,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "사이클로메티콘, 사이클로메치콘(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제(유연제), 헤어컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycerin, Glycerol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 459,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세린",
+          "limitation": "해당 없음",
+          "purpose": "변성제, 피부보호제, 피부컨디셔닝제(보습제), 점도감소제, 헤어컨디셔닝제, 착향제, 보습제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "보습력 증가",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Tapioca Starch, Manihot Utilissima Starch",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6016,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "타피오카전분",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 벌킹제(증량제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Methylpropanediol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1956,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "메틸프로판다이올, 메칠프로판디올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Lactic Acid",
+          "ewg": "1_4",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 1546,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "락틱애씨드",
+          "limitation": "해당 없음",
+          "purpose": "pH 조정제, 피부컨디셔닝제(보습제), 피부컨디셔닝제(기타), 착향제, 보습제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": "고농도일경우 피부자극",
+          "skin_remark_good": null,
+          "skin_type": "bs",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Dimethiconol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 994,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이메티콘올, 디메치콘올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "기포방지제/소포제, 피부컨디셔닝제(유연제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Xanthan Gum",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5256,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "잔탄검",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 피부컨디셔닝제, 계면활성제(유화제), 유화안정제, 결합제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Hydroxide",
+          "ewg": "1_4",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 3381,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐하이드록사이드",
+          "limitation": "손톱표피 용해 목적일 경우 5%, pH 조정 목적으로 사용되고 최종 제품이 제5조제5항에 pH기준이 정하여 있지 아니한 경우에도 최종 제품의 pH는 11이하;제모제에서 pH조정 목적으로 사용되는 경우 최종 제품의 pH는 12.7이하",
+          "purpose": "pH 조정제, 변성제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Decylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 837,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "데실렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "체취방지제, 피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Fragrance, Parfum, Aroma",
+          "ewg": "8",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8030,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "향료",
+          "limitation": "해당 없음",
+          "purpose": "감미제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "향을 유발하는 성분을 통칭해 향료로 표기하기에 실체를 정확히 알 수 없다. 두통, 현기증, 발진, 색소침착, 기관지 자극을 유발한다고 알려져 있다."
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Stearoyl Glutamate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 3244,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐스테아로일글루타메이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 계면활성제(세정제), 헤어컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Chloride",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 3342,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐클로라이드",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 감미제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 3.9541285037994385,
+        "productIndex": 1839415,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8777995/8777995_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8777995/8777995_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 8777995
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7276702/7276702_1_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7276702/7276702_1_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7276702
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7130542/7130542_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7130542/7130542_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7130542
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/6208859/6208859_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/6208859/6208859_0_0.png?size=120x120",
+                "type": "사용후"
+              }
+            ],
+            "reviewId": 6208859
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/6202880/6202880_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/6202880/6202880_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 6202880
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/5626321/5626321_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/5626321/5626321_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 5626321
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/5615639/5615639_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/5615639/5615639_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 5615639
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/5592638/5592638_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/5592638/5592638_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 5592638
+          }
+        ],
+        "totalCount": 109,
+        "totalImageCount": 110
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 109,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          4,
+          8,
+          16,
+          42,
+          39
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "2000",
+          "atopy": false,
+          "badText": "아쉬운 점 딱히 없음!\n근데 향이 좀 있어서 무향 좋아하시는 분들은 비추",
+          "blind": 0,
+          "brand": "유세린 (Eucerin)",
+          "commentCount": 0,
+          "encryptedProductId": "dee7c725443839ec3b87ec46096a9752",
+          "gender": "여성",
+          "goodText": "최애··· 단종된 게 너무 아쉬움 ㅠ\n바르면 금방 흡수되고 피부가 보들해져요.",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1723463846,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1839415/1839415_20220801000000.jpg",
+          "productIndex": 1839415,
+          "productName": "더모 퓨리파이어 수퍼 세럼",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9264594,
+          "sensitive": false,
+          "skinType": "수부지",
+          "trouble": true,
+          "updateTime": 1723463846,
+          "usePeriod": 0,
+          "userId": "11681413",
+          "userImageUrl": null,
+          "userName": "상싱",
+          "userPhotoToken": 0,
+          "userReviewCount": 1
+        },
+        {
+          "additionText": "",
+          "age": "2003",
+          "atopy": false,
+          "badText": "유분 조절 및 트러블 개선을 기대하고 샀는데 트러블 개선 효과는 못 느꼈다",
+          "blind": 0,
+          "brand": "유세린 (Eucerin)",
+          "commentCount": 0,
+          "encryptedProductId": "dee7c725443839ec3b87ec46096a9752",
+          "gender": "여성",
+          "goodText": "발림성이 좋다 그냥 무난하게 쓸 만 하다 딱히 좋진 않음",
+          "images": [
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/8777995/8777995_0_0.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/8777995/8777995_0_0.png?size=120x120",
+              "type": "기타"
+            }
+          ],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1706118740,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1839415/1839415_20220801000000.jpg",
+          "productIndex": 1839415,
+          "productName": "더모 퓨리파이어 수퍼 세럼",
+          "rating": 3,
+          "repurchase": -1,
+          "reviewId": 8777995,
+          "sensitive": false,
+          "skinType": "복합성",
+          "trouble": true,
+          "updateTime": 1706118740,
+          "usePeriod": 0,
+          "userId": "6098217",
+          "userImageUrl": "https://img.hwahae.co.kr/users/profiles/6098217/6098217_20230222050037.jpg",
+          "userName": "다른사용자가이미사용ㅋ",
+          "userPhotoToken": 3,
+          "userReviewCount": 340
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "1d65a342-8073-48e1-bc30-55f076c650b1",
+        "is_positive": false,
+        "name": "인공향나는",
+        "review_count": 11,
+        "score": 6.476,
+        "sentence": "인공 향이 나요"
+      },
+      {
+        "id": "331920c5-40a9-4679-b2ca-f6d170577c26",
+        "is_positive": false,
+        "name": "밀림있는",
+        "review_count": 9,
+        "score": 4.769,
+        "sentence": "밀림이 있어요"
+      },
+      {
+        "id": "63872b06-c021-426d-9a2d-18d360596b75",
+        "is_positive": false,
+        "name": "냄새가독한",
+        "review_count": 7,
+        "score": 4.643,
+        "sentence": "냄새가 독해요"
+      },
+      {
+        "id": "281e57b8-b434-4b52-8188-bafac4955063",
+        "is_positive": false,
+        "name": "향이아쉬운",
+        "review_count": 9,
+        "score": 3.647,
+        "sentence": "향이 아쉬워요"
+      },
+      {
+        "id": "c2b616e5-41b2-4127-b7d1-4a54c09d3ac9",
+        "is_positive": false,
+        "name": "따가운",
+        "review_count": 8,
+        "score": 3.354,
+        "sentence": "따가워요"
+      },
+      {
+        "id": "b032e678-e808-4c26-a6bf-5297ec6ab7f2",
+        "is_positive": false,
+        "name": "알러지반응오는",
+        "review_count": 8,
+        "score": 2.833,
+        "sentence": "알러지 반응이 와요"
+      },
+      {
+        "id": "c231e8c6-91c8-4f3b-9841-10c1251cf1c3",
+        "is_positive": false,
+        "name": "각질제거안되는",
+        "review_count": 2,
+        "score": 1.549,
+        "sentence": "각질제거가 안돼요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "d5311155-cbe1-471b-8dc7-15281d8d4eda",
+        "is_positive": true,
+        "name": "유분없는",
+        "review_count": 14,
+        "score": 7.931,
+        "sentence": "유분이 없어요"
+      },
+      {
+        "id": "caab492f-e9dd-43c4-8a64-3a7c7e6474fc",
+        "is_positive": true,
+        "name": "흡수잘되는",
+        "review_count": 32,
+        "score": 7.585,
+        "sentence": "흡수가 잘 돼요"
+      },
+      {
+        "id": "2b1361e3-4993-42a8-bda9-2749598b3fc1",
+        "is_positive": true,
+        "name": "잘발리는",
+        "review_count": 21,
+        "score": 7.535,
+        "sentence": "잘 발려요"
+      },
+      {
+        "id": "2d6a2f74-67db-45d9-8c22-4e316b41b8e5",
+        "is_positive": true,
+        "name": "산뜻한",
+        "review_count": 14,
+        "score": 7.279,
+        "sentence": "산뜻해요"
+      },
+      {
+        "id": "3a7e4670-6c8e-4599-8d4f-3e8c4634ee01",
+        "is_positive": true,
+        "name": "뽀송한",
+        "review_count": 8,
+        "score": 7.016,
+        "sentence": "뽀송해요"
+      },
+      {
+        "id": "bf6faffa-7ca6-4fe3-af7c-4ca1ab2094ff",
+        "is_positive": true,
+        "name": "수분있는",
+        "review_count": 30,
+        "score": 5.63,
+        "sentence": "수분이 있어요"
+      },
+      {
+        "id": "9bbcb2b9-d829-49c4-b52a-2efeb27e7575",
+        "is_positive": true,
+        "name": "가벼운",
+        "review_count": 13,
+        "score": 5.496,
+        "sentence": "가벼워요"
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

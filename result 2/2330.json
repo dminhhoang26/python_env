@@ -1,0 +1,684 @@
+{
+    "pageProps": {
+        "session": null,
+        "productAwardsData": [],
+        "productGoodsPairData": {
+            "common": {
+                "avg_ratings": 3.95,
+                "review_count": 96,
+                "rank_descriptions": [
+                    "페이스오일 -위"
+                ],
+                "rankings": [
+                    {
+                        "rank": null,
+                        "category_code": "001:001:004",
+                        "category_name": "페이스오일",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4183
+                    }
+                ]
+            },
+            "product": {
+                "id": 10705,
+                "uid": "ae41d32a-4208-11ee-b457-0a737d0456c2",
+                "encrypted_product_id": "a852dcd90ea1b1d71edba91b9fcc7e08",
+                "image_url": "https://img.hwahae.co.kr/products/10705/10705_20220801000000.jpg",
+                "obsolete": false,
+                "is_favorite": false,
+                "buy_info": "30ml / 38,000원",
+                "name": "리프팅 페이스 아르간오일",
+                "product_type": 1,
+                "brand": {
+                    "id": 429,
+                    "name": "반트36.5",
+                    "full_name": "반트36.5 (VANT36.5)",
+                    "image_url": "https://img.hwahae.co.kr/brands/429/429_20230405140512.png"
+                },
+                "food_product_info": null,
+                "categories": [
+                    {
+                        "code": "001:001:004",
+                        "name": "페이스오일"
+                    }
+                ]
+            },
+            "goods": {
+                "id": 2330,
+                "type": "NORMAL",
+                "partner": {
+                    "id": 30,
+                    "name": "반트36.5 공식몰",
+                    "image_url": "https://img.hwahae.co.kr/commerce/cover/211001_092109_cover_image.png"
+                },
+                "sale_status": "SLDOT",
+                "title_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/2330_18170551view.jpg"
+                ],
+                "detail_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/2330_06094750mcontent.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/2330_06094750mcontent1.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/2330_06094750mcontent2.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/2330_06094750mcontent3.jpg"
+                ],
+                "short_notice": null,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "name": "리프팅 페이스 아르간 오일 30ml",
+                "discount_rate": 15,
+                "consumer_price": 38000,
+                "price": 32300,
+                "estimated_rewards": {
+                    "purchase": 646,
+                    "review_write": 1000,
+                    "review_photo": 100
+                },
+                "description_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/2330_06094750mcontent.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/2330_06094750mcontent1.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/2330_06094750mcontent2.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/2330_06094750mcontent3.jpg"
+                ],
+                "notice_images": [],
+                "delivery_price": "2,500원",
+                "delivery_free_condition": null,
+                "delivery_additional_price": "제주 3,000원, 그 외 도서산간지역 3,000원 추가",
+                "delivery_company": "CJ대한통운",
+                "ask_count": 0,
+                "wish_index": null,
+                "has_related_goods": false,
+                "has_applicable_coupon": false,
+                "capacity": null,
+                "gift": null,
+                "option_id": 2485,
+                "available_stockcnt": 975,
+                "max_purchase_count": null,
+                "min_purchase_count": 1,
+                "is_promotion_set": false,
+                "stamp": null
+            }
+        },
+        "targetSaleEventNoticeData": {
+            "notice_lines": []
+        },
+        "sampleSurveysByProductData": null,
+        "productTopicsNegative": [
+            {
+                "id": "50b4ebf1-2b3d-4cec-9a88-667d99c510f7",
+                "name": "탄력안생기는",
+                "sentence": "탄력이 안 생겨요",
+                "is_positive": false,
+                "review_count": 3,
+                "score": 3.924
+            },
+            {
+                "id": "4650e8b0-dff5-4705-8601-6f8b61e93e91",
+                "name": "트러블생기는",
+                "sentence": "트러블이 생겨요",
+                "is_positive": false,
+                "review_count": 9,
+                "score": 3.726
+            },
+            {
+                "id": "73cca046-b170-4c7c-ba1d-c63765e0b5fd",
+                "name": "유분있는",
+                "sentence": "유분이 있어요",
+                "is_positive": false,
+                "review_count": 6,
+                "score": 3.008
+            },
+            {
+                "id": "07113ab8-3cc1-4263-950b-2c581401262b",
+                "name": "지속력안좋은",
+                "sentence": "지속력이 안 좋아요",
+                "is_positive": false,
+                "review_count": 3,
+                "score": 2.82
+            },
+            {
+                "id": "3f8c0c10-ba73-4640-b1b8-b99821595acc",
+                "name": "알러지반응오는",
+                "sentence": "알러지 반응이 와요",
+                "is_positive": false,
+                "review_count": 4,
+                "score": 1.845
+            },
+            {
+                "id": "8ad9f21e-8f5d-44a5-9bee-37aecd17bcf9",
+                "name": "브라이트닝효과없는",
+                "sentence": "브라이트닝 효과가 없어요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 1.378
+            },
+            {
+                "id": "415c4bdb-7480-450b-94f8-bd5558376e67",
+                "name": "산뜻하지않은",
+                "sentence": "산뜻하지 않아요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 1.185
+            }
+        ],
+        "productTopicsPositive": [
+            {
+                "id": "170c6bb2-09cb-4d79-8860-399746c25f6c",
+                "name": "보습잘되는",
+                "sentence": "보습이 잘 돼요",
+                "is_positive": true,
+                "review_count": 37,
+                "score": 6.88
+            },
+            {
+                "id": "cb663425-0c63-406e-8a5b-0e073507765d",
+                "name": "윤기나는",
+                "sentence": "윤기가 나요",
+                "is_positive": true,
+                "review_count": 11,
+                "score": 6.45
+            },
+            {
+                "id": "ea1d78ca-a0d8-4178-89fe-ef996139a4b5",
+                "name": "수분있는",
+                "sentence": "수분이 있어요",
+                "is_positive": true,
+                "review_count": 13,
+                "score": 4.272
+            },
+            {
+                "id": "0013870c-8114-4c70-a30d-7813eccf0da0",
+                "name": "주름없어지는",
+                "sentence": "주름이 없어져요",
+                "is_positive": true,
+                "review_count": 4,
+                "score": 4.066
+            },
+            {
+                "id": "6e8e2d95-4ec8-47f6-9b7a-0a116b9a393f",
+                "name": "속건조에효과있는",
+                "sentence": "속건조에 효과 있어요",
+                "is_positive": true,
+                "review_count": 6,
+                "score": 3.506
+            },
+            {
+                "id": "50817e67-5b5c-422d-9f7c-95c1d2d1d68d",
+                "name": "자극없는",
+                "sentence": "자극이 없어요",
+                "is_positive": true,
+                "review_count": 7,
+                "score": 3.486
+            },
+            {
+                "id": "d9961ac8-eaaf-43ba-934e-9bf97a8bc49b",
+                "name": "향에만족한",
+                "sentence": "향에 만족해요",
+                "is_positive": true,
+                "review_count": 11,
+                "score": 3.455
+            }
+        ],
+        "productReviewSummaryData": {
+            "productMetaData": {
+                "productIndex": 10705,
+                "avgRatings": 3.9479167461395264,
+                "reviewImageArray": [
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/4101332/4101332_1_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/4101332/4101332_1_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 4101332
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/3813045/3813045_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/3813045/3813045_0_0.png",
+                                "type": "사용후"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/3813045/3813045_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/3813045/3813045_0_1.png",
+                                "type": "사용후"
+                            }
+                        ],
+                        "reviewId": 3813045
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/2884629/2884629_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/2884629/2884629_0_0.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/2884629/2884629_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/2884629/2884629_0_1.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 2884629
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/1433112/1433112_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/1433112/1433112_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 1433112
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/948056/948056_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/948056/948056_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 948056
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/883346/883346_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/883346/883346_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 883346
+                    }
+                ],
+                "totalCount": 96,
+                "totalImageCount": 8
+            },
+            "reviewList": [
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "향이 좋긴 한데 다소 강하다는 느낌을 받았어요. 또 가격에 비해 양이 너무 적은 것 같아서 아껴쓰게 돼요ㅜㅜ",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 4,
+                    "likeCount": 0,
+                    "productName": "리프팅 페이스 아르간오일",
+                    "isCheckingReview": false,
+                    "skinType": "중성",
+                    "modifyTime": 1571645040,
+                    "isScrapped": false,
+                    "trouble": false,
+                    "brand": "반트36.5 (VANT36.5)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/10705/10705_20220801000000.jpg",
+                    "images": [],
+                    "productIndex": 10705,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1571645040,
+                    "isAdmin": false,
+                    "sensitive": false,
+                    "userName": "달콤달나라",
+                    "userId": "3646475",
+                    "userReviewCount": 2,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "겨울에 잘 건조해지는 얼굴이에요  그래서 피부메이크업이 잘 안될때도 있는데. 메이크업전 기초화장품이나 파운데이션 같은데 블렌딩 하여 사용했더니 촉촉하고 광나고 너무 좋아요ㅎㅎ",
+                    "goodText": "페이스 오일은 처음이라 바르고 난 후에 얼굴이 기름지면 어쩌지 라고 생각했는데 아니었요. 오일을 얼굴에 도포한 뒤에 마사지도 가능하고 건조한 가을겨울에 유분밸런스를 맞쳐주는 느낌이었어요. 또 자기전 아침 메이크업때 마다 유분을 달리 해주잖아요. 그때마다 오일의 양을 쉽게 조절하여 사용할 수 있었어요. 향도 너무 좋았습니다.",
+                    "encryptedProductId": "a852dcd90ea1b1d71edba91b9fcc7e08",
+                    "reviewId": 4775955,
+                    "age": "1997",
+                    "isAdvertising": false
+                },
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "민감성 피부는 사용하지 않는게 좋을 것 같아요 트러블 올라와요",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 3,
+                    "likeCount": 0,
+                    "productName": "리프팅 페이스 아르간오일",
+                    "isCheckingReview": false,
+                    "skinType": "건성",
+                    "modifyTime": 1559637327,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "반트36.5 (VANT36.5)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/10705/10705_20220801000000.jpg",
+                    "images": [],
+                    "productIndex": 10705,
+                    "usePeriod": 0,
+                    "atopy": true,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1559637327,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "찰진개",
+                    "userId": "5421580",
+                    "userReviewCount": 1,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "겨울철 보습은 좋은거 같아요 근데 바르고 시간 지나면 피부톤이 어두워지는데 원래 오일들이 이런가요??",
+                    "encryptedProductId": "a852dcd90ea1b1d71edba91b9fcc7e08",
+                    "reviewId": 4373645,
+                    "age": "1994",
+                    "isAdvertising": false
+                }
+            ],
+            "productReviewMetaData": {
+                "reviewRatings": [
+                    3,
+                    2,
+                    18,
+                    47,
+                    26
+                ],
+                "filterTotalCount": 96,
+                "limitedReviewNumber": 0,
+                "reviewKeywordList": []
+            }
+        },
+        "productIngredientInfoData": {
+            "product_type": 1,
+            "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+            "purpose_default_order": [
+                {
+                    "group_code": "IPGC_01",
+                    "group_name": "피부 보습"
+                },
+                {
+                    "group_code": "IPGC_02",
+                    "group_name": "수분 증발 차단"
+                },
+                {
+                    "group_code": "IPGC_03",
+                    "group_name": "피부 보호"
+                },
+                {
+                    "group_code": "IPGC_04",
+                    "group_name": "수렴 진정"
+                },
+                {
+                    "group_code": "IPGC_05",
+                    "group_name": "각질 제거"
+                },
+                {
+                    "group_code": "IPGC_06",
+                    "group_name": "피부 미백"
+                },
+                {
+                    "group_code": "IPGC_07",
+                    "group_name": "여드름 완화"
+                },
+                {
+                    "group_code": "IPGC_08",
+                    "group_name": "자외선 차단"
+                },
+                {
+                    "group_code": "IPGC_09",
+                    "group_name": "주름 개선"
+                }
+            ],
+            "ingredients": [
+                {
+                    "id": 3872,
+                    "korean": "아르간커넬오일, 아르간트리커넬오일(구명칭)",
+                    "english": "Argania Spinosa Kernel Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 피부컨디셔닝제(유연제), 피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        },
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1776,
+                    "korean": "마카다미아넛오일(1), 마카다미아넛오일(2), 마카다미아씨오일(구명칭), 퀸즈랜드넛오일",
+                    "english": "Macadamia Integrifolia Seed Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 8135,
+                    "korean": "호호바씨오일, 호호바오일(구명칭)",
+                    "english": "Simmondsia Chinensis (Jojoba) Seed Oil, Buxus Chinensis Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 헤어컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1604,
+                    "korean": "레티놀",
+                    "english": "Retinol",
+                    "ewg": "9",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "bs",
+                    "skin_remark_good": null,
+                    "skin_remark_bad": "피부 자극 유발",
+                    "purpose": "피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_09",
+                            "group_name": "주름 개선"
+                        }
+                    ],
+                    "cosmedical": "2",
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5863,
+                    "korean": "돌콩오일, 콩오일(구명칭)",
+                    "english": "Glycine Soja (Soybean) Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 착향제, 산화방지제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 734,
+                    "korean": "다마스크장미꽃오일",
+                    "english": "Rosa Damascena Flower Oil",
+                    "ewg": "3",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제, 피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5200,
+                    "korean": "자몽껍질오일",
+                    "english": "Citrus Paradisi (Grapefruit) Peel Oil",
+                    "ewg": "4_6",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "bs",
+                    "skin_remark_good": null,
+                    "skin_remark_bad": "아로마오일 공통 - 피부 자극",
+                    "purpose": "향료",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "금지 (푸로쿠마린류(예 : 트리옥시살렌, 8-메톡시소랄렌, 5-메톡시소랄렌)(천연에센스에 자연적으로 함유된 경우는 제외. 다만, 자외선차단제품 및 인공선탠제품에서는 1ppm 이하이어야 한다.))",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1567,
+                    "korean": "레몬그라스잎오일",
+                    "english": "Cymbopogon Citratus Leaf Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제, 피부컨디셔닝제(기타), 산화방지제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 6492,
+                    "korean": "페퍼민트오일",
+                    "english": "Mentha Piperita (Peppermint) Oil",
+                    "ewg": "5",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "향료, 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 557,
+                    "korean": "마조람꽃오일, 꽃박하꽃오일(구명칭)",
+                    "english": "Origanum Majorana Flower Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                }
+            ],
+            "sub_product_ingredients": null
+        },
+        "goodsProductsData": null,
+        "goodsProductsCommonData": null
+    },
+    "__N_SSP": true
+}

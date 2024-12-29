@@ -1,0 +1,986 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.51,
+        "rank_descriptions": [
+          "스킨/토너 ・ 진정 5위",
+          "스킨/토너 28위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": "진정",
+            "category_code": "001:001:001",
+            "category_name": "스킨/토너",
+            "preview_ranking_id": 4158,
+            "rank": 5,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:001:001",
+            "category_name": "스킨/토너",
+            "preview_ranking_id": 4156,
+            "rank": 28,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 978
+      },
+      "goods": {
+        "ask_count": 28,
+        "available_stockcnt": 320,
+        "capacity": "200ml",
+        "consumer_price": 23000,
+        "delivery_additional_price": "제주 2,500원, 그 외 도서산간지역 2,500원 추가",
+        "delivery_company": "CJ대한통운",
+        "delivery_free_condition": null,
+        "delivery_price": "무료배송",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/211012_140012_%5B%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%5D211008_SB-HT_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/211012_140012_%5B%ED%81%AC%EA%B8%B0%EB%B3%80%ED%99%98%5D211008_SB-HT_%EC%83%81%EC%84%B8%ED%8E%98%EC%9D%B4%EC%A7%80.jpg"
+        ],
+        "discount_rate": 10,
+        "estimated_rewards": {
+          "purchase": 207,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": false,
+        "id": 15490,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "어성초 카밍 토너 스킨 부스터 200ml",
+        "notice_images": [],
+        "option_id": 1541540,
+        "partner": {
+          "id": 168,
+          "image_url": "https://img.hwahae.co.kr/commerce/partner/cover/abib_visual.jpg",
+          "name": "아비브 공식몰"
+        },
+        "price": 20700,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20240416_170637_240416_SB-H_%EC%84%B8%EB%A1%9C%ED%98%95.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "아비브 (Abib)",
+          "id": 3914,
+          "image_url": "https://img.hwahae.co.kr/brands/3914/3914_20230405140512.png",
+          "name": "아비브"
+        },
+        "buy_info": "200ml / 23,000원",
+        "categories": [
+          {
+            "code": "001:001:001",
+            "name": "스킨/토너"
+          }
+        ],
+        "encrypted_product_id": "5da2965798925562709b513102db0f14",
+        "food_product_info": null,
+        "id": 1895356,
+        "image_url": "https://img.hwahae.co.kr/products/1895356/1895356_20220801000000.jpg",
+        "is_favorite": false,
+        "name": "어성초 카밍 토너 스킨 부스터",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "b5a87054-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycerin, Glycerol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 459,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세린",
+          "limitation": "해당 없음",
+          "purpose": "변성제, 피부보호제, 피부컨디셔닝제(보습제), 점도감소제, 헤어컨디셔닝제, 착향제, 보습제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "보습력 증가",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Butylene Glycol, 1,3-Butylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2454,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제, 피부컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Pentylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6535,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "펜틸렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Betaine",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 2314,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "베타인",
+          "limitation": "해당 없음",
+          "purpose": "헤어컨디셔닝제, 보습제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "1,2-Hexanediol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "1,2-헥산다이올, 1,2-헥산디올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Xylitol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5222,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "자일리톨",
+          "limitation": "해당 없음",
+          "purpose": "감미제, 보습제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Houttuynia Cordata Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4350,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "약모밀추출물, 어성초추출물(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Panthenol, D Panthenol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6380,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "판테놀, 디판테놀",
+          "limitation": "해당 없음",
+          "purpose": "용제, 헤어컨디셔닝제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "컨디셔닝",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ethylhexylglycerin",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4493,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Hyaluronate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 3385,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐하이알루로네이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Bifida Ferment Lysate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 2669,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "비피다발효용해물",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycine Soja (Soybean) Seed Extract, Glycine Max (Soybean) Seed Extract(구명칭)",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 19696,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "돌콩추출물, 콩추출물(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Disodium EDTA",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1096,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이소듐이디티에이, 디소듐이디티에이(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydrolyzed Hyaluronic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7949,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드롤라이즈드하이알루로닉애씨드",
+          "limitation": "해당 없음",
+          "purpose": "헤어컨디셔닝제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Xanthan Gum",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5256,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "잔탄검",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 피부컨디셔닝제, 계면활성제(유화제), 유화안정제, 결합제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Octanediol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4686,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "옥탄다이올, 옥탄디올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "가소제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Centella Asiatica Extract, Hydrocotyl (Centella Asiatica) Extract, Centella Asiatica (Gotu Kola) Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2386,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "병풀추출물",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Tocopherol, Vitamin E",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6098,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "토코페롤, 비타민E",
+          "limitation": "20%",
+          "purpose": "산화방지제, 피부컨디셔닝제, 착향제, 수분증발차단제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "피부 재생, 탄력",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Lonicera Japonica (Honeysuckle) Flower Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 533,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "인동덩굴꽃추출물, 금은화추출물(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Scutellaria Baicalensis Root Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 8181,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "황금추출물",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Biosaccharide Gum-4",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 2212,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "바이오사카라이드검-4",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Gaultheria Procumbens (Wintergreen) Leaf Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4917,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "파스향나무잎추출물, 윈터그린잎추출물(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "착향제, 피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.51022481918335,
+        "productIndex": 1895356,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9462432/9462432_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9462432/9462432_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9462432
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9457853/9457853_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9457853/9457853_0_0.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9457853/9457853_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9457853/9457853_0_1.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9457853/9457853_0_2.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9457853/9457853_0_2.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9457853
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9425450/9425450_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9425450/9425450_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9425450
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9399124/9399124_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9399124/9399124_0_0.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9399124/9399124_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9399124/9399124_0_1.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9399124
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9395973/9395973_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9395973/9395973_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9395973
+          }
+        ],
+        "totalCount": 978,
+        "totalImageCount": 286
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 978,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          10,
+          13,
+          68,
+          264,
+          623
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "1995",
+          "atopy": false,
+          "badText": "용량대비 가격이 비싸고 성분표가 전부 영어로 표기되어 있어요",
+          "blind": 0,
+          "brand": "아비브 (Abib)",
+          "commentCount": 0,
+          "encryptedProductId": "5da2965798925562709b513102db0f14",
+          "gender": "여성",
+          "goodText": "피부 뒤집어질때마다 스킨팩 올려쥬면 바로 진정되는\n최고의 스킨..10통도 넘게 썼어요",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1731495887,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1895356/1895356_20220801000000.jpg",
+          "productIndex": 1895356,
+          "productName": "어성초 카밍 토너 스킨 부스터",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9469517,
+          "sensitive": true,
+          "skinType": "건성",
+          "trouble": true,
+          "updateTime": 1731495887,
+          "usePeriod": 0,
+          "userId": "11901192",
+          "userImageUrl": null,
+          "userName": "wonni2e2",
+          "userPhotoToken": 0,
+          "userReviewCount": 1
+        },
+        {
+          "additionText": "토너패드로 만들어서 쓰면 진짜 좋음",
+          "age": "2009",
+          "atopy": false,
+          "badText": "어성초가 고함량 들어있어서 어성초 안맞으면 그냥 여드름 폭발이니깐 진짜 성분 잘보고 사세요! 진짜 어성초 잘맞으면 좋은데 안맞으면…ㅎ",
+          "blind": 0,
+          "brand": "아비브 (Abib)",
+          "commentCount": 0,
+          "encryptedProductId": "5da2965798925562709b513102db0f14",
+          "gender": "여성",
+          "goodText": "이거 진짜 너무 좋으니깐 올영 갈때마다 제발 사세요.\n진짜 어성초가 진정에 좋은건 아시죠??진짜 화농성에 좋아서 토너패드로 붙어놓고 20분 있으면 여드름 진정되고 2달만 고생하면 진짜 꿀피부 됨ㅋ",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1731478430,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1895356/1895356_20220801000000.jpg",
+          "productIndex": 1895356,
+          "productName": "어성초 카밍 토너 스킨 부스터",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9469138,
+          "sensitive": true,
+          "skinType": "지성",
+          "trouble": true,
+          "updateTime": 1731478430,
+          "usePeriod": 0,
+          "userId": "10487434",
+          "userImageUrl": null,
+          "userName": "조현진0303",
+          "userPhotoToken": 0,
+          "userReviewCount": 17
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "0bddcc7c-58f6-4a24-b456-7d072df74264",
+        "is_positive": false,
+        "name": "알러지반응오는",
+        "review_count": 23,
+        "score": 7.127,
+        "sentence": "알러지 반응이 와요"
+      },
+      {
+        "id": "486a84d0-0208-451d-aac2-c2f06ed3941d",
+        "is_positive": false,
+        "name": "흘러내리는",
+        "review_count": 8,
+        "score": 3.248,
+        "sentence": "흘러내려요"
+      },
+      {
+        "id": "7a13ae53-4e01-4b15-ba2a-0de56f1bd88d",
+        "is_positive": false,
+        "name": "각질제거안되는",
+        "review_count": 5,
+        "score": 2.735,
+        "sentence": "각질제거가 안돼요"
+      },
+      {
+        "id": "d60ac4cd-8882-4e13-8c69-8f431afe4b89",
+        "is_positive": false,
+        "name": "잘굳는",
+        "review_count": 4,
+        "score": 2.51,
+        "sentence": "잘 굳어요"
+      },
+      {
+        "id": "91de6a0a-d1a8-489b-a862-347eef5fc34c",
+        "is_positive": false,
+        "name": "잔여물남는",
+        "review_count": 2,
+        "score": 1.702,
+        "sentence": "잔여물이 남아요"
+      },
+      {
+        "id": "be95b80c-d325-45dd-8411-0fbdef8a210f",
+        "is_positive": false,
+        "name": "겉도는",
+        "review_count": 2,
+        "score": 1.207,
+        "sentence": "겉돌아요"
+      },
+      {
+        "id": "3660cde8-c955-43f2-a90b-9197f82967ed",
+        "is_positive": false,
+        "name": "인공향나는",
+        "review_count": 2,
+        "score": 0.979,
+        "sentence": "인공 향이 나요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "02d39b0d-1252-40ac-a12d-260c184271de",
+        "is_positive": true,
+        "name": "진정되는",
+        "review_count": 234,
+        "score": 49.204,
+        "sentence": "진정이 잘 돼요"
+      },
+      {
+        "id": "8a68f970-da4e-40be-a1c6-4869f97ad429",
+        "is_positive": true,
+        "name": "흡수잘되는",
+        "review_count": 151,
+        "score": 27.644,
+        "sentence": "흡수가 잘 돼요"
+      },
+      {
+        "id": "d0dfbd41-24bb-4ce5-b119-2a7f0a9b5bcf",
+        "is_positive": true,
+        "name": "트러블없어지는",
+        "review_count": 110,
+        "score": 27.475,
+        "sentence": "트러블이 없어져요"
+      },
+      {
+        "id": "d1ac495e-bf0e-4a3f-9e3f-332bbae75cfa",
+        "is_positive": true,
+        "name": "자극없는",
+        "review_count": 246,
+        "score": 26.81,
+        "sentence": "자극이 없어요"
+      },
+      {
+        "id": "e2f4c26f-c91c-4f79-88ff-0fdd9a1646d2",
+        "is_positive": true,
+        "name": "보습잘되는",
+        "review_count": 159,
+        "score": 24.714,
+        "sentence": "보습이 잘 돼요"
+      },
+      {
+        "id": "7506d69e-cfe4-4738-8872-f75e760f5059",
+        "is_positive": true,
+        "name": "수분있는",
+        "review_count": 237,
+        "score": 23.493,
+        "sentence": "수분이 있어요"
+      },
+      {
+        "id": "5ca446dc-588e-4766-bf6d-92acac813aed",
+        "is_positive": true,
+        "name": "가벼운",
+        "review_count": 87,
+        "score": 21.951,
+        "sentence": "가벼워요"
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

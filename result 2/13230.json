@@ -1,0 +1,894 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.33,
+        "rank_descriptions": [
+          "마스크/팩 -위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": null,
+            "category_code": "003:001:010",
+            "category_name": "마스크/팩",
+            "preview_ranking_id": 2,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "남성"
+          }
+        ],
+        "review_count": 3
+      },
+      "goods": {
+        "ask_count": 1,
+        "available_stockcnt": 9977,
+        "capacity": null,
+        "consumer_price": 15000,
+        "delivery_additional_price": "제주 3,000원, 그 외 도서산간지역 3,000원 추가",
+        "delivery_company": "CJ대한통운",
+        "delivery_free_condition": "30,000원 이상 구매 시 무료",
+        "delivery_price": "2,500원",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/13230_26174601mcontent.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/13230_26174601mcontent1.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/13230_26174601mcontent.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/13230_26174601mcontent1.jpg"
+        ],
+        "discount_rate": 10,
+        "estimated_rewards": {
+          "purchase": 135,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": false,
+        "id": 13230,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "블랙헤드 필 오프 팩 100g",
+        "notice_images": [],
+        "option_id": 18863,
+        "partner": {
+          "id": 302,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/210203_170814_1200x628.jpg",
+          "name": "엠도씨 공식몰"
+        },
+        "price": 13500,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/13230_13101938view.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "엠도씨 (MdoC)",
+          "id": 1194,
+          "image_url": "https://img.hwahae.co.kr/brands/1194/1194_20230405140512.png",
+          "name": "엠도씨"
+        },
+        "buy_info": "100g / 15,000원",
+        "categories": [
+          {
+            "code": "003:001:010",
+            "name": "남성 마스크/팩"
+          }
+        ],
+        "encrypted_product_id": "2540d3232d5d735b0fdbde6f051ca09e",
+        "food_product_info": null,
+        "id": 1871247,
+        "image_url": "https://img.hwahae.co.kr/products/1871247/1871247_20220801000000.jpg",
+        "is_favorite": false,
+        "name": "블랙헤드 필 오프 팩",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "b4a6e94f-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "PVP",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 7095,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "피브이피",
+          "limitation": "해당 없음",
+          "purpose": "현탁화제(비계면활성제), 유화안정제, 피막형성제, 결합제, 모발고정제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Alcohol, Ethanol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 4253,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "알코올, 에탄올",
+          "limitation": "해당 없음",
+          "purpose": "기포방지제/소포제, 수렴제, 용제, 점도감소제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_04",
+              "group_name": "수렴 진정"
+            }
+          ],
+          "skin_remark_bad": "수분증발, 피부건조",
+          "skin_remark_good": null,
+          "skin_type": "bs;bd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Polyvinyl Alcohol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6811,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "폴리비닐알코올",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 피막형성제, 결합제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Dipropylene Glycol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1242,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이프로필렌글라이콜, 디프로필렌글라이콜(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제, 피부컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Charcoal Powder, Activated Charcoal",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 3492,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "숯가루, 활성탄",
+          "limitation": "해당 없음",
+          "purpose": "연마제, 흡수제, 불투명화제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Silica",
+          "ewg": "1_3",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 3754,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "실리카",
+          "limitation": "해당 없음",
+          "purpose": "벌킹제(증량제), 안티케이킹제, 현탁화제(비계면활성제), 스크럽제, 흡수제, 불투명화제",
+          "purposes": [
+            {
+              "group_code": "IPGC_05",
+              "group_name": "각질 제거"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Polyglyceryl-4 Caprate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6757,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "폴리글리세릴-4카프레이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(유연제), 계면활성제(유화제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Chamaecyparis Obtusa Leaf Extract",
+          "ewg": null,
+          "ewg_data_availability_text": "해당 없음",
+          "forbidden": "해당 없음",
+          "id": 6538,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "편백잎추출물, 편백나무잎추출물(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Lens Esculenta (Lentil) Seed Extract",
+          "ewg": null,
+          "ewg_data_availability_text": "해당 없음",
+          "forbidden": "해당 없음",
+          "id": 1613,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "에스큘렌타렌즈콩씨추출물(구명칭), 렌즈콩씨추출물(구명칭), 렌틸콩씨추출물",
+          "limitation": "해당 없음",
+          "purpose": "피부보호제",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Portulaca Oleracea Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1775,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "쇠비름추출물, 마치현추출물(구명칭), 포츌라카올레라세아추출물(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Citrus Paradisi (Grapefruit) Fruit Extract",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "금지 (푸로쿠마린류(예 : 트리옥시살렌, 8-메톡시소랄렌, 5-메톡시소랄렌)(천연에센스에 자연적으로 함유된 경우는 제외. 다만, 자외선차단제품 및 인공선탠제품에서는 1ppm 이하이어야 한다.))",
+          "id": 5204,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "자몽추출물",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Saccharide Isomerate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 2734,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "사카라이드아이소머레이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Allantoin",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 4161,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "알란토인",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 피부보호제",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            },
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": "예민해진 피부 진정",
+          "skin_remark_good": "수렴 및 진정",
+          "skin_type": "go;gs",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Panthenol, D Panthenol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6380,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "판테놀, 디판테놀",
+          "limitation": "해당 없음",
+          "purpose": "용제, 헤어컨디셔닝제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "컨디셔닝",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Tocopheryl Acetate",
+          "ewg": "2_3",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6105,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "토코페릴아세테이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 산화방지제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Arginine",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 4242,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "알지닌",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 헤어컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydroxypropyl Starch Phosphate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7777,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드록시프로필스타치포스페이트",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 벌킹제(증량제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Xanthan Gum",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5256,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "잔탄검",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 피부컨디셔닝제, 계면활성제(유화제), 유화안정제, 결합제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Carbomer, Carboxyvinyl Polymer",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5562,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "카보머, 카복시비닐폴리머",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 유화안정제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ammonium Acryloyldimethyltaurate/VP Copolymer",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 4288,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "암모늄아크릴로일다이메틸타우레이트/브이피코폴리머, 암모늄아크릴로일디메칠타우레이트/브이피코폴리머(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수성)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Benzyl Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 8884,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "벤질글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ethylhexylglycerin",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4493,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Raspberry Ketone",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1311,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "라즈베리케톤, 라스베리케톤(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "착향제, 피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Disodium EDTA",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1096,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이소듐이디티에이, 디소듐이디티에이(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Fragrance, Parfum, Aroma",
+          "ewg": "8",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8030,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "향료",
+          "limitation": "해당 없음",
+          "purpose": "감미제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "향을 유발하는 성분을 통칭해 향료로 표기하기에 실체를 정확히 알 수 없다. 두통, 현기증, 발진, 색소침착, 기관지 자극을 유발한다고 알려져 있다."
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.333333492279053,
+        "productIndex": 1871247,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7306814/7306814_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7306814/7306814_0_0.png?size=120x120",
+                "type": "사용전"
+              }
+            ],
+            "reviewId": 7306814
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7177955/7177955_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7177955/7177955_0_0.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7177955/7177955_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7177955/7177955_0_1.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 7177955
+          }
+        ],
+        "totalCount": 3,
+        "totalImageCount": 3
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 3,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          0,
+          0,
+          1,
+          0,
+          2
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "1996",
+          "atopy": false,
+          "badText": "생각보다 피지가 잘 뽑히진 않았어요 더 잘 뽑히게 코 전용으로 만들어주기면 좋겠어요",
+          "blind": 0,
+          "brand": "엠도씨 (MdoC)",
+          "commentCount": 0,
+          "encryptedProductId": "2540d3232d5d735b0fdbde6f051ca09e",
+          "gender": "여성",
+          "goodText": "저렴하고 막 쓸수 있어 좋았어요 돼지코팩이 비싸서 샀는데 휘뚜루마뚜루 샀어요",
+          "images": [
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/7306814/7306814_0_0.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/7306814/7306814_0_0.png?size=120x120",
+              "type": "사용전"
+            }
+          ],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 1,
+          "modifyTime": 1656224065,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1871247/1871247_20220801000000.jpg",
+          "productIndex": 1871247,
+          "productName": "블랙헤드 필 오프 팩",
+          "rating": 3,
+          "repurchase": -1,
+          "reviewId": 7306814,
+          "sensitive": false,
+          "skinType": "지성",
+          "trouble": false,
+          "updateTime": 1656224065,
+          "usePeriod": 0,
+          "userId": "5960747",
+          "userImageUrl": null,
+          "userName": "홍블리용",
+          "userPhotoToken": 0,
+          "userReviewCount": 9
+        },
+        {
+          "additionText": "",
+          "age": "2006",
+          "atopy": false,
+          "badText": "없는데 솔직히 효과가 좋은지는 잘 모르겠어요 꾸준히 함 써보면 효과 있을꺼라 기대합니당",
+          "blind": 0,
+          "brand": "엠도씨 (MdoC)",
+          "commentCount": 0,
+          "encryptedProductId": "2540d3232d5d735b0fdbde6f051ca09e",
+          "gender": "여성",
+          "goodText": "빨리 굳고 냄새도 괜츈하고 펴바르는것도 나쁘지 않음",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1654009258,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1871247/1871247_20220801000000.jpg",
+          "productIndex": 1871247,
+          "productName": "블랙헤드 필 오프 팩",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 7257735,
+          "sensitive": true,
+          "skinType": "중성",
+          "trouble": false,
+          "updateTime": 1654009258,
+          "usePeriod": 0,
+          "userId": "7970994",
+          "userImageUrl": null,
+          "userName": "주은꿍꿍",
+          "userPhotoToken": 0,
+          "userReviewCount": 7
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "9f4793a6-fb4a-4b45-828a-7f99e04d4c83",
+        "is_positive": false,
+        "name": "피지안없어지는",
+        "review_count": 1,
+        "score": 3.072,
+        "sentence": "피지가 안 없어져요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "dd8a7e91-6685-4e16-b747-489f1a365ef7",
+        "is_positive": true,
+        "name": "블랙헤드없어지는",
+        "review_count": 1,
+        "score": 2.884,
+        "sentence": "블랙헤드가 없어져요"
+      },
+      {
+        "id": "593a6ffb-2284-4a26-9568-9e50b9a7ef28",
+        "is_positive": true,
+        "name": "향에만족한",
+        "review_count": 1,
+        "score": 1.06,
+        "sentence": "향에 만족해요"
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

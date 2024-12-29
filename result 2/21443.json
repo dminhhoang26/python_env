@@ -1,0 +1,983 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.22,
+        "rank_descriptions": [
+          "클렌징 폼 ・ 각질 14위",
+          "클렌징 폼 -위",
+          "스크럽/필링 26위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": "각질",
+            "category_code": "001:002:001",
+            "category_name": "클렌징 폼",
+            "preview_ranking_id": 4208,
+            "rank": 14,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:002:001",
+            "category_name": "클렌징 폼",
+            "preview_ranking_id": 4200,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:002:009",
+            "category_name": "스크럽/필링",
+            "preview_ranking_id": 4216,
+            "rank": 26,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 60
+      },
+      "goods": {
+        "ask_count": 2,
+        "available_stockcnt": 261,
+        "capacity": "150ml",
+        "consumer_price": 13000,
+        "delivery_additional_price": null,
+        "delivery_company": "우체국택배",
+        "delivery_free_condition": null,
+        "delivery_price": "무료배송",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230228_104625_720_AC_Foam_Cleanser.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230228_104625_720_AC_Foam_Cleanser.jpg"
+        ],
+        "discount_rate": 20,
+        "estimated_rewards": {
+          "purchase": 104,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": false,
+        "id": 21443,
+        "is_promotion_set": false,
+        "max_purchase_count": 2,
+        "min_purchase_count": 1,
+        "name": "에이씨 컬렉션 카밍 폼 클렌저 150ml",
+        "notice_images": [],
+        "option_id": 1291856,
+        "partner": {
+          "id": 21,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/20230918/20230918162521091_브랜드관-이미지-01.jpg",
+          "name": "코스알엑스 공식몰"
+        },
+        "price": 10400,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/210303_101546_11.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "코스알엑스 (COSRX)",
+          "id": 1310,
+          "image_url": "https://img.hwahae.co.kr/brands/1310/1310_20230405140512.png",
+          "name": "코스알엑스"
+        },
+        "buy_info": "150ml / 13,000원",
+        "categories": [
+          {
+            "code": "001:002:001",
+            "name": "클렌징 폼"
+          },
+          {
+            "code": "001:002:009",
+            "name": "스크럽/필링"
+          }
+        ],
+        "encrypted_product_id": "d3b34ca6562add615135fff9646948e4",
+        "food_product_info": null,
+        "id": 1898138,
+        "image_url": "https://img.hwahae.co.kr/products/1898138/1898138_20220801000000.jpg",
+        "is_favorite": false,
+        "name": "AC 컬렉션 카밍 폼 클렌저",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "b5c75f66-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycerin, Glycerol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 459,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세린",
+          "limitation": "해당 없음",
+          "purpose": "변성제, 피부보호제, 피부컨디셔닝제(보습제), 점도감소제, 헤어컨디셔닝제, 착향제, 보습제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "보습력 증가",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Stearic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 3627,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "스테아릭애씨드",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(세정제), 착향제, 계면활성제(유화제)",
+          "purposes": [],
+          "skin_remark_bad": "모공 막음",
+          "skin_remark_good": null,
+          "skin_type": "bo",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Myristic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 2118,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "미리스틱애씨드, 미리스틴산",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(세정제), 불투명화제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": "모공 막음",
+          "skin_remark_good": null,
+          "skin_type": "bo",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "PEG-32",
+          "ewg": "1_3",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7276,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "피이지-32",
+          "limitation": "해당 없음",
+          "purpose": "용제, 보습제, 결합제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "PEG공통: 섭취시 간장, 신장 장애를 발생할 수 있으며, 알레르기 유발물질로 알려져 있다."
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Potassium Hydroxide",
+          "ewg": "2_5",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6645,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "포타슘하이드록사이드",
+          "limitation": "손톱표피 용해 목적일 경우 5%, pH 조정 목적으로 사용되고 최종 제품이 제5조제5항에 pH기준이 정하여 있지 아니한 경우에도 최종 제품의 pH는 11이하;제모제에서 pH조정 목적으로 사용되는 경우 최종 제품의 pH는 12.7이하",
+          "purpose": "pH 조정제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Palmitic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6434,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "팔미틱애씨드, 팔미티산",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(세정제), 착향제, 불투명화제, 계면활성제(유화제)",
+          "purposes": [],
+          "skin_remark_bad": "모공 막음",
+          "skin_remark_good": null,
+          "skin_type": "bo",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Lauric Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1366,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "라우릭애씨드",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(세정제), 착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glyceryl Stearates",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 481,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세릴스테아레이트, 혼합글리세릴스테아레이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(유연제), 계면활성제(유화제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "PEG-100 Stearate",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 7108,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "피이지-100스테아레이트",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(세정제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "PEG공통: 섭취시 간장, 신장 장애를 발생할 수 있으며, 알레르기 유발물질로 알려져 있다."
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Lauramide DEA",
+          "ewg": "1_3",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "금지 (2급 아민함량이 5%를 초과하는 패티애씨드디알킬아마이드류 및 디알칸올아마이드류)",
+          "id": 1315,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "라우라마이드디이에이",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(거품촉진제), 점도증가제(수성)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Cocamidopropyl Betaine",
+          "ewg": "1_5",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 5762,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "코카미도프로필베타인",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 피부컨디셔닝제, 정전기방지제, 계면활성제(세정제), 계면활성제(거품형성제), 헤어컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Potassium Cocoate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6629,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "포타슘코코에이트",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(세정제), 계면활성제(유화제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": "5",
+          "english": "Salicylic Acid",
+          "ewg": "1_3",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 2793,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "살리실릭애씨드, 살리실산",
+          "limitation": "<보존제>살리실릭애씨드로서 0.5%;영유아용 제품류 또는 만 13세 이하 어린이가 사용할 수 있음을 특정하여 표시하는 제품에는 사용금지(다만, 샴푸는 제외);<기타배합한도>사용 후 씻어내는 제품류에 살리실릭애씨드로서 2%;사용 후 씻어내는 두발용 제품류에 살리실릭애씨드로서 3%;영유아용 제품류 또는 만 13세 이하 어린이가 사용할 수 있음을 특정하여 표시하는 제품에는 사용금지(다만, 샴푸는 제외);기능성화장품의 유효성분으로 사용하는 경우에 한하며 기타 제품에는 사용금지",
+          "purpose": "피부컨디셔닝제, 변성제, 보존제, 각질제거제, 헤어컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_05",
+              "group_name": "각질 제거"
+            },
+            {
+              "group_code": "IPGC_07",
+              "group_name": "여드름 완화"
+            }
+          ],
+          "skin_remark_bad": "고농도일경우 피부자극",
+          "skin_remark_good": "피지 조절",
+          "skin_type": "go;bs",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Chloride",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 3342,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐클로라이드",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 감미제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Arachidic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 3860,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "아라키딕애씨드",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(세정제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Lavandula Hybrida Oil",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1299,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "라반딘오일",
+          "limitation": "해당 없음",
+          "purpose": "착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Linalool",
+          "ewg": "3",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1675,
+          "is_allergy": true,
+          "is_twenty": false,
+          "korean": "리날룰",
+          "limitation": "해당 없음",
+          "purpose": "착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Disodium EDTA",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1096,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이소듐이디티에이, 디소듐이디티에이(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Oleic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 4760,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "올레익애씨드",
+          "limitation": "해당 없음",
+          "purpose": "향료, 계면활성제(세정제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "d-Limonene, dl-Limonene, Limonene",
+          "ewg": "4_6",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "금지 (과산화물가가 20mmol/L을 초과하는 d-리모넨;과산화물가가 20mmol/L을 초과하는 ㎗-리모넨;과산화물가가 20mmol/L을 초과하는 ℓ-리모넨)",
+          "id": 1686,
+          "is_allergy": true,
+          "is_twenty": false,
+          "korean": "d-리모넨, ㎗-리모넨, 리모넨",
+          "limitation": "해당 없음",
+          "purpose": "용제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Asiaticoside",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4038,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "아시아티코사이드",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 산화방지제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Asiatic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4039,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "아시아틱애씨드",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Madecassic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1748,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "마데카식애씨드",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.2166666984558105,
+        "productIndex": 1898138,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8909353/8909353_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8909353/8909353_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 8909353
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8763171/8763171_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8763171/8763171_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 8763171
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8731022/8731022_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8731022/8731022_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 8731022
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8493014/8493014_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8493014/8493014_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 8493014
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8225218/8225218_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8225218/8225218_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 8225218
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8115403/8115403_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8115403/8115403_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 8115403
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7716725/7716725_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7716725/7716725_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7716725
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7598729/7598729_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7598729/7598729_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7598729
+          }
+        ],
+        "totalCount": 60,
+        "totalImageCount": 17
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 60,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          4,
+          3,
+          5,
+          12,
+          36
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "2002",
+          "atopy": false,
+          "badText": "아쉬운점은 딱히 없는 것 같습니다. 그냥 싼가격에 괜찮음",
+          "blind": 0,
+          "brand": "코스알엑스 (COSRX)",
+          "commentCount": 0,
+          "encryptedProductId": "d3b34ca6562add615135fff9646948e4",
+          "gender": "남성",
+          "goodText": "피부가 많이 민감해서 그전에 쓰던 클렌진폼은 세안 후에 땡기고 따가움 좀 있었는데 이거 쓰니까 그런거 없음",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1727624061,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1898138/1898138_20220801000000.jpg",
+          "productIndex": 1898138,
+          "productName": "AC 컬렉션 카밍 폼 클렌저",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9380747,
+          "sensitive": true,
+          "skinType": "지성",
+          "trouble": true,
+          "updateTime": 1727624061,
+          "usePeriod": 0,
+          "userId": "11810261",
+          "userImageUrl": null,
+          "userName": "ㅣ타ㅔㅈ",
+          "userPhotoToken": 0,
+          "userReviewCount": 1
+        },
+        {
+          "additionText": "",
+          "age": "1995",
+          "atopy": false,
+          "badText": "없어요. 지성이 아닌 분들에겐 사용을 비추합니다.",
+          "blind": 0,
+          "brand": "코스알엑스 (COSRX)",
+          "commentCount": 0,
+          "encryptedProductId": "d3b34ca6562add615135fff9646948e4",
+          "gender": "여성",
+          "goodText": "살리실산 클렌징폼 중에 제일 자극적이지 않고 뽀득뽀득 잘 닦여요.",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1725272144,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1898138/1898138_20220801000000.jpg",
+          "productIndex": 1898138,
+          "productName": "AC 컬렉션 카밍 폼 클렌저",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9319209,
+          "sensitive": true,
+          "skinType": "지성",
+          "trouble": false,
+          "updateTime": 1725272144,
+          "usePeriod": 0,
+          "userId": "10174150",
+          "userImageUrl": "https://img.hwahae.co.kr/users/profiles/10174150/10174150_20230327223744.jpg",
+          "userName": "지적인왕앵무레이디",
+          "userPhotoToken": 1,
+          "userReviewCount": 65
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "5a42a54c-42cc-4979-af1e-57c5e8ea64d4",
+        "is_positive": false,
+        "name": "알러지반응오는",
+        "review_count": 4,
+        "score": 2.412,
+        "sentence": "알러지 반응이 와요"
+      },
+      {
+        "id": "c097261d-7a0b-4b3d-995e-0646f6ffa697",
+        "is_positive": false,
+        "name": "따가운",
+        "review_count": 3,
+        "score": 2.294,
+        "sentence": "따가워요"
+      },
+      {
+        "id": "e7e5661c-d58f-41dc-8172-d33e0e5d87af",
+        "is_positive": false,
+        "name": "거품이풍성하지않은",
+        "review_count": 2,
+        "score": 1.941,
+        "sentence": "거품이 풍성하지 않아요"
+      },
+      {
+        "id": "566c5bcb-f7d7-4015-b89b-ef7201d915cf",
+        "is_positive": false,
+        "name": "노폐물제거안되는",
+        "review_count": 3,
+        "score": 1.865,
+        "sentence": "노폐물 제거가 안돼요"
+      },
+      {
+        "id": "7892f71a-f071-48a4-b246-23bb3867eb43",
+        "is_positive": false,
+        "name": "가려운",
+        "review_count": 1,
+        "score": 1.037,
+        "sentence": "가려워요"
+      },
+      {
+        "id": "7a0a7269-8961-423e-ac49-052fa7cf7529",
+        "is_positive": false,
+        "name": "각질제거안되는",
+        "review_count": 1,
+        "score": 1.012,
+        "sentence": "각질제거가 안돼요"
+      },
+      {
+        "id": "61653c0f-a8d9-40f5-99b3-7645a94b7830",
+        "is_positive": false,
+        "name": "잔여물남는",
+        "review_count": 1,
+        "score": 0.983,
+        "sentence": "잔여물이 남아요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "94f8474f-841c-4e6f-aade-99db43fe4af2",
+        "is_positive": true,
+        "name": "뽀드득거리는",
+        "review_count": 11,
+        "score": 7.036,
+        "sentence": "뽀드득거려요"
+      },
+      {
+        "id": "58ce7784-5073-4a48-87e0-a63b67cdfaeb",
+        "is_positive": true,
+        "name": "트러블안생기는",
+        "review_count": 6,
+        "score": 3.52,
+        "sentence": "트러블이 안 생겨요"
+      },
+      {
+        "id": "f905a7c6-349a-432a-84b2-4ec17aaf4da5",
+        "is_positive": true,
+        "name": "쫀득한",
+        "review_count": 5,
+        "score": 3.487,
+        "sentence": "쫀득해요"
+      },
+      {
+        "id": "eab322ce-8c01-4776-b10b-61ac7e79f651",
+        "is_positive": true,
+        "name": "2차세안에적합한",
+        "review_count": 4,
+        "score": 3.027,
+        "sentence": "2차 세안에 적합해요"
+      },
+      {
+        "id": "6073ce62-c0b5-448e-a24b-87a1066b05b9",
+        "is_positive": true,
+        "name": "트러블없어지는",
+        "review_count": 4,
+        "score": 2.682,
+        "sentence": "트러블이 없어져요"
+      },
+      {
+        "id": "193dd72d-fccd-47a3-a9bd-c46912e78d73",
+        "is_positive": true,
+        "name": "세정잘되는",
+        "review_count": 7,
+        "score": 2.486,
+        "sentence": "세정이 잘 돼요"
+      },
+      {
+        "id": "8cc333b5-2cbb-4ae0-81c8-0b66321191af",
+        "is_positive": true,
+        "name": "약산성인",
+        "review_count": 5,
+        "score": 2.379,
+        "sentence": "약산성이에요"
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

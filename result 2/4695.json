@@ -1,0 +1,573 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [
+      {
+        "award_full_name": "2022 화해 뷰티 어워드",
+        "award_id": 41,
+        "category_desc": "데오드란트 1위",
+        "category_full_name": "일반 카테고리:바디:데오드란트",
+        "is_legacy": true,
+        "leaf_award_id": null,
+        "product_id": 1814944
+      },
+      {
+        "award_full_name": "2021 화해 뷰티 어워드",
+        "award_id": 22,
+        "category_desc": "데오드란트 1위",
+        "category_full_name": "일반 카테고리:바디:데오드란트",
+        "is_legacy": true,
+        "leaf_award_id": null,
+        "product_id": 1814944
+      }
+    ],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.64,
+        "rank_descriptions": [
+          "데오드란트 -위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": null,
+            "category_code": "001:008:011",
+            "category_name": "데오드란트",
+            "preview_ranking_id": 4419,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 525
+      },
+      "goods": {
+        "ask_count": 31,
+        "available_stockcnt": 9169,
+        "capacity": "66ml",
+        "consumer_price": 13500,
+        "delivery_additional_price": null,
+        "delivery_company": "우체국택배",
+        "delivery_free_condition": "20,000원 이상 구매 시 무료",
+        "delivery_price": "3,000원",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230601_143303_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_1.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230601_143306_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_2.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230601_152744_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_3.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230601_143312_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_4.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230626_165955_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_5.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230601_143317_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_6.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230601_143303_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_1.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230601_143306_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_2.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230601_152744_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_3.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230601_143312_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_4.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230626_165955_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_5.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230601_143317_2)%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2)%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB_6.jpg"
+        ],
+        "discount_rate": 0,
+        "estimated_rewards": {
+          "purchase": 135,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": false,
+        "id": 4695,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "[공식몰] 크리스탈 데오드란트 66ml 무향 롤온",
+        "notice_images": [],
+        "option_id": 1249001,
+        "partner": {
+          "id": 162,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/20230601/20230601154543405_visual.jpg",
+          "name": "크리스탈 공식몰"
+        },
+        "price": 13500,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230601_152737_%E1%84%92%E1%85%AA%E1%84%92%E1%85%A2%5D%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%86%AF_%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB1.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230601_143253_%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB1_1000.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230601_143254_%E1%84%86%E1%85%AE%E1%84%92%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%AF%E1%84%8B%E1%85%A9%E1%86%AB2_1000.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "크리스탈 (CRYSTAL)",
+          "id": 1763,
+          "image_url": "https://img.hwahae.co.kr/brands/1763/1763_20230405140512.png",
+          "name": "크리스탈"
+        },
+        "buy_info": "66ml / 13,500원",
+        "categories": [
+          {
+            "code": "001:008:011",
+            "name": "데오드란트"
+          }
+        ],
+        "encrypted_product_id": "c765dcd0dd272f7ee3ad288044c7e57a",
+        "food_product_info": null,
+        "id": 1814944,
+        "image_url": "https://img.hwahae.co.kr/products/1814944/1814944_20220829134307.jpg",
+        "is_favorite": false,
+        "name": "데오드란트 롤온 [무향]",
+        "obsolete": true,
+        "product_type": 1,
+        "uid": "b26e54e8-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Potassium Alum",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6613,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "포타슘알룸",
+          "limitation": "해당 없음",
+          "purpose": "수렴제",
+          "purposes": [
+            {
+              "group_code": "IPGC_04",
+              "group_name": "수렴 진정"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydroxyethylcellulose",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 7744,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드록시에틸셀룰로오스, 하이드록시에칠셀룰로오스(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "유화안정제, 피막형성제, 결합제, 점도증가제(수성)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Bicarbonate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 3211,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐바이카보네이트",
+          "limitation": "해당 없음",
+          "purpose": "스크럽제, 피부보호제, pH 조정제",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            },
+            {
+              "group_code": "IPGC_05",
+              "group_name": "각질 제거"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.636190414428711,
+        "productIndex": 1814944,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9409036/9409036_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9409036/9409036_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9409036
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9272356/9272356_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9272356/9272356_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 9272356
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9250700/9250700_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9250700/9250700_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9250700
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9202226/9202226_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9202226/9202226_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9202226
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9196191/9196191_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9196191/9196191_0_0.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9196191/9196191_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9196191/9196191_0_1.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9196191
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9190120/9190120_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9190120/9190120_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9190120
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9156949/9156949_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9156949/9156949_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9156949
+          }
+        ],
+        "totalCount": 525,
+        "totalImageCount": 247
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 525,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          7,
+          5,
+          28,
+          92,
+          393
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "1995",
+          "atopy": false,
+          "badText": "아쉬운 건 가격,,?? 그리고 건조될 때까지 시간이\n다소 걸린다는 점,,?",
+          "blind": 0,
+          "brand": "크리스탈 (CRYSTAL)",
+          "commentCount": 0,
+          "encryptedProductId": "c765dcd0dd272f7ee3ad288044c7e57a",
+          "gender": "여성",
+          "goodText": "겨울에도 겨땀 많이 나는 사람에게 필수 애정템! 무향이라서 거부감이 없고 딱 좋아요!",
+          "images": [
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/9409036/9409036_0_0.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/9409036/9409036_0_0.png?size=120x120",
+              "type": "기타"
+            }
+          ],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1728703330,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1814944/1814944_20220829134307.jpg",
+          "productIndex": 1814944,
+          "productName": "데오드란트 롤온 [무향]",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9409036,
+          "sensitive": true,
+          "skinType": "건성",
+          "trouble": false,
+          "updateTime": 1728703330,
+          "usePeriod": 0,
+          "userId": "5396592",
+          "userImageUrl": null,
+          "userName": "ㅇ꼬북ㅇ",
+          "userPhotoToken": 0,
+          "userReviewCount": 16
+        },
+        {
+          "additionText": "",
+          "age": "1997",
+          "atopy": false,
+          "badText": "하지만 땀 많이나면 무용지물, 확실히 잡아주진 못한다. \n마르는데 시간이 오래걸린다.\n용량 얼마나 남았는지 알기 어렵다.",
+          "blind": 0,
+          "brand": "크리스탈 (CRYSTAL)",
+          "commentCount": 0,
+          "encryptedProductId": "c765dcd0dd272f7ee3ad288044c7e57a",
+          "gender": "여성",
+          "goodText": "땀냄새를 없애준다.\n자극이 없다.\n쉽게 구할 수 있다.",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1724508440,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1814944/1814944_20220829134307.jpg",
+          "productIndex": 1814944,
+          "productName": "데오드란트 롤온 [무향]",
+          "rating": 3,
+          "repurchase": -1,
+          "reviewId": 9290320,
+          "sensitive": true,
+          "skinType": "수부지",
+          "trouble": true,
+          "updateTime": 1724508440,
+          "usePeriod": 0,
+          "userId": "5121069",
+          "userImageUrl": null,
+          "userName": "소용도릐",
+          "userPhotoToken": 0,
+          "userReviewCount": 36
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "9eda1f48-d3ef-4002-9f91-029cac600b93",
+        "is_positive": false,
+        "name": "잘굳는",
+        "review_count": 72,
+        "score": 13.937,
+        "sentence": "잘 굳어요"
+      },
+      {
+        "id": "73ce1b93-88b2-45ca-8936-15559ac8f6be",
+        "is_positive": false,
+        "name": "흡수안되는",
+        "review_count": 20,
+        "score": 6.591,
+        "sentence": "흡수가 잘 안돼요"
+      },
+      {
+        "id": "9f5ba61c-b5c2-4f0d-be98-c3e87278de1f",
+        "is_positive": false,
+        "name": "알러지반응오는",
+        "review_count": 4,
+        "score": 1.32,
+        "sentence": "알러지 반응이 와요"
+      },
+      {
+        "id": "8e24c73b-9a79-4b22-9d78-58af2693b88d",
+        "is_positive": false,
+        "name": "흘러내리는",
+        "review_count": 3,
+        "score": 1.222,
+        "sentence": "흘러내려요"
+      },
+      {
+        "id": "8a7f2234-23da-4f9b-a8d5-e8e286b4be26",
+        "is_positive": false,
+        "name": "보습안되는",
+        "review_count": 2,
+        "score": 0.93,
+        "sentence": "보습이 안돼요"
+      },
+      {
+        "id": "aba624dc-82e1-4ec1-a3e9-8d3a0708bd31",
+        "is_positive": false,
+        "name": "비누향나는",
+        "review_count": 1,
+        "score": 0.598,
+        "sentence": "비누 향이 나요"
+      },
+      {
+        "id": "d0b1766b-12bc-48ae-ab1b-4a86c4c8cd20",
+        "is_positive": false,
+        "name": "미끌거리는",
+        "review_count": 1,
+        "score": 0.493,
+        "sentence": "미끌거려요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "f40dd391-15fb-4280-b42f-1d826cd32f21",
+        "is_positive": true,
+        "name": "자극없는",
+        "review_count": 39,
+        "score": 13.445,
+        "sentence": "자극이 없어요"
+      },
+      {
+        "id": "4aa1055a-bd28-44ac-83df-b2f6967c8d4b",
+        "is_positive": true,
+        "name": "잘발리는",
+        "review_count": 35,
+        "score": 11.912,
+        "sentence": "잘 발려요"
+      },
+      {
+        "id": "c4923b58-2b62-4187-ab04-2e81a9e52f96",
+        "is_positive": true,
+        "name": "향에만족한",
+        "review_count": 161,
+        "score": 9.762,
+        "sentence": "향에 만족해요"
+      },
+      {
+        "id": "e8693f8c-bde3-4e78-a0c9-c307b0382ffd",
+        "is_positive": true,
+        "name": "따갑지않은",
+        "review_count": 16,
+        "score": 8.243,
+        "sentence": "따갑지 않아요"
+      },
+      {
+        "id": "c519ee42-9534-4bbd-a93b-a654bd7d7276",
+        "is_positive": true,
+        "name": "냄새가독하지않은",
+        "review_count": 16,
+        "score": 5.826,
+        "sentence": "냄새가 독하지 않아요"
+      },
+      {
+        "id": "8e7524be-cd22-4cfa-9d36-08396225053c",
+        "is_positive": true,
+        "name": "가렵지않은",
+        "review_count": 9,
+        "score": 4.775,
+        "sentence": "가렵지 않아요"
+      },
+      {
+        "id": "b0d9db19-47f7-473a-b687-8a5df5c8055c",
+        "is_positive": true,
+        "name": "수분있는",
+        "review_count": 6,
+        "score": 3.539,
+        "sentence": "수분이 있어요"
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

@@ -1,0 +1,919 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 5,
+        "rank_descriptions": [
+          "스킨/토너 패드 ・ 진정 -위",
+          "스킨/토너 패드 -위",
+          "부분마스크 패드 ・ 진정 -위",
+          "부분마스크 패드 -위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": "진정",
+            "category_code": "001:001:011",
+            "category_name": "스킨/토너 패드",
+            "preview_ranking_id": 4500,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:001:011",
+            "category_name": "스킨/토너 패드",
+            "preview_ranking_id": 4498,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": "진정",
+            "category_code": "001:003:008",
+            "category_name": "부분마스크 패드",
+            "preview_ranking_id": 4510,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:003:008",
+            "category_name": "부분마스크 패드",
+            "preview_ranking_id": 4508,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 4
+      },
+      "goods": {
+        "ask_count": 1,
+        "available_stockcnt": 991,
+        "capacity": "190ml",
+        "consumer_price": 30000,
+        "delivery_additional_price": "제주 3,000원, 그 외 도서산간지역 5,000원 추가",
+        "delivery_company": "CJ대한통운",
+        "delivery_free_condition": null,
+        "delivery_price": "무료배송",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204453_720_1.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204502_720_2.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204505_720_3.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204509_720_4.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204512_720_5.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204516_720_6.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204519_720_7.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204522_720_8.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204529_720_9.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204533_720_10.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204537_720_11.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204541_720_12.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204545_720_13.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204550_720_14.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204556_720_15.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204601_720_16.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204607_720_17.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204611_720_18.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204616_720_19.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204621_720_20.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204627_720_21.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204631_720_22.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204635_720_23.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204638_720_24.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204453_720_1.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204502_720_2.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204505_720_3.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204509_720_4.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204512_720_5.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204516_720_6.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204519_720_7.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204522_720_8.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204529_720_9.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204533_720_10.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204537_720_11.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204541_720_12.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204545_720_13.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204550_720_14.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204556_720_15.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204601_720_16.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204607_720_17.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204611_720_18.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204616_720_19.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204621_720_20.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204627_720_21.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204631_720_22.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204635_720_23.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240401_204638_720_24.jpg"
+        ],
+        "discount_rate": 33,
+        "estimated_rewards": {
+          "purchase": 199,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": true,
+        "id": 48976,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "랩 카밍 솔루션 시카 토너패드 60매입 190ml",
+        "notice_images": [],
+        "option_id": 1201514,
+        "partner": {
+          "id": 1793,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/20220831_153008_800x400.jpg",
+          "name": "은율 공식몰"
+        },
+        "price": 19900,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230214_140826_1000_%EC%BF%A0%ED%8C%A1.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230214_140829_1000_02.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230214_140832_1000_03.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230214_140837_1000_08.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230214_140839_1000_07.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230214_140843_1000_05.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230214_140846_1000_06.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "은율랩 (EUNYUL.Lab)",
+          "id": 15093,
+          "image_url": "https://img.hwahae.co.kr/brands/15093/15093_20230405140512.png",
+          "name": "은율랩"
+        },
+        "buy_info": "190ml*60매 / 30,000원",
+        "categories": [
+          {
+            "code": "001:001:011",
+            "name": "스킨/토너 패드"
+          },
+          {
+            "code": "001:003:008",
+            "name": "부분마스크 패드"
+          }
+        ],
+        "encrypted_product_id": "23ba01ec8201d7a2b012fcafb39601ec",
+        "food_product_info": null,
+        "id": 2023304,
+        "image_url": "https://img.hwahae.co.kr/products/2023304/2023304_20230214133537.jpg",
+        "is_favorite": false,
+        "name": "카밍 솔루션 시카 토너패드",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "bab9022e-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Butylene Glycol, 1,3-Butylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2454,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제, 피부컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycerin, Glycerol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 459,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세린",
+          "limitation": "해당 없음",
+          "purpose": "변성제, 피부보호제, 피부컨디셔닝제(보습제), 점도감소제, 헤어컨디셔닝제, 착향제, 보습제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "보습력 증가",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Betaine",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 2314,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "베타인",
+          "limitation": "해당 없음",
+          "purpose": "헤어컨디셔닝제, 보습제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Lactobacillus Ferment Lysate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 1534,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "락토바실러스발효용해물",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Dipropylene Glycol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1242,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이프로필렌글라이콜, 디프로필렌글라이콜(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제, 피부컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "1,2-Hexanediol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "1,2-헥산다이올, 1,2-헥산디올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydroxyacetophenone",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 8572,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드록시아세토페논",
+          "limitation": "해당 없음",
+          "purpose": "산화방지제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Polyglyceryl-10 Laurate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6689,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "폴리글리세릴-10라우레이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 계면활성제(유화제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Carbomer, Carboxyvinyl Polymer",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5562,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "카보머, 카복시비닐폴리머",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 유화안정제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Disodium EDTA",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1096,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이소듐이디티에이, 디소듐이디티에이(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ethylhexylglycerin",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4493,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Fragrance, Parfum, Aroma",
+          "ewg": "8",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8030,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "향료",
+          "limitation": "해당 없음",
+          "purpose": "감미제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "향을 유발하는 성분을 통칭해 향료로 표기하기에 실체를 정확히 알 수 없다. 두통, 현기증, 발진, 색소침착, 기관지 자극을 유발한다고 알려져 있다."
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Tromethamine",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "금지 (2급 아민함량이 0.5%를 초과하는 모노알킬아민, 모노알칸올아민 및 그 염류)",
+          "id": 6144,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "트로메타민",
+          "limitation": "해당 없음",
+          "purpose": "pH 조정제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Theobroma Cacao (Cocoa) Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 5587,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "카카오추출물",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Houttuynia Cordata Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4350,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "약모밀추출물, 어성초추출물(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Salvia Officinalis (Sage) Leaf Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2972,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "살비아잎추출물, 세이지잎추출물(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Melaleuca Alternifolia (Tea Tree) Leaf Extract",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6337,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "티트리잎추출물",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Dextrin",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 864,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "덱스트린",
+          "limitation": "해당 없음",
+          "purpose": "흡수제, 벌킹제(증량제), 결합제, 점도증가제(수성)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 5,
+        "productIndex": 2023304,
+        "reviewImageArray": [],
+        "totalCount": 4,
+        "totalImageCount": 0
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 4,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          0,
+          0,
+          0,
+          0,
+          4
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "1998",
+          "atopy": false,
+          "badText": "사용하다 아쉬운 점 생기면 다시 써보도록 할게요!",
+          "blind": 0,
+          "brand": "은율랩 (EUNYUL.Lab)",
+          "commentCount": 0,
+          "encryptedProductId": "23ba01ec8201d7a2b012fcafb39601ec",
+          "gender": "여성",
+          "goodText": "진정효과는 그런데로 괜찮고 무엇보다 피지분비량이 많이 없어졌어요! 모공도 훨씬 깨끗하게 유지되서 깔끔한 피부가 되서 너무 좋아요!",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1725443548,
+          "productImageUrl": "https://img.hwahae.co.kr/products/2023304/2023304_20230214133537.jpg",
+          "productIndex": 2023304,
+          "productName": "카밍 솔루션 시카 토너패드",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9325195,
+          "sensitive": true,
+          "skinType": "복합성",
+          "trouble": false,
+          "updateTime": 1725443548,
+          "usePeriod": 0,
+          "userId": "2529231",
+          "userImageUrl": null,
+          "userName": "리설희",
+          "userPhotoToken": 4,
+          "userReviewCount": 22
+        },
+        {
+          "additionText": "",
+          "age": "1984",
+          "atopy": false,
+          "badText": "패드가 두툼해서 얇게 갈라지는데 잘 안되서 잘 갈라지게 만들면 좋겠음",
+          "blind": 0,
+          "brand": "은율랩 (EUNYUL.Lab)",
+          "commentCount": 0,
+          "encryptedProductId": "23ba01ec8201d7a2b012fcafb39601ec",
+          "gender": "여성",
+          "goodText": "시카성분 들어있는 패드 찾아서 쓴건데 사각패드여서 일단 너무 편하고 향이 좋다 힐링느낌",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 1,
+          "modifyTime": 1704299815,
+          "productImageUrl": "https://img.hwahae.co.kr/products/2023304/2023304_20230214133537.jpg",
+          "productIndex": 2023304,
+          "productName": "카밍 솔루션 시카 토너패드",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 8729492,
+          "sensitive": true,
+          "skinType": "복합성",
+          "trouble": false,
+          "updateTime": 1704299815,
+          "usePeriod": 0,
+          "userId": "11041109",
+          "userImageUrl": null,
+          "userName": "ㅎㅎ바니",
+          "userPhotoToken": 0,
+          "userReviewCount": 1
+        }
+      ]
+    },
+    "productTopicsNegative": [],
+    "productTopicsPositive": [
+      {
+        "id": "4c364b6f-f471-423b-aca5-6a6a66422381",
+        "is_positive": true,
+        "name": "피지없어지는",
+        "review_count": 1,
+        "score": 3.946,
+        "sentence": "피지가 없어져요"
+      },
+      {
+        "id": "febc2e84-b09e-4a60-a613-195987603121",
+        "is_positive": true,
+        "name": "모공관리되는",
+        "review_count": 1,
+        "score": 3.266,
+        "sentence": "모공 관리가 잘 돼요"
+      },
+      {
+        "id": "0468e5ff-5fc7-44f0-948a-d714ad140d0c",
+        "is_positive": true,
+        "name": "진정되는",
+        "review_count": 2,
+        "score": 3.225,
+        "sentence": "진정이 잘 돼요"
+      },
+      {
+        "id": "1a661572-9363-4550-8d38-c2fa7bd33c53",
+        "is_positive": true,
+        "name": "향에만족한",
+        "review_count": 1,
+        "score": 2.317,
+        "sentence": "향에 만족해요"
+      }
+    ],
+    "relationGoodsData": [
+      {
+        "discount_price": 19900,
+        "discount_rate": 33,
+        "id": 48976,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20230214_140826_1000_%EC%BF%A0%ED%8C%A1.jpg",
+        "is_soldout": false,
+        "name": "랩 카밍 솔루션 시카 토너패드 60매입 190ml",
+        "original_price": 30000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 21000,
+        "discount_rate": 36,
+        "id": 34457,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20220628_111641_1000_%EC%BF%A0%ED%8C%A1.jpg",
+        "is_soldout": false,
+        "name": "카밍 솔루션 시카 크림 100ml",
+        "original_price": 33000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 14900,
+        "discount_rate": 40,
+        "id": 34456,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20220628_110738_1000_%EC%BF%A0%ED%8C%A1.jpg",
+        "is_soldout": false,
+        "name": "카밍 솔루션 시카 토너 150ml",
+        "original_price": 25000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 16900,
+        "discount_rate": 37,
+        "id": 34455,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20220628_111546_1000_%EC%BF%A0%ED%8C%A1.jpg",
+        "is_soldout": false,
+        "name": "카밍 솔루션 시카 앰플 50ml",
+        "original_price": 27000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 16900,
+        "discount_rate": 37,
+        "id": 46879,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20221115_112657_1000_%EC%BF%A0%ED%8C%A1.jpg",
+        "is_soldout": false,
+        "name": "아크네 솔루션 칼라민 앰플 50ml",
+        "original_price": 27000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 11000,
+        "discount_rate": 38,
+        "id": 46191,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20221021_144113_1000.jpg",
+        "is_soldout": false,
+        "name": "아크네 솔루션 칼라민 스팟 크림 30ml",
+        "original_price": 18000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 14900,
+        "discount_rate": 40,
+        "id": 46190,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20221021_143858_1000.jpg",
+        "is_soldout": false,
+        "name": "아크네 솔루션 칼라민 버블 폼 150ml",
+        "original_price": 25000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 16900,
+        "discount_rate": 37,
+        "id": 46189,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20221021_153028_1000.jpg",
+        "is_soldout": false,
+        "name": "아크네 솔루션 칼라민 토너패드 60매, 180ml",
+        "original_price": 27000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

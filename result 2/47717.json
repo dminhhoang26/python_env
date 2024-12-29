@@ -1,0 +1,768 @@
+{
+    "pageProps": {
+        "session": null,
+        "productAwardsData": [],
+        "productGoodsPairData": {
+            "common": {
+                "avg_ratings": 4,
+                "review_count": 5,
+                "rank_descriptions": [
+                    "에센스/앰플/세럼 ・ 브라이트닝 -위",
+                    "에센스/앰플/세럼 -위"
+                ],
+                "rankings": [
+                    {
+                        "rank": null,
+                        "category_code": "001:001:003",
+                        "category_name": "에센스/앰플/세럼",
+                        "root_category_name": "일반",
+                        "attribute_name": "브라이트닝",
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4179
+                    },
+                    {
+                        "rank": null,
+                        "category_code": "001:001:003",
+                        "category_name": "에센스/앰플/세럼",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4174
+                    }
+                ]
+            },
+            "product": {
+                "id": 1999028,
+                "uid": "b98438a8-4208-11ee-b457-0a737d0456c2",
+                "encrypted_product_id": "877c64f6d9ca956af371be1be8d0af67",
+                "image_url": "https://img.hwahae.co.kr/products/1999028/1999028_20220801000000.jpg",
+                "obsolete": false,
+                "is_favorite": false,
+                "buy_info": "150ml / 36,000원",
+                "name": "비니페린 워터 에센스",
+                "product_type": 1,
+                "brand": {
+                    "id": 14722,
+                    "name": "베지톨로지",
+                    "full_name": "베지톨로지 (VEGETOLOGY)",
+                    "image_url": "https://img.hwahae.co.kr/brands/14722/14722_20230405140512.png"
+                },
+                "food_product_info": null,
+                "categories": [
+                    {
+                        "code": "001:001:003",
+                        "name": "에센스/앰플/세럼"
+                    }
+                ]
+            },
+            "goods": {
+                "id": 47717,
+                "type": "NORMAL",
+                "partner": {
+                    "id": 3733,
+                    "name": "베지톨로지 공식몰",
+                    "image_url": "https://img.hwahae.co.kr/commerce/cover/20221208_115112_%ED%8C%90%EB%A7%A4%EC%9E%90%EB%AA%B0%20%EC%BB%A4%EB%B2%84.png"
+                },
+                "sale_status": "SELNG",
+                "title_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20221213_133540_VWE_%ED%99%94%ED%95%B41000X1000.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175520_6.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175520_7.jpg"
+                ],
+                "detail_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175313_%5B%EC%83%81%EC%84%B8%5D%EC%9B%8C%ED%84%B0%EC%97%90%EC%84%BC%EC%8A%A4(1).jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175317_%5B%EC%83%81%EC%84%B8%5D%EC%9B%8C%ED%84%B0%EC%97%90%EC%84%BC%EC%8A%A4(2).jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175317_%5B%EC%83%81%EC%84%B8%5D%EC%9B%8C%ED%84%B0%EC%97%90%EC%84%BC%EC%8A%A4(3).jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175317_%5B%EC%83%81%EC%84%B8%5D%EC%9B%8C%ED%84%B0%EC%97%90%EC%84%BC%EC%8A%A4(4).jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175318_%5B%EC%83%81%EC%84%B8%5D%EC%9B%8C%ED%84%B0%EC%97%90%EC%84%BC%EC%8A%A4(5).jpg"
+                ],
+                "short_notice": null,
+                "primal_badges": [],
+                "secondary_badges": [
+                    "FREDV"
+                ],
+                "name": "비니페린 워터 에센스 150ML",
+                "discount_rate": 0,
+                "consumer_price": 36000,
+                "price": 36000,
+                "estimated_rewards": {
+                    "purchase": 360,
+                    "review_write": 1000,
+                    "review_photo": 100
+                },
+                "description_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175313_%5B%EC%83%81%EC%84%B8%5D%EC%9B%8C%ED%84%B0%EC%97%90%EC%84%BC%EC%8A%A4(1).jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175317_%5B%EC%83%81%EC%84%B8%5D%EC%9B%8C%ED%84%B0%EC%97%90%EC%84%BC%EC%8A%A4(2).jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175317_%5B%EC%83%81%EC%84%B8%5D%EC%9B%8C%ED%84%B0%EC%97%90%EC%84%BC%EC%8A%A4(3).jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175317_%5B%EC%83%81%EC%84%B8%5D%EC%9B%8C%ED%84%B0%EC%97%90%EC%84%BC%EC%8A%A4(4).jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20230413_175318_%5B%EC%83%81%EC%84%B8%5D%EC%9B%8C%ED%84%B0%EC%97%90%EC%84%BC%EC%8A%A4(5).jpg"
+                ],
+                "notice_images": [],
+                "delivery_price": "무료배송",
+                "delivery_free_condition": null,
+                "delivery_additional_price": "제주 3,000원, 그 외 도서산간지역 4,000원 추가",
+                "delivery_company": "CJ대한통운",
+                "ask_count": 0,
+                "wish_index": null,
+                "has_related_goods": true,
+                "has_applicable_coupon": false,
+                "capacity": "150ml",
+                "gift": null,
+                "option_id": 654291,
+                "available_stockcnt": 3000,
+                "max_purchase_count": null,
+                "min_purchase_count": 1,
+                "is_promotion_set": false,
+                "stamp": null
+            }
+        },
+        "relationGoodsData": [
+            {
+                "id": 47717,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221213_133540_VWE_%ED%99%94%ED%95%B41000X1000.jpg",
+                "name": "비니페린 워터 에센스 150ML",
+                "discount_rate": 0,
+                "discount_price": 36000,
+                "original_price": 36000,
+                "primal_badges": [],
+                "secondary_badges": [
+                    "FREDV"
+                ],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 47717,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221213_133540_VWE_%ED%99%94%ED%95%B41000X1000.jpg",
+                "name": "비니페린 워터 에센스 150ML",
+                "discount_rate": 0,
+                "discount_price": 36000,
+                "original_price": 36000,
+                "primal_badges": [],
+                "secondary_badges": [
+                    "FREDV"
+                ],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 47716,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221213_131025_VBA_%ED%99%94%ED%95%B41000X1000.jpg",
+                "name": "비니페린 브라이트닝 앰플 50ML",
+                "discount_rate": 0,
+                "discount_price": 56000,
+                "original_price": 56000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 47718,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20230111_134008_VBM(10%EB%A7%A4)_%ED%99%94%ED%95%B41000X1000.jpg",
+                "name": "비니페린 브라이트닝 마스크 10매입",
+                "discount_rate": 0,
+                "discount_price": 30000,
+                "original_price": 30000,
+                "primal_badges": [],
+                "secondary_badges": [
+                    "FREDV"
+                ],
+                "is_soldout": false,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            }
+        ],
+        "targetSaleEventNoticeData": {
+            "notice_lines": []
+        },
+        "sampleSurveysByProductData": null,
+        "productTopicsNegative": [
+            {
+                "id": "9fefe1d4-6977-41b1-80dc-336f4c3d50f6",
+                "name": "탄력안생기는",
+                "sentence": "탄력이 안 생겨요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 3.189
+            },
+            {
+                "id": "6666179f-6495-40fa-ac92-4823a9c36e0f",
+                "name": "뒤집어지는",
+                "sentence": "뒤집어져요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 2.694
+            },
+            {
+                "id": "2245c592-e449-40e3-ba5a-93158b465661",
+                "name": "향이아쉬운",
+                "sentence": "향이 아쉬워요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 1.836
+            },
+            {
+                "id": "e6dbc2ea-c8c5-4745-8232-80ab11090fdd",
+                "name": "알러지반응오는",
+                "sentence": "알러지 반응이 와요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 1.601
+            },
+            {
+                "id": "661f582c-bee1-4f63-8990-de5547fb700f",
+                "name": "트러블생기는",
+                "sentence": "트러블이 생겨요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 1.527
+            }
+        ],
+        "productTopicsPositive": [
+            {
+                "id": "973c8032-6470-42a3-8250-0c4b873f4995",
+                "name": "보습잘되는",
+                "sentence": "보습이 잘 돼요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 1.62
+            },
+            {
+                "id": "270b2a69-fcc3-4678-a76d-3a9f0ea17bdb",
+                "name": "흡수잘되는",
+                "sentence": "흡수가 잘 돼요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 1.57
+            },
+            {
+                "id": "efa7caa7-0ec7-406c-ab5c-354131e2e697",
+                "name": "수분있는",
+                "sentence": "수분이 있어요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 1.237
+            }
+        ],
+        "productReviewSummaryData": {
+            "productMetaData": {
+                "productIndex": 1999028,
+                "avgRatings": 4,
+                "reviewImageArray": [
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8191044/8191044_1_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8191044/8191044_1_0.png",
+                                "type": "패키지"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8191044/8191044_1_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8191044/8191044_1_1.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8191044/8191044_1_2.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8191044/8191044_1_2.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8191044
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8157639/8157639_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8157639/8157639_0_0.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8157639/8157639_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8157639/8157639_0_1.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8157639/8157639_0_2.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8157639/8157639_0_2.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8157639/8157639_0_3.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8157639/8157639_0_3.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8157639
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7577001/7577001_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7577001/7577001_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 7577001
+                    }
+                ],
+                "totalCount": 5,
+                "totalImageCount": 10
+            },
+            "reviewList": [
+                {
+                    "userImageUrl": "https://img.hwahae.co.kr/users/profiles/880412/880412_20230222050037.jpg",
+                    "blind": 0,
+                    "badText": "워터에센스는 앰플처럼 항산화나 탱탱한 탄력개선효과가 톤개선효과가 눈에 보이진 않아요. 퍼스트에센스 개념이라 피부의 피로를 확~~풀어줄 수 있으려나 약간 기대했는데 그정도는 아니고 촉촉함을 충분히 부여해주는 제품이에요. 에센스라 일반 촉촉한토너와는 확실히 달라요. 좀더 수분감 풍부하고 물제형이지만 영양감도 좀 있기 때문에 연세가 있으신 분들께는 이런 에센스를 추천하고 싶어요. 비슷한 에센스들 중 피부자극 없이, 알콜없이. 안좋은성분없이 클린하게 순하게 사용할수있어 추천할만합니다. 제 피부에는 약간 유분감이 느껴져 여름에는 좀 그렇고 다른 계절에, 툭히 봄철같이 속건조나 각질 일어나기 쉬울때 바르기 좋은듯해요. \n수분80%유분20% 정도로 느껴지는데 그래도 비슷한유분감의 다른 중저가 제품들과 다른점은 이제품은 에센스의 영양감이라서 유분만 있는 제품보다 피부찝찝함이 훨씬 덜해요.",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 5,
+                    "rating": 4,
+                    "likeCount": 0,
+                    "productName": "비니페린 워터 에센스",
+                    "isCheckingReview": false,
+                    "skinType": "복합성",
+                    "modifyTime": 1713615963,
+                    "isScrapped": false,
+                    "trouble": false,
+                    "brand": "베지톨로지 (VEGETOLOGY)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1999028/1999028_20220801000000.jpg",
+                    "images": [],
+                    "productIndex": 1999028,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1713615395,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "♡애기늘보♡",
+                    "userId": "880412",
+                    "userReviewCount": 395,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "비니페린 화장품으로 꼬달리와 베지톨로지가 있는데 저는 둘다 사용해봤어요. 개인적으로는 베지톨로지가 더 맘에 들었는데 피부타입 상관없이 사용하기 좋고 더 순해요. \n\n꼬달리는 비니페린 들어간 세럼을 사용해봤는데 보습력이 뛰어나 피부에 스팀광이 돌며 피붓결이 유연해지고 탄력에도 좋고 향도 좋더라구요. 피부속부터 뽀얗게 차오른듯..고급스러웠어요. 다만 피부 예민한부분에는 약간의 자극이 있을 수 있고 약간 오일감이 있어 계절과 피부타입 연령대를 가릴 것 같았어요. \n\n베지톨로지 앰플은 고기능성이라고 할수있을만큼 효과는 좋지만 진정효과가 있고 순해서 피부가 예민할때 언제나 손이 가요. 왠만한 진정템보다 더 괜찮아요. 수분감이 많고, 바르면 탱탱해지는 수분 앰플인데 아예 보송하게 스며드는걸 좋아하는분들껜 맞지않을거같아요. 수분광이 엄청 돌고, 피부 피로가 좀 풀리는 느낌이 들며 전반적 톤이 균일하고 맑고 밝게 정리되고 피붓결 모공 탄력 모든면이 좋아지고 나이아신아마이드가 들어 유분기로인한 화이트헤드나 좁쌀도 예방이됩니다. 작은 좁쌀이나 화이트헤드 오래가서 신경쓰일때 딥클렌징 후 바르면 금방 사라져요. 유분기 없어 여름에도 딱 좋고, 비니페린 고함량 들어간 영양감덕에 수분이 오래가서 사계절 내내 언제나 바르기좋어요 모든피부에 다 추천합니다\n\n👉비니페린 함량만 보면 베지톨로지가 훨씬 높은데 꼬달리세럼 vs 베지톨로지 앰플 비교시 피부개선효과는 비슷합니다. 아무래도 도톰하니 두께감이 좀 있는 미끌한 콧물제형 앰플보단 세럼제형이 좀더 흡수가 깊이 되어 그런것같네요. 그렇다고 베지톨로지가 속건조느껴지는건 절대아님!! 꼬달리는 조금더 고급스럽게 관리받은듯한 스팀광이나고, 베지톨로지는 다방면으로 피부개선해주며 특히 제형덕에 탄력이 탱탱해집니다\n그런데 베지톨로지가 몇배 저렴한데 디자인도 더 예쁘고 포장도 더 고급스러워서..굳이 마진 잔뜩들어간 수입제품을 쓰거나 선물할 필요는 없을것같아요.",
+                    "goodText": "인플루언서로 앰플 경험해보고 너무 좋아서 비니페린 전 라인 다 재구매했어요 저희 어머니꺼까지 여러 세트 구매했어요. 큰폭 세일할때 사면 가성비도 좋아요. 화해의 다른 저렴한화장품들만큼 싸다기보다는 이 엄청난 항산화효과의 비니페린화장품을 국내에서 단독 생산함에도 브랜드에서 원료를 직접 배양하기 때문에 가격이 합리적이었어요. 비니페린의 뛰어난 효과는 홈페이지에서 충분히 설명하고있으니 따로 적지 않을게요. 앰플이 제일!!좋구요, 워터에센스도 앰플과 세트로 구매해보기 괜찮아요. 보습력은 워터에센스>앰플>크림 순이라서 3개 풀라인을 바르면 여름에 괜찮을것같아요. 워터에센스와 크림은 흡수력이 뛰어나고, 앰플은 항산화 탄력 수분 피부피로회복 톤정리가 뛰어나며 진정도 됩니다. 오래 남지 않는 부담없는 은은한 향. 크림은 수분감이 많고 영양도 조금있는데 유분감없고 흡수력이 뛰어나요 대신 코팅하지않아 오래가진 않습니다",
+                    "encryptedProductId": "877c64f6d9ca956af371be1be8d0af67",
+                    "reviewId": 9016017,
+                    "age": "1994",
+                    "isAdvertising": false
+                },
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "진짜 바르자마자 30분도 안돼서 뒤집어진애는 처음이다.\n최악이다. 화농성 여드름 수백개 올라옴;;;\n포도꽃인지 뭔지 진짜 나한테 왜 안맞는겨\n이제 다시는 새로운 화장품 시도시 얼굴 전체에 바르는거 금지다. 얼굴 다 상하고 기분도 다 상하고 슬프다.\n피부때문에 언제까지 마음 고생하고 속상하게 살아야해?\n남들처럼 아무 화장품 바르고 싶다고",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 8,
+                    "rating": 1,
+                    "likeCount": 0,
+                    "productName": "비니페린 워터 에센스",
+                    "isCheckingReview": false,
+                    "skinType": "수부지",
+                    "modifyTime": 1704949113,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "베지톨로지 (VEGETOLOGY)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1999028/1999028_20220801000000.jpg",
+                    "images": [],
+                    "productIndex": 1999028,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1699623116,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "주디야아아",
+                    "userId": "933900",
+                    "userReviewCount": 41,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "X",
+                    "goodText": "포도꽃추출물 다시는 만나지말자 나랑\n보습력은 진짜 괜찮았는데 왜 또 나한테는 똥템일까",
+                    "encryptedProductId": "877c64f6d9ca956af371be1be8d0af67",
+                    "reviewId": 8603136,
+                    "age": "1993",
+                    "isAdvertising": false
+                }
+            ],
+            "productReviewMetaData": {
+                "reviewRatings": [
+                    1,
+                    0,
+                    0,
+                    1,
+                    3
+                ],
+                "filterTotalCount": 5,
+                "limitedReviewNumber": 0,
+                "reviewKeywordList": []
+            }
+        },
+        "productIngredientInfoData": {
+            "product_type": 1,
+            "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+            "purpose_default_order": [
+                {
+                    "group_code": "IPGC_01",
+                    "group_name": "피부 보습"
+                },
+                {
+                    "group_code": "IPGC_02",
+                    "group_name": "수분 증발 차단"
+                },
+                {
+                    "group_code": "IPGC_03",
+                    "group_name": "피부 보호"
+                },
+                {
+                    "group_code": "IPGC_04",
+                    "group_name": "수렴 진정"
+                },
+                {
+                    "group_code": "IPGC_05",
+                    "group_name": "각질 제거"
+                },
+                {
+                    "group_code": "IPGC_06",
+                    "group_name": "피부 미백"
+                },
+                {
+                    "group_code": "IPGC_07",
+                    "group_name": "여드름 완화"
+                },
+                {
+                    "group_code": "IPGC_08",
+                    "group_name": "자외선 차단"
+                },
+                {
+                    "group_code": "IPGC_09",
+                    "group_name": "주름 개선"
+                }
+            ],
+            "ingredients": [
+                {
+                    "id": 5321,
+                    "korean": "정제수, 증류수, 물",
+                    "english": "Water, Aqua, Distilled Water, Purified Water",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 9786,
+                    "korean": "포도꽃세포추출물",
+                    "english": "Vitis Vinifera (Grape) Flower Cell Extract",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제, 감미제, 피부보호제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 7001,
+                    "korean": "프로판다이올, 프로판디올(구명칭)",
+                    "english": "Propanediol",
+                    "ewg": "2",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 점도감소제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 2454,
+                    "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+                    "english": "Butylene Glycol, 1,3-Butylene Glycol",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gd",
+                    "skin_remark_good": "강력 보습",
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 착향제, 점도감소제, 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 585,
+                    "korean": "나이아신아마이드, 니코틴산아마이드",
+                    "english": "Niacinamide, Nicotinamide, Nicotinic Acid Amide",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "헤어컨디셔닝제, 피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_06",
+                            "group_name": "피부 미백"
+                        },
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": "1",
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 459,
+                    "korean": "글리세린",
+                    "english": "Glycerin, Glycerol",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gd",
+                    "skin_remark_good": "보습력 증가",
+                    "skin_remark_bad": null,
+                    "purpose": "보습제, 피부보호제, 변성제, 점도감소제, 피부컨디셔닝제(보습제), 헤어컨디셔닝제, 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 2,
+                    "korean": "1,2-헥산다이올, 1,2-헥산디올(구명칭)",
+                    "english": "1,2-Hexanediol",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 6535,
+                    "korean": "펜틸렌글라이콜",
+                    "english": "Pentylene Glycol",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 6380,
+                    "korean": "판테놀, 디판테놀",
+                    "english": "Panthenol, D Panthenol",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gd",
+                    "skin_remark_good": "컨디셔닝",
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 헤어컨디셔닝제, 피부컨디셔닝제(보습제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4161,
+                    "korean": "알란토인",
+                    "english": "Allantoin",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "go;gs",
+                    "skin_remark_good": "수렴 및 진정",
+                    "skin_remark_bad": "예민해진 피부 진정",
+                    "purpose": "피부보호제, 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        },
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3839,
+                    "korean": "아데노신",
+                    "english": "Adenosine",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(기타), 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_09",
+                            "group_name": "주름 개선"
+                        }
+                    ],
+                    "cosmedical": "2",
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1096,
+                    "korean": "다이소듐이디티에이, 디소듐이디티에이(구명칭)",
+                    "english": "Disodium EDTA",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "금속이온봉쇄제/킬레이트화제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4493,
+                    "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+                    "english": "Ethylhexylglycerin",
+                    "ewg": "2",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                }
+            ],
+            "sub_product_ingredients": null
+        },
+        "goodsProductsData": null,
+        "goodsProductsCommonData": null
+    },
+    "__N_SSP": true
+}

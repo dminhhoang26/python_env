@@ -1,0 +1,851 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [
+      {
+        "award_full_name": "2018 화해 뷰티 어워드",
+        "award_id": 13,
+        "category_desc": "바디미스트/샤워코롱 6위",
+        "category_full_name": "일반 카테고리:바디:바디미스트/샤워코롱",
+        "is_legacy": true,
+        "leaf_award_id": null,
+        "product_id": 1892686
+      }
+    ],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.23,
+        "rank_descriptions": [
+          "바디미스트/샤워코롱 31위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": null,
+            "category_code": "001:008:006",
+            "category_name": "바디미스트/샤워코롱",
+            "preview_ranking_id": 4414,
+            "rank": 31,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 118
+      },
+      "goods": {
+        "ask_count": 1,
+        "available_stockcnt": 990,
+        "capacity": null,
+        "consumer_price": 12000,
+        "delivery_additional_price": "제주 3,000원, 그 외 도서산간지역 5,000원 추가",
+        "delivery_company": "롯데택배",
+        "delivery_free_condition": "30,000원 이상 구매 시 무료",
+        "delivery_price": "2,500원",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/12818_03111702mcontent.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/12818_03111703mcontent.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/12818_03111702mcontent.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/12818_03111703mcontent.jpg"
+        ],
+        "discount_rate": 0,
+        "estimated_rewards": {
+          "purchase": 120,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": false,
+        "id": 12818,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "바디판타지 퓨어 히즈 클린 런더리 118ml - 118ml",
+        "notice_images": [],
+        "option_id": 18439,
+        "partner": {
+          "id": 322,
+          "image_url": "https://img.hwahae.co.kr/commerce/partner/cover/graceint_visual.jpg",
+          "name": "더포션스/허바신/썸머스이브 공식몰"
+        },
+        "price": 12000,
+        "primal_badges": [],
+        "sale_status": "SLDOT",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/12818_03111648view.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "바디판타지 (BODYFANTASIES)",
+          "id": 830,
+          "image_url": "https://img.hwahae.co.kr/brands/830/830_20230405140512.png",
+          "name": "바디판타지"
+        },
+        "buy_info": "118ml*2 / 12,000원",
+        "categories": [
+          {
+            "code": "001:008:006",
+            "name": "바디미스트/샤워코롱"
+          }
+        ],
+        "encrypted_product_id": "63a7c61d540766d8dbc709303754b261",
+        "food_product_info": null,
+        "id": 1892686,
+        "image_url": "https://img.hwahae.co.kr/products/1892686/1892686_20220801000000.jpg",
+        "is_favorite": false,
+        "name": "바디판타지 퓨어라인 [히즈클린런더리]",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "b58dbec8-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": null,
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 2,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": [
+        {
+          "ingredients": [
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Alcohol Denat.",
+              "ewg": "1",
+              "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+              "forbidden": "해당 없음",
+              "id": 2378,
+              "is_allergy": false,
+              "is_twenty": false,
+              "korean": "변성알코올",
+              "limitation": "해당 없음",
+              "purpose": "기포방지제/소포제, 수렴제, 향료, 용제, 점도감소제",
+              "purposes": [
+                {
+                  "group_code": "IPGC_04",
+                  "group_name": "수렴 진정"
+                }
+              ],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Water, Aqua, Distilled Water, Purified Water",
+              "ewg": "1",
+              "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+              "forbidden": "해당 없음",
+              "id": 5321,
+              "is_allergy": false,
+              "is_twenty": false,
+              "korean": "정제수, 증류수, 물",
+              "limitation": "해당 없음",
+              "purpose": "용제, 피부컨디셔닝제",
+              "purposes": [
+                {
+                  "group_code": "IPGC_01",
+                  "group_name": "피부 보습"
+                }
+              ],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Fragrance, Parfum, Aroma",
+              "ewg": "8",
+              "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+              "forbidden": "해당 없음",
+              "id": 8030,
+              "is_allergy": false,
+              "is_twenty": true,
+              "korean": "향료",
+              "limitation": "해당 없음",
+              "purpose": "감미제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "향을 유발하는 성분을 통칭해 향료로 표기하기에 실체를 정확히 알 수 없다. 두통, 현기증, 발진, 색소침착, 기관지 자극을 유발한다고 알려져 있다."
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Benzyl Salicylate",
+              "ewg": "3_5",
+              "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+              "forbidden": "해당 없음",
+              "id": 2367,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "벤질살리실레이트",
+              "limitation": "해당 없음",
+              "purpose": "착향제, 변색방지제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Citronellol",
+              "ewg": "3_4",
+              "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+              "forbidden": "해당 없음",
+              "id": 3727,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "시트로넬올, 시트로넬롤(구명칭)",
+              "limitation": "해당 없음",
+              "purpose": "착향제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Eugenol",
+              "ewg": "3_5",
+              "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+              "forbidden": "해당 없음",
+              "id": 4943,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "유제놀",
+              "limitation": "해당 없음",
+              "purpose": "착향제, 변성제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Geraniol",
+              "ewg": "3_5",
+              "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+              "forbidden": "해당 없음",
+              "id": 5326,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "제라니올",
+              "limitation": "해당 없음",
+              "purpose": "착향제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Hexyl Cinnamal",
+              "ewg": "3",
+              "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+              "forbidden": "해당 없음",
+              "id": 8078,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "헥실신남알, 헥실신나몰(구명칭)",
+              "limitation": "해당 없음",
+              "purpose": "착향제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "d-Limonene, dl-Limonene, Limonene",
+              "ewg": "4_6",
+              "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+              "forbidden": "금지 (과산화물가가 20mmol/L을 초과하는 d-리모넨;과산화물가가 20mmol/L을 초과하는 ㎗-리모넨;과산화물가가 20mmol/L을 초과하는 ℓ-리모넨)",
+              "id": 1686,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "d-리모넨, ㎗-리모넨, 리모넨",
+              "limitation": "해당 없음",
+              "purpose": "용제, 착향제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Linalool",
+              "ewg": "3",
+              "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+              "forbidden": "해당 없음",
+              "id": 1675,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "리날룰",
+              "limitation": "해당 없음",
+              "purpose": "착향제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            }
+          ],
+          "sub_product_id": 44582,
+          "sub_product_name": "퓨어 프래그런스 바디 스프레이 [히즈클린런더리]"
+        },
+        {
+          "ingredients": [
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Alcohol Denat.",
+              "ewg": "1",
+              "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+              "forbidden": "해당 없음",
+              "id": 2378,
+              "is_allergy": false,
+              "is_twenty": false,
+              "korean": "변성알코올",
+              "limitation": "해당 없음",
+              "purpose": "기포방지제/소포제, 수렴제, 향료, 용제, 점도감소제",
+              "purposes": [
+                {
+                  "group_code": "IPGC_04",
+                  "group_name": "수렴 진정"
+                }
+              ],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Water, Aqua, Distilled Water, Purified Water",
+              "ewg": "1",
+              "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+              "forbidden": "해당 없음",
+              "id": 5321,
+              "is_allergy": false,
+              "is_twenty": false,
+              "korean": "정제수, 증류수, 물",
+              "limitation": "해당 없음",
+              "purpose": "용제, 피부컨디셔닝제",
+              "purposes": [
+                {
+                  "group_code": "IPGC_01",
+                  "group_name": "피부 보습"
+                }
+              ],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Fragrance, Parfum, Aroma",
+              "ewg": "8",
+              "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+              "forbidden": "해당 없음",
+              "id": 8030,
+              "is_allergy": false,
+              "is_twenty": true,
+              "korean": "향료",
+              "limitation": "해당 없음",
+              "purpose": "감미제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "향을 유발하는 성분을 통칭해 향료로 표기하기에 실체를 정확히 알 수 없다. 두통, 현기증, 발진, 색소침착, 기관지 자극을 유발한다고 알려져 있다."
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Benzyl Salicylate",
+              "ewg": "3_5",
+              "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+              "forbidden": "해당 없음",
+              "id": 2367,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "벤질살리실레이트",
+              "limitation": "해당 없음",
+              "purpose": "착향제, 변색방지제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Butylphenyl Methylpropional, Lilial",
+              "ewg": "5_7",
+              "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+              "forbidden": "해당 없음",
+              "id": 2472,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "부틸페닐메틸프로피오날, 부틸페닐메칠프로피오날(구명칭)",
+              "limitation": "해당 없음",
+              "purpose": "착향제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Citronellol",
+              "ewg": "3_4",
+              "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+              "forbidden": "해당 없음",
+              "id": 3727,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "시트로넬올, 시트로넬롤(구명칭)",
+              "limitation": "해당 없음",
+              "purpose": "착향제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Hexyl Cinnamal",
+              "ewg": "3",
+              "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+              "forbidden": "해당 없음",
+              "id": 8078,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "헥실신남알, 헥실신나몰(구명칭)",
+              "limitation": "해당 없음",
+              "purpose": "착향제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "d-Limonene, dl-Limonene, Limonene",
+              "ewg": "4_6",
+              "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+              "forbidden": "금지 (과산화물가가 20mmol/L을 초과하는 d-리모넨;과산화물가가 20mmol/L을 초과하는 ㎗-리모넨;과산화물가가 20mmol/L을 초과하는 ℓ-리모넨)",
+              "id": 1686,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "d-리모넨, ㎗-리모넨, 리모넨",
+              "limitation": "해당 없음",
+              "purpose": "용제, 착향제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            },
+            {
+              "concentration_info": null,
+              "cosmedical": null,
+              "english": "Linalool",
+              "ewg": "3",
+              "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+              "forbidden": "해당 없음",
+              "id": 1675,
+              "is_allergy": true,
+              "is_twenty": false,
+              "korean": "리날룰",
+              "limitation": "해당 없음",
+              "purpose": "착향제",
+              "purposes": [],
+              "skin_remark_bad": null,
+              "skin_remark_good": null,
+              "skin_type": null,
+              "twenty_detail": "해당 없음"
+            }
+          ],
+          "sub_product_id": 44583,
+          "sub_product_name": "리뉴얼 전. 퓨어 프레그런스 바디 스프레이 [히즈클린런더리]"
+        }
+      ]
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.228813648223877,
+        "productIndex": 1892686,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8508440/8508440_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8508440/8508440_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 8508440
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8345811/8345811_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8345811/8345811_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 8345811
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8005794/8005794_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8005794/8005794_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 8005794
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7706712/7706712_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7706712/7706712_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7706712
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7661725/7661725_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7661725/7661725_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 7661725
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7660764/7660764_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7660764/7660764_0_0.png?size=120x120",
+                "type": "사용전"
+              }
+            ],
+            "reviewId": 7660764
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7483098/7483098_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7483098/7483098_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 7483098
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7435451/7435451_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7435451/7435451_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 7435451
+          }
+        ],
+        "totalCount": 118,
+        "totalImageCount": 46
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 118,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          0,
+          2,
+          18,
+          49,
+          49
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "침대에 뿌리고 자니까 너무 행복했어요",
+          "age": "1998",
+          "atopy": false,
+          "badText": "확실히 지속력이 아쉬움 금방 사라져서 시간 얼마 안 지나고 다시 또 뿌려줘야 함 ㅠㅠ",
+          "blind": 0,
+          "brand": "바디판타지 (BODYFANTASIES)",
+          "commentCount": 0,
+          "encryptedProductId": "63a7c61d540766d8dbc709303754b261",
+          "gender": "여성",
+          "goodText": "작년까지 계속 이것만 썼던 것 같음 올해는 다른 것 좀 써보자 해서 다른 거 쓰는데 후회하는 중.. 이거 다시 살 거임.. 내가 맡아본 냄새 중 가장 안 부담스럽고 좋았던 것 같음 냄새에 예민한 어른분들도 누가 이렇게 좋은 냄새를 달고 다니냐고 궁금해 하셨음",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1731165797,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1892686/1892686_20220801000000.jpg",
+          "productIndex": 1892686,
+          "productName": "바디판타지 퓨어라인 [히즈클린런더리]",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9463986,
+          "sensitive": true,
+          "skinType": "건성",
+          "trouble": false,
+          "updateTime": 1731165797,
+          "usePeriod": 0,
+          "userId": "2693034",
+          "userImageUrl": null,
+          "userName": "리쿠리쿠해",
+          "userPhotoToken": 0,
+          "userReviewCount": 1
+        },
+        {
+          "additionText": "",
+          "age": "2010",
+          "atopy": true,
+          "badText": "처음에 알코올 향이 나는데 시간이 지나면 사라져서 괜찮음",
+          "blind": 0,
+          "brand": "바디판타지 (BODYFANTASIES)",
+          "commentCount": 0,
+          "encryptedProductId": "63a7c61d540766d8dbc709303754b261",
+          "gender": "여성",
+          "goodText": "포근한 느낌이나는 비누향 맡을 수록 냄새 좋은듯",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1730025922,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1892686/1892686_20220801000000.jpg",
+          "productIndex": 1892686,
+          "productName": "바디판타지 퓨어라인 [히즈클린런더리]",
+          "rating": 4,
+          "repurchase": -1,
+          "reviewId": 9442802,
+          "sensitive": true,
+          "skinType": "건성",
+          "trouble": false,
+          "updateTime": 1730025922,
+          "usePeriod": 0,
+          "userId": "11626038",
+          "userImageUrl": null,
+          "userName": "악당즈",
+          "userPhotoToken": 0,
+          "userReviewCount": 1
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "929a8463-2c05-4b93-8282-ed1aea828e84",
+        "is_positive": false,
+        "name": "지속력안좋은",
+        "review_count": 29,
+        "score": 8.197,
+        "sentence": "지속력이 안 좋아요"
+      },
+      {
+        "id": "98fd7806-5a76-4326-a6fd-f3aaedec4705",
+        "is_positive": false,
+        "name": "보습안되는",
+        "review_count": 13,
+        "score": 7.422,
+        "sentence": "보습이 안돼요"
+      },
+      {
+        "id": "39ba9d02-8537-4a15-a702-334f499c56e3",
+        "is_positive": false,
+        "name": "알콜냄새나는",
+        "review_count": 18,
+        "score": 6.985,
+        "sentence": "알콜 냄새가 나요"
+      },
+      {
+        "id": "48d3a367-7717-47bc-b2cb-f9200b5aa00e",
+        "is_positive": false,
+        "name": "인공향나는",
+        "review_count": 19,
+        "score": 6.662,
+        "sentence": "인공 향이 나요"
+      },
+      {
+        "id": "74e3cc31-d769-49fd-9897-1ebc4b758476",
+        "is_positive": false,
+        "name": "따가운",
+        "review_count": 2,
+        "score": 1.134,
+        "sentence": "따가워요"
+      },
+      {
+        "id": "b824974f-804a-43df-9bc5-1c5339f9394d",
+        "is_positive": false,
+        "name": "흘러내리는",
+        "review_count": 1,
+        "score": 0.916,
+        "sentence": "흘러내려요"
+      },
+      {
+        "id": "caf3d20c-603f-41f6-b676-2c800bd8ae09",
+        "is_positive": false,
+        "name": "자극있는",
+        "review_count": 1,
+        "score": 0.767,
+        "sentence": "자극이 있어요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "81bec95a-e65c-4436-8fb7-0cf8c4bb7095",
+        "is_positive": true,
+        "name": "파우더향나는",
+        "review_count": 35,
+        "score": 13.898,
+        "sentence": "파우더 향이 나요"
+      },
+      {
+        "id": "08229d52-b3e7-40bb-80bc-fdd6d7fcdb51",
+        "is_positive": true,
+        "name": "비누향나는",
+        "review_count": 27,
+        "score": 12.494,
+        "sentence": "비누 향이 나요"
+      },
+      {
+        "id": "f470cbce-a58a-41b6-9c2e-a09752ab2545",
+        "is_positive": true,
+        "name": "향지속잘되는",
+        "review_count": 32,
+        "score": 8.236,
+        "sentence": "향이 잘 지속돼요"
+      },
+      {
+        "id": "66fb7e48-2e5d-4356-8f43-170e1c529556",
+        "is_positive": true,
+        "name": "상쾌한",
+        "review_count": 13,
+        "score": 6.708,
+        "sentence": "상쾌해요"
+      },
+      {
+        "id": "decd6949-93d6-47bc-a3df-37d8aed49e83",
+        "is_positive": true,
+        "name": "향에만족한",
+        "review_count": 107,
+        "score": 5.176,
+        "sentence": "향에 만족해요"
+      },
+      {
+        "id": "373e08b0-3d1c-4480-846d-92e563c5eadc",
+        "is_positive": true,
+        "name": "냄새가독하지않은",
+        "review_count": 12,
+        "score": 4.883,
+        "sentence": "냄새가 독하지 않아요"
+      },
+      {
+        "id": "f3ead6a5-39ff-4b44-937b-a05359f6f90f",
+        "is_positive": true,
+        "name": "잔향좋은",
+        "review_count": 9,
+        "score": 4.336,
+        "sentence": "잔향이 좋아요"
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

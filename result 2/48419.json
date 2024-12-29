@@ -1,0 +1,701 @@
+{
+    "pageProps": {
+        "session": null,
+        "productAwardsData": [
+            {
+                "product_id": 1998041,
+                "award_id": 16,
+                "leaf_award_id": 16,
+                "award_full_name": "2023 뷰티 어워드",
+                "category_desc": "베이비&임산부 립케어/립밤 1위",
+                "category_full_name": "베이비&임산부 카테고리:스킨케어:립케어/립밤",
+                "is_legacy": false
+            }
+        ],
+        "productGoodsPairData": {
+            "common": {
+                "avg_ratings": 4.69,
+                "review_count": 122,
+                "rank_descriptions": [
+                    "립케어/립밤 7위"
+                ],
+                "rankings": [
+                    {
+                        "rank": 7,
+                        "category_code": "002:001:006",
+                        "category_name": "립케어/립밤",
+                        "root_category_name": "베이비&임산부",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4469
+                    }
+                ]
+            },
+            "product": {
+                "id": 1998041,
+                "uid": "b979b395-4208-11ee-b457-0a737d0456c2",
+                "encrypted_product_id": "3dea4daa1fa8a6d2e53a3533103900b8",
+                "image_url": "https://img.hwahae.co.kr/products/1998041/1998041_20220801000000.jpg",
+                "obsolete": false,
+                "is_favorite": false,
+                "buy_info": "4.25g / 6,000원",
+                "name": "베이비 모이스쳐라이징 립밤 [언센티드]",
+                "product_type": 1,
+                "brand": {
+                    "id": 174,
+                    "name": "버츠비",
+                    "full_name": "버츠비 (BURT'SBEES)",
+                    "image_url": "https://img.hwahae.co.kr/brands/174/174_20230405140512.png"
+                },
+                "food_product_info": null,
+                "categories": [
+                    {
+                        "code": "002:001:006",
+                        "name": "베이비&임산부 립케어/립밤"
+                    }
+                ]
+            },
+            "goods": {
+                "id": 48419,
+                "type": "NORMAL",
+                "partner": {
+                    "id": 253,
+                    "name": "버츠비 공식몰",
+                    "image_url": "https://img.hwahae.co.kr/commerce/cover/210205_122858_800x346.jpg"
+                },
+                "sale_status": "SELNG",
+                "title_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20230112_163853_%EC%8D%B8%EB%84%A4%EC%9D%BC_%EB%B2%A0%EC%9D%B4%EB%B9%84_%EB%B8%94%EB%A6%AC%EC%8A%A4%ED%84%B0.jpg"
+                ],
+                "detail_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20230112_164529_baby_720.jpg"
+                ],
+                "short_notice": null,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "name": "베이비 언센티드 립밤 4.25g",
+                "discount_rate": 10,
+                "consumer_price": 6000,
+                "price": 5400,
+                "estimated_rewards": {
+                    "purchase": 54,
+                    "review_write": 1000,
+                    "review_photo": 100
+                },
+                "description_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20230112_164529_baby_720.jpg"
+                ],
+                "notice_images": [],
+                "delivery_price": "2,900원",
+                "delivery_free_condition": "22,000원 이상 구매 시 무료",
+                "delivery_additional_price": "제주 4,000원, 그 외 도서산간지역 4,000원 추가",
+                "delivery_company": "CJ대한통운",
+                "ask_count": 7,
+                "wish_index": null,
+                "has_related_goods": false,
+                "has_applicable_coupon": false,
+                "capacity": "4.25g",
+                "gift": null,
+                "option_id": 1097432,
+                "available_stockcnt": 2,
+                "max_purchase_count": null,
+                "min_purchase_count": 1,
+                "is_promotion_set": false,
+                "stamp": null
+            }
+        },
+        "targetSaleEventNoticeData": {
+            "notice_lines": []
+        },
+        "sampleSurveysByProductData": null,
+        "productTopicsNegative": [
+            {
+                "id": "0f57436d-fe50-4e22-86a8-b2bd027818e9",
+                "name": "자연스럽지않은",
+                "sentence": "자연스럽지 않아요",
+                "is_positive": false,
+                "review_count": 2,
+                "score": 0.817
+            },
+            {
+                "id": "0e12b255-ec90-41ed-aabd-199716072601",
+                "name": "뻑뻑한",
+                "sentence": "뻑뻑해요",
+                "is_positive": false,
+                "review_count": 2,
+                "score": 0.591
+            },
+            {
+                "id": "464733bd-4c02-40c4-b3dd-6ae42a5d1a52",
+                "name": "매끄럽지않은",
+                "sentence": "매끄럽지 않아요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 0.441
+            },
+            {
+                "id": "8dab6baa-46d4-44be-a9bb-fa33ed5c95f4",
+                "name": "인공향나는",
+                "sentence": "인공 향이 나요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 0.385
+            },
+            {
+                "id": "7175f97e-11eb-4a58-be16-8bbf227cc0a1",
+                "name": "알러지반응오는",
+                "sentence": "알러지 반응이 와요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 0.288
+            }
+        ],
+        "productTopicsPositive": [
+            {
+                "id": "072df644-37bb-4147-a3a8-3c32a1a341f6",
+                "name": "잘발리는",
+                "sentence": "잘 발려요",
+                "is_positive": true,
+                "review_count": 35,
+                "score": 5.732
+            },
+            {
+                "id": "08933d70-e2c7-404b-b083-a8e6fe5093df",
+                "name": "보습잘되는",
+                "sentence": "보습이 잘 돼요",
+                "is_positive": true,
+                "review_count": 46,
+                "score": 5.116
+            },
+            {
+                "id": "de7cda87-fc26-4301-b01d-8c20209a9e51",
+                "name": "수분있는",
+                "sentence": "수분이 있어요",
+                "is_positive": true,
+                "review_count": 43,
+                "score": 4.658
+            },
+            {
+                "id": "4cca7bd5-c98a-4c9f-acce-adeec64dbacb",
+                "name": "자극없는",
+                "sentence": "자극이 없어요",
+                "is_positive": true,
+                "review_count": 11,
+                "score": 3.897
+            },
+            {
+                "id": "75d396a8-7e15-4466-9398-4f0715635934",
+                "name": "끈적하지않은",
+                "sentence": "끈적하지 않아요",
+                "is_positive": true,
+                "review_count": 14,
+                "score": 3.873
+            },
+            {
+                "id": "a2acf030-2eb5-4639-a3bb-5338c978ec16",
+                "name": "향에만족한",
+                "sentence": "향에 만족해요",
+                "is_positive": true,
+                "review_count": 31,
+                "score": 3.581
+            },
+            {
+                "id": "674eb6fc-4886-4c4e-bf37-8b6ebe0da0e2",
+                "name": "편안해지는",
+                "sentence": "편안해져요",
+                "is_positive": true,
+                "review_count": 8,
+                "score": 2.945
+            }
+        ],
+        "productReviewSummaryData": {
+            "productMetaData": {
+                "productIndex": 1998041,
+                "avgRatings": 4.6885247230529785,
+                "reviewImageArray": [
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9408294/9408294_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9408294/9408294_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 9408294
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9322071/9322071_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9322071/9322071_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 9322071
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9237986/9237986_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9237986/9237986_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 9237986
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9234001/9234001_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9234001/9234001_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 9234001
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9168484/9168484_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9168484/9168484_0_0.png",
+                                "type": "사용전"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9168484/9168484_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9168484/9168484_0_1.png",
+                                "type": "사용후"
+                            }
+                        ],
+                        "reviewId": 9168484
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9124979/9124979_1_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9124979/9124979_1_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 9124979
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9059980/9059980_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9059980/9059980_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 9059980
+                    }
+                ],
+                "totalCount": 122,
+                "totalImageCount": 270
+            },
+            "reviewList": [
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "아쉬운점이 없어요 버츠비 중에서도 이 제품이 제일 맘에 듭니다",
+                    "gender": "남성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 5,
+                    "likeCount": 0,
+                    "productName": "베이비 모이스쳐라이징 립밤 [언센티드]",
+                    "isCheckingReview": false,
+                    "skinType": "지성",
+                    "modifyTime": 1728655419,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "버츠비 (BURT'SBEES)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1998041/1998041_20220801000000.jpg",
+                    "images": [
+                        {
+                            "thumbnail": "https://img.hwahae.co.kr/reviews/9408294/9408294_0_0.png?size=120x120",
+                            "origin": "https://img.hwahae.co.kr/reviews/9408294/9408294_0_0.png",
+                            "type": "기타"
+                        }
+                    ],
+                    "productIndex": 1998041,
+                    "usePeriod": 0,
+                    "atopy": true,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1728655419,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "Seokzzangg",
+                    "userId": "10266851",
+                    "userReviewCount": 8,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "한번만 발라도 오랫동안 촉촉해요\n촉촉하지만 입술이 번지르르해보이지 않아요 \n무향이라 좋아요 향이 세면 거북한데 자극이 없어요\n입술각질이 부각되지않아요 \nㄴㅂㅇ를 바르면 입술각질이 일어나는편인데 버츠비는 그런게 없어요\n더운 날씨에도 무르지 않아요 \n가격 부담없이 적당해요",
+                    "encryptedProductId": "3dea4daa1fa8a6d2e53a3533103900b8",
+                    "reviewId": 9408294,
+                    "age": "1981",
+                    "isAdvertising": false
+                },
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "케이스가 애 스스로 바르기에는 좀 힘들어요 뚜껑열고 밑에 돌리고 하는게",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 4,
+                    "likeCount": 0,
+                    "productName": "베이비 모이스쳐라이징 립밤 [언센티드]",
+                    "isCheckingReview": false,
+                    "skinType": "복합성",
+                    "modifyTime": 1725586336,
+                    "isScrapped": false,
+                    "trouble": false,
+                    "brand": "버츠비 (BURT'SBEES)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1998041/1998041_20220801000000.jpg",
+                    "images": [],
+                    "productIndex": 1998041,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1725586336,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "whitemask",
+                    "userId": "1364138",
+                    "userReviewCount": 18,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "아이들이 쓰기에 좋은 제품이에요 향도 강하지 않고 수분감도 오래가요",
+                    "encryptedProductId": "3dea4daa1fa8a6d2e53a3533103900b8",
+                    "reviewId": 9329996,
+                    "age": "1979",
+                    "isAdvertising": false
+                }
+            ],
+            "productReviewMetaData": {
+                "reviewRatings": [
+                    1,
+                    1,
+                    4,
+                    23,
+                    93
+                ],
+                "filterTotalCount": 122,
+                "limitedReviewNumber": 0,
+                "reviewKeywordList": []
+            }
+        },
+        "productIngredientInfoData": {
+            "product_type": 1,
+            "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+            "purpose_default_order": [
+                {
+                    "group_code": "IPGC_01",
+                    "group_name": "피부 보습"
+                },
+                {
+                    "group_code": "IPGC_02",
+                    "group_name": "수분 증발 차단"
+                },
+                {
+                    "group_code": "IPGC_03",
+                    "group_name": "피부 보호"
+                },
+                {
+                    "group_code": "IPGC_04",
+                    "group_name": "수렴 진정"
+                },
+                {
+                    "group_code": "IPGC_05",
+                    "group_name": "각질 제거"
+                },
+                {
+                    "group_code": "IPGC_06",
+                    "group_name": "피부 미백"
+                },
+                {
+                    "group_code": "IPGC_07",
+                    "group_name": "여드름 완화"
+                },
+                {
+                    "group_code": "IPGC_08",
+                    "group_name": "자외선 차단"
+                },
+                {
+                    "group_code": "IPGC_09",
+                    "group_name": "주름 개선"
+                }
+            ],
+            "ingredients": [
+                {
+                    "id": 8005,
+                    "korean": "해바라기씨오일",
+                    "english": "Helianthus Annuus (Sunflower) Seed Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5779,
+                    "korean": "코코넛야자오일, 코코넛오일(구명칭)",
+                    "english": "Cocos Nucifera (Coconut) Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "bo",
+                    "skin_remark_good": null,
+                    "skin_remark_bad": "여드름 유발",
+                    "purpose": "피부컨디셔닝제(수분차단제), 착향제, 헤어컨디셔닝제, 피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 2635,
+                    "korean": "세라알바",
+                    "english": "Cera Alba",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "유화안정제, 피막형성제, 피부컨디셔닝제(유연제), 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 7082,
+                    "korean": "피마자씨오일, 피마자오일(구명칭), 캐스터오일(구명칭)",
+                    "english": "Ricinus Communis (Castor) Seed Oil",
+                    "ewg": "2",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1288,
+                    "korean": "라놀린",
+                    "english": "Lanolin",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "유화안정제, 피부보호제, 피부컨디셔닝제(유연제), 헤어컨디셔닝제, 계면활성제(유화제)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3493,
+                    "korean": "시어버터, 쉐어버터(구명칭)",
+                    "english": "Butyrospermum Parkii (Shea) Butter",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "bo;gd",
+                    "skin_remark_good": "보습력 증가",
+                    "skin_remark_bad": "여드름 유발",
+                    "purpose": "피부컨디셔닝제(수분차단제), 점도증가제(비수성), 피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5584,
+                    "korean": "카카오씨버터, 카카오씨드버터(구명칭)",
+                    "english": "Theobroma Cacao (Cocoa) Seed Butter",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 착향제, 피부보호제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5863,
+                    "korean": "돌콩오일, 콩오일(구명칭)",
+                    "english": "Glycine Soja (Soybean) Oil",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(수분차단제), 착향제, 산화방지제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 6098,
+                    "korean": "토코페롤, 비타민E",
+                    "english": "Tocopherol, Vitamin E",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gd",
+                    "skin_remark_good": "피부 재생, 탄력",
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제, 착향제, 수분증발차단제, 산화방지제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_02",
+                            "group_name": "수분 증발 차단"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "20%",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 11142,
+                    "korean": "리바우디오사이드에이",
+                    "english": "Rebaudioside A",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                }
+            ],
+            "sub_product_ingredients": null
+        },
+        "goodsProductsData": null,
+        "goodsProductsCommonData": null
+    },
+    "__N_SSP": true
+}

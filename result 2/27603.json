@@ -1,0 +1,926 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.46,
+        "rank_descriptions": [
+          "클렌징 폼 ・ 모공 15위",
+          "클렌징 폼 45위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": "모공",
+            "category_code": "001:002:001",
+            "category_name": "클렌징 폼",
+            "preview_ranking_id": 4204,
+            "rank": 15,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:002:001",
+            "category_name": "클렌징 폼",
+            "preview_ranking_id": 4200,
+            "rank": 45,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 425
+      },
+      "goods": {
+        "ask_count": 24,
+        "available_stockcnt": 1459,
+        "capacity": "200ml",
+        "consumer_price": 23000,
+        "delivery_additional_price": null,
+        "delivery_company": "한진택배",
+        "delivery_free_condition": null,
+        "delivery_price": "무료배송",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230817_131056_aestura.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230509_091313_%EC%97%90%EC%8A%A4%ED%8A%B8%EB%9D%BC-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%95%88%EB%82%B4_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4_720.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230509_091314_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365%ED%81%B4%EB%A6%AC%EC%96%B4%EB%94%A5%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC_1.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230509_091314_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365%ED%81%B4%EB%A6%AC%EC%96%B4%EB%94%A5%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC_2.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230509_091314_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365%ED%81%B4%EB%A6%AC%EC%96%B4%EB%94%A5%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC_3.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230509_091314_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365%ED%81%B4%EB%A6%AC%EC%96%B4%EB%94%A5%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC_4.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240524_233759_%EC%95%88%EB%82%B4%EB%B0%B0%EB%84%88_%EC%83%81%EB%8B%A8_%ED%99%94%ED%95%B4_12%EA%B0%9C%EC%9B%94.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20221110_100334_%ED%99%94%ED%95%B4%20%EA%B5%AC%EB%A7%A4%20%EC%95%88%EB%82%B4%20%EB%B0%B0%EB%84%88.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230817_131056_aestura.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230509_091313_%EC%97%90%EC%8A%A4%ED%8A%B8%EB%9D%BC-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%95%88%EB%82%B4_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4_720.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230509_091314_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365%ED%81%B4%EB%A6%AC%EC%96%B4%EB%94%A5%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC_1.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230509_091314_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365%ED%81%B4%EB%A6%AC%EC%96%B4%EB%94%A5%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC_2.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230509_091314_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365%ED%81%B4%EB%A6%AC%EC%96%B4%EB%94%A5%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC_3.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230509_091314_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365%ED%81%B4%EB%A6%AC%EC%96%B4%EB%94%A5%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC_4.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240524_233759_%EC%95%88%EB%82%B4%EB%B0%B0%EB%84%88_%EC%83%81%EB%8B%A8_%ED%99%94%ED%95%B4_12%EA%B0%9C%EC%9B%94.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20221110_100334_%ED%99%94%ED%95%B4%20%EA%B5%AC%EB%A7%A4%20%EC%95%88%EB%82%B4%20%EB%B0%B0%EB%84%88.jpg"
+        ],
+        "discount_rate": 20,
+        "estimated_rewards": {
+          "purchase": 184,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": true,
+        "has_related_goods": true,
+        "id": 27603,
+        "is_promotion_set": false,
+        "max_purchase_count": 5,
+        "min_purchase_count": 1,
+        "name": "테라크네365 클리어 딥 클렌징 폼 200ml",
+        "notice_images": [],
+        "option_id": 1563446,
+        "partner": {
+          "id": 79,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/210412_112038_amorepacific_CI.png",
+          "name": "아모레퍼시픽 공식몰 [프리미엄]"
+        },
+        "price": 18400,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230509_091259_1_%EC%97%90%EC%8A%A4%ED%8A%B8%EB%9D%BC_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365_%ED%81%B4%EB%A6%AC%EC%96%B4_%EB%94%A5_%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC_200g_%EB%88%84%EB%81%BC%EC%BB%B7.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "에스트라 (AESTURA)",
+          "id": 711,
+          "image_url": "https://img.hwahae.co.kr/brands/711/711_20230405140512.png",
+          "name": "에스트라"
+        },
+        "buy_info": "200g / 23,000원",
+        "categories": [
+          {
+            "code": "001:002:001",
+            "name": "클렌징 폼"
+          }
+        ],
+        "encrypted_product_id": "7a3d13ba16dba48007fe8390397e26e3",
+        "food_product_info": null,
+        "id": 1940057,
+        "image_url": "https://img.hwahae.co.kr/products/1940057/1940057_20230526140113.jpg",
+        "is_favorite": false,
+        "name": "테라크네 365 클리어 딥 클렌징 폼",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "b7353093-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycerin, Glycerol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 459,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세린",
+          "limitation": "해당 없음",
+          "purpose": "변성제, 피부보호제, 피부컨디셔닝제(보습제), 점도감소제, 헤어컨디셔닝제, 착향제, 보습제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "보습력 증가",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Potassium Cocoyl Glycinate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6631,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "포타슘코코일글리시네이트",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(세정제), 헤어컨디셔닝제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Cocoyl Glycinate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 3322,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐코코일글라이시네이트, 소듐코코일글리시네이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(세정제), 헤어컨디셔닝제, 피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Butylene Glycol, 1,3-Butylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2454,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제, 피부컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Polyglyceryl-10 Laurate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6689,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "폴리글리세릴-10라우레이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 계면활성제(유화제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Disodium Laureth Sulfosuccinate",
+          "ewg": "1_3",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1070,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이소듐라우레스설포석시네이트, 디소듐라우레스설포석시네이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(거품촉진제), 계면활성제(친수제), 계면활성제(세정제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glyceryl Stearate SE",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 484,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세릴스테아레이트에스이",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(유화제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Citric Acid",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 3729,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "시트릭애씨드, 구연산",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제, pH 조정제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": "고농도일경우 피부자극",
+          "skin_remark_good": null,
+          "skin_type": "bs",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycol Distearate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 404,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글라이콜다이스테아레이트, 글라이콜디스테아레이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(수분차단제), 점도증가제(비수성)",
+          "purposes": [
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Allantoin",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 4161,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "알란토인",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 피부보호제",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            },
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": "예민해진 피부 진정",
+          "skin_remark_good": "수렴 및 진정",
+          "skin_type": "go;gs",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Disodium EDTA",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1096,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이소듐이디티에이, 디소듐이디티에이(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ethylhexylglycerin",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4493,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Tetrasodium EDTA",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6064,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "테트라소듐이디티에이",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Hyaluronate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 3385,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐하이알루로네이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Gluconolactone",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 420,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글루코노락톤",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Tocopherol, Vitamin E",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6098,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "토코페롤, 비타민E",
+          "limitation": "20%",
+          "purpose": "산화방지제, 피부컨디셔닝제, 착향제, 수분증발차단제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "피부 재생, 탄력",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.46117639541626,
+        "productIndex": 1940057,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9373029/9373029_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9373029/9373029_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9373029
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9366444/9366444_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9366444/9366444_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9366444
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9339012/9339012_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9339012/9339012_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9339012
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9332786/9332786_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9332786/9332786_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9332786
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9322090/9322090_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9322090/9322090_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9322090
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9300629/9300629_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9300629/9300629_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9300629
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9291849/9291849_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9291849/9291849_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9291849
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9271136/9271136_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9271136/9271136_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9271136
+          }
+        ],
+        "totalCount": 425,
+        "totalImageCount": 186
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 425,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          11,
+          15,
+          24,
+          92,
+          283
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "1994",
+          "atopy": true,
+          "badText": "아쉬운점없어요 진짜없어요 좋아요 수부지인데좋아요",
+          "blind": 0,
+          "brand": "에스트라 (AESTURA)",
+          "commentCount": 0,
+          "encryptedProductId": "7a3d13ba16dba48007fe8390397e26e3",
+          "gender": "여성",
+          "goodText": "좋아요 부담없이 쓸수있고 피부땡김없고 기룸기제거해줘요",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1730814484,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1940057/1940057_20230526140113.jpg",
+          "productIndex": 1940057,
+          "productName": "테라크네 365 클리어 딥 클렌징 폼",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9456827,
+          "sensitive": true,
+          "skinType": "복합성",
+          "trouble": true,
+          "updateTime": 1730814484,
+          "usePeriod": 0,
+          "userId": "4038115",
+          "userImageUrl": null,
+          "userName": "여니타니",
+          "userPhotoToken": 0,
+          "userReviewCount": 43
+        },
+        {
+          "additionText": "",
+          "age": "2004",
+          "atopy": true,
+          "badText": "아쉬웠던점은 잘 기억이 안 나여 더 써볼게요 ㅎㅎ",
+          "blind": 0,
+          "brand": "에스트라 (AESTURA)",
+          "commentCount": 0,
+          "encryptedProductId": "7a3d13ba16dba48007fe8390397e26e3",
+          "gender": "여성",
+          "goodText": "음 ~~~~ 되게 속건조 없이 좋아요 ^^^^^^^ㅓㅏ그리고 씻고나면 보들보들",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1730486103,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1940057/1940057_20230526140113.jpg",
+          "productIndex": 1940057,
+          "productName": "테라크네 365 클리어 딥 클렌징 폼",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9451402,
+          "sensitive": true,
+          "skinType": "복합성",
+          "trouble": true,
+          "updateTime": 1730486103,
+          "usePeriod": 0,
+          "userId": "11879847",
+          "userImageUrl": null,
+          "userName": "리이이아아아ㅑㅇ",
+          "userPhotoToken": 0,
+          "userReviewCount": 1
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "de255500-41cb-4f7b-a53d-d0ff4704d7c4",
+        "is_positive": false,
+        "name": "향이아쉬운",
+        "review_count": 22,
+        "score": 6.272,
+        "sentence": "향이 아쉬워요"
+      },
+      {
+        "id": "08f827e7-a8f2-4bc5-8761-7a3b63f75e2d",
+        "is_positive": false,
+        "name": "흘러내리는",
+        "review_count": 11,
+        "score": 6.172,
+        "sentence": "흘러내려요"
+      },
+      {
+        "id": "2fdba427-dab0-49fd-b2ba-c99db35a1cb3",
+        "is_positive": false,
+        "name": "알러지반응오는",
+        "review_count": 20,
+        "score": 5.885,
+        "sentence": "알러지 반응이 와요"
+      },
+      {
+        "id": "ad0bd75b-0049-4978-be5e-e3ba0b1df32a",
+        "is_positive": false,
+        "name": "미끌거리는",
+        "review_count": 8,
+        "score": 2.773,
+        "sentence": "미끌거려요"
+      },
+      {
+        "id": "42a14508-91e3-45fb-8199-cd31e5bbc6e2",
+        "is_positive": false,
+        "name": "따가운",
+        "review_count": 7,
+        "score": 2.664,
+        "sentence": "따가워요"
+      },
+      {
+        "id": "0756a535-7b3c-46b2-a62a-78e60902ed9e",
+        "is_positive": false,
+        "name": "인공향나는",
+        "review_count": 4,
+        "score": 1.862,
+        "sentence": "인공 향이 나요"
+      },
+      {
+        "id": "7a95fb7f-0a6f-436d-8d02-158feeca8670",
+        "is_positive": false,
+        "name": "가벼운",
+        "review_count": 3,
+        "score": 1.789,
+        "sentence": "가벼워요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "4fa7c607-117f-4728-b2f2-f955c3714be3",
+        "is_positive": true,
+        "name": "세정잘되는",
+        "review_count": 99,
+        "score": 16.005,
+        "sentence": "세정이 잘 돼요"
+      },
+      {
+        "id": "832e64b3-b9d3-4be4-bc3d-dc719cac9281",
+        "is_positive": true,
+        "name": "자극없는",
+        "review_count": 133,
+        "score": 14.343,
+        "sentence": "자극이 없어요"
+      },
+      {
+        "id": "02f5b470-baf7-479e-acb5-8b5e27d15241",
+        "is_positive": true,
+        "name": "보습잘되는",
+        "review_count": 90,
+        "score": 14.326,
+        "sentence": "보습이 잘 돼요"
+      },
+      {
+        "id": "cf39aa97-1e3e-4e76-b159-3f4e82e4bfc1",
+        "is_positive": true,
+        "name": "거품나는",
+        "review_count": 106,
+        "score": 13.586,
+        "sentence": "거품이 잘 나요"
+      },
+      {
+        "id": "93062c88-189c-4f27-a209-3c72047f40d8",
+        "is_positive": true,
+        "name": "트러블없어지는",
+        "review_count": 38,
+        "score": 12.732,
+        "sentence": "트러블이 없어져요"
+      },
+      {
+        "id": "90b99d5b-2459-45bb-b578-75991fd30dde",
+        "is_positive": true,
+        "name": "노폐물제거되는",
+        "review_count": 31,
+        "score": 10.43,
+        "sentence": "노폐물 제거가 잘 돼요"
+      },
+      {
+        "id": "7b167d4e-c807-4c37-b602-1042be93c33c",
+        "is_positive": true,
+        "name": "수분있는",
+        "review_count": 38,
+        "score": 10.063,
+        "sentence": "수분이 있어요"
+      }
+    ],
+    "relationGoodsData": [
+      {
+        "discount_price": 18400,
+        "discount_rate": 20,
+        "id": 27603,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20230509_091259_1_%EC%97%90%EC%8A%A4%ED%8A%B8%EB%9D%BC_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365_%ED%81%B4%EB%A6%AC%EC%96%B4_%EB%94%A5_%ED%81%B4%EB%A0%8C%EC%A7%95%ED%8F%BC_200g_%EB%88%84%EB%81%BC%EC%BB%B7.jpg",
+        "is_soldout": false,
+        "name": "테라크네365 클리어 딥 클렌징 폼 200ml",
+        "original_price": 23000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 24000,
+        "discount_rate": 20,
+        "id": 50234,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20230320_144506_2_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365_%ED%95%98%EC%9D%B4%EB%93%9C%EB%A1%9C_%EC%95%A1%ED%8B%B0%EB%B8%8C_%ED%86%A0%EB%84%88.jpg",
+        "is_soldout": false,
+        "name": "테라크네365 하이드로 액티브 토너 200ml",
+        "original_price": 30000,
+        "primal_badges": [
+          "GIFTS"
+        ],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 26400,
+        "discount_rate": 20,
+        "id": 50233,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20230320_143511_1_%ED%85%8C%EB%9D%BC%ED%81%AC%EB%84%A4365_%EC%88%98%EB%94%A9_%EC%95%A1%ED%8B%B0%EB%B8%8C_%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B2%98%EB%9D%BC%EC%9D%B4%EC%A0%80.jpg",
+        "is_soldout": false,
+        "name": "테라크네365 수딩 액티브 모이스처라이저 60ml",
+        "original_price": 33000,
+        "primal_badges": [
+          "GIFTS"
+        ],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 25600,
+        "discount_rate": 20,
+        "id": 48509,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20231219_093720_4_%EC%95%84%ED%86%A0%EB%B2%A0%EB%A6%AC%EC%96%B4_%ED%95%98%EC%9D%B4%EB%93%9C%EB%A1%9C%EC%97%90%EC%84%BC%EC%8A%A4.jpg",
+        "is_soldout": false,
+        "name": "아토베리어365 하이드로 에센스 200ml (사은품 증정)",
+        "original_price": 32000,
+        "primal_badges": [
+          "GIFTS"
+        ],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

@@ -1,0 +1,873 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.34,
+        "rank_descriptions": [
+          "스킨/토너 ・ 수분 96위",
+          "스킨/토너 -위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": "수분",
+            "category_code": "001:001:001",
+            "category_name": "스킨/토너",
+            "preview_ranking_id": 4157,
+            "rank": 96,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:001:001",
+            "category_name": "스킨/토너",
+            "preview_ranking_id": 4156,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 244
+      },
+      "goods": {
+        "ask_count": 20,
+        "available_stockcnt": 187,
+        "capacity": "280ml",
+        "consumer_price": 22000,
+        "delivery_additional_price": null,
+        "delivery_company": "우체국택배",
+        "delivery_free_condition": null,
+        "delivery_price": "무료배송",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230222_153522_720_hydrium_toner.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230222_153522_720_hydrium_toner.jpg"
+        ],
+        "discount_rate": 14,
+        "estimated_rewards": {
+          "purchase": 188,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": true,
+        "id": 7103,
+        "is_promotion_set": false,
+        "max_purchase_count": 3,
+        "min_purchase_count": 1,
+        "name": "하이드리움 워터리 토너 280ml",
+        "notice_images": [],
+        "option_id": 1308994,
+        "partner": {
+          "id": 21,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/20230918/20230918162521091_브랜드관-이미지-01.jpg",
+          "name": "코스알엑스 공식몰"
+        },
+        "price": 18800,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/7103_02144035view.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "코스알엑스 (COSRX)",
+          "id": 1310,
+          "image_url": "https://img.hwahae.co.kr/brands/1310/1310_20230405140512.png",
+          "name": "코스알엑스"
+        },
+        "buy_info": "280ml / 22,000원",
+        "categories": [
+          {
+            "code": "001:001:001",
+            "name": "스킨/토너"
+          }
+        ],
+        "encrypted_product_id": "4b9427b9a23702f14b0f963969c5129a",
+        "food_product_info": null,
+        "id": 1858021,
+        "image_url": "https://img.hwahae.co.kr/products/1858021/1858021_20220801000000.jpg",
+        "is_favorite": false,
+        "name": "하이드리움 워터리 토너",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "b422e250-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Butylene Glycol, 1,3-Butylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2454,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제, 피부컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycerin, Glycerol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 459,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세린",
+          "limitation": "해당 없음",
+          "purpose": "변성제, 피부보호제, 피부컨디셔닝제(보습제), 점도감소제, 헤어컨디셔닝제, 착향제, 보습제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "보습력 증가",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "1,2-Hexanediol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "1,2-헥산다이올, 1,2-헥산디올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Allantoin",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 4161,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "알란토인",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 피부보호제",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            },
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": "예민해진 피부 진정",
+          "skin_remark_good": "수렴 및 진정",
+          "skin_type": "go;gs",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Panthenol, D Panthenol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6380,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "판테놀, 디판테놀",
+          "limitation": "해당 없음",
+          "purpose": "용제, 헤어컨디셔닝제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "컨디셔닝",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Hyaluronate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 3385,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐하이알루로네이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Pentylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6535,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "펜틸렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Hyaluronate Crosspolymer",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 3387,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐하이알루로네이트크로스폴리머",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydrolyzed Hyaluronic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7949,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드롤라이즈드하이알루로닉애씨드",
+          "limitation": "해당 없음",
+          "purpose": "헤어컨디셔닝제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hyaluronic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 7968,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이알루로닉애씨드, 히아루론산, 히알루론산",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수성), 피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ethylhexylglycerin",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4493,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydrolyzed Sodium Hyaluronate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 7870,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드롤라이즈드소듐하이알루로네이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.336065769195557,
+        "productIndex": 1858021,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9051812/9051812_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9051812/9051812_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9051812
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7772353/7772353_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7772353/7772353_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7772353
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7739395/7739395_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7739395/7739395_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7739395
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7672574/7672574_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7672574/7672574_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7672574
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7586973/7586973_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7586973/7586973_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7586973
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7566099/7566099_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7566099/7566099_0_0.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7566099
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7553211/7553211_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7553211/7553211_0_0.png?size=120x120",
+                "type": "사용후"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/7553211/7553211_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/7553211/7553211_0_1.png?size=120x120",
+                "type": "패키지"
+              }
+            ],
+            "reviewId": 7553211
+          }
+        ],
+        "totalCount": 244,
+        "totalImageCount": 219
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 244,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          2,
+          4,
+          21,
+          100,
+          117
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "1993",
+          "atopy": false,
+          "badText": "7번씩 피부에 두드려 썼어요 꼭 그렇게 쓰지않아도 되요 유분이 있는 걸 찾는다면 다른 제품도 같이 보시면 좋을것같아요",
+          "blind": 0,
+          "brand": "코스알엑스 (COSRX)",
+          "commentCount": 0,
+          "encryptedProductId": "4b9427b9a23702f14b0f963969c5129a",
+          "gender": "여성",
+          "goodText": "말그대로 워티리 ~!!  수분 촉촉한 토너에요 수분 충족을 위해 토너를 많이 구매 했었네요",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1721885223,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1858021/1858021_20220801000000.jpg",
+          "productIndex": 1858021,
+          "productName": "하이드리움 워터리 토너",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9224863,
+          "sensitive": true,
+          "skinType": "복합성",
+          "trouble": false,
+          "updateTime": 1721885223,
+          "usePeriod": 0,
+          "userId": "533554",
+          "userImageUrl": null,
+          "userName": "ñnbnnnnnn",
+          "userPhotoToken": 1,
+          "userReviewCount": 30
+        },
+        {
+          "additionText": "",
+          "age": "1999",
+          "atopy": false,
+          "badText": "마무리감이 조금 미끌미끌해서 아쉬운 것 같습니다",
+          "blind": 0,
+          "brand": "코스알엑스 (COSRX)",
+          "commentCount": 0,
+          "encryptedProductId": "4b9427b9a23702f14b0f963969c5129a",
+          "gender": "여성",
+          "goodText": "무난하게 닦토할 수 있는 토너입니다 수분감이 느껴져요",
+          "images": [
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/9051812/9051812_0_0.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/9051812/9051812_0_0.png?size=120x120",
+              "type": "기타"
+            }
+          ],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1715079225,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1858021/1858021_20220801000000.jpg",
+          "productIndex": 1858021,
+          "productName": "하이드리움 워터리 토너",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9051812,
+          "sensitive": false,
+          "skinType": "지성",
+          "trouble": true,
+          "updateTime": 1715079225,
+          "usePeriod": 0,
+          "userId": "8031805",
+          "userImageUrl": null,
+          "userName": "개방숙크",
+          "userPhotoToken": 0,
+          "userReviewCount": 72
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "f24f3b5f-034f-442f-9e89-08fc2f5ebc13",
+        "is_positive": false,
+        "name": "흘러내리는",
+        "review_count": 7,
+        "score": 3.794,
+        "sentence": "흘러내려요"
+      },
+      {
+        "id": "0fd42d38-020b-4f74-abce-1ee85e4c48c6",
+        "is_positive": false,
+        "name": "알러지반응오는",
+        "review_count": 8,
+        "score": 3.402,
+        "sentence": "알러지 반응이 와요"
+      },
+      {
+        "id": "1f78aa8e-fc93-4c10-a0d1-b78056488362",
+        "is_positive": false,
+        "name": "눈통증있는",
+        "review_count": 4,
+        "score": 2.991,
+        "sentence": "눈 통증이 있어요"
+      },
+      {
+        "id": "44d2d7d1-5083-4ec1-af9f-c84f048feb93",
+        "is_positive": false,
+        "name": "유수분밸런스가맞지않는",
+        "review_count": 2,
+        "score": 2.001,
+        "sentence": "유수분 밸런스가 맞지 않아요"
+      },
+      {
+        "id": "066dead4-619e-4644-8fa4-890b465839aa",
+        "is_positive": false,
+        "name": "인공향나는",
+        "review_count": 3,
+        "score": 1.957,
+        "sentence": "인공 향이 나요"
+      },
+      {
+        "id": "697fb090-05b5-40a1-9741-95b0c7f83c45",
+        "is_positive": false,
+        "name": "발진생기는",
+        "review_count": 1,
+        "score": 1.179,
+        "sentence": "발진이 생겨요"
+      },
+      {
+        "id": "86430cac-0e62-45c8-924e-4f800f21f30d",
+        "is_positive": false,
+        "name": "잘굳는",
+        "review_count": 1,
+        "score": 0.845,
+        "sentence": "잘 굳어요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "ca8e64bf-e4df-45f8-ac09-f246243ce820",
+        "is_positive": true,
+        "name": "수분있는",
+        "review_count": 113,
+        "score": 17.58,
+        "sentence": "수분이 있어요"
+      },
+      {
+        "id": "5f98d60d-50ae-4f66-b08d-80f921fd553d",
+        "is_positive": true,
+        "name": "흡수잘되는",
+        "review_count": 49,
+        "score": 14.376,
+        "sentence": "흡수가 잘 돼요"
+      },
+      {
+        "id": "dd784cf5-f49a-47d9-8c25-b27a1783c237",
+        "is_positive": true,
+        "name": "가벼운",
+        "review_count": 34,
+        "score": 12.934,
+        "sentence": "가벼워요"
+      },
+      {
+        "id": "b6932d24-ad70-4de7-82af-f3a0aedddc20",
+        "is_positive": true,
+        "name": "보습잘되는",
+        "review_count": 50,
+        "score": 12.568,
+        "sentence": "보습이 잘 돼요"
+      },
+      {
+        "id": "3720b74f-a0d4-470c-b659-d898b7c72d93",
+        "is_positive": true,
+        "name": "산뜻한",
+        "review_count": 23,
+        "score": 10.455,
+        "sentence": "산뜻해요"
+      },
+      {
+        "id": "ba726537-44a4-40ad-a456-6ff6d0e305e3",
+        "is_positive": true,
+        "name": "자극없는",
+        "review_count": 52,
+        "score": 10.245,
+        "sentence": "자극이 없어요"
+      },
+      {
+        "id": "35ba02ec-f3dd-4941-aed0-17ee92522931",
+        "is_positive": true,
+        "name": "트러블안생기는",
+        "review_count": 28,
+        "score": 9.921,
+        "sentence": "트러블이 안 생겨요"
+      }
+    ],
+    "relationGoodsData": [
+      {
+        "discount_price": 18800,
+        "discount_rate": 14,
+        "id": 7103,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/7103_02144035view.jpg",
+        "is_soldout": false,
+        "name": "하이드리움 워터리 토너 280ml",
+        "original_price": 22000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 11000,
+        "discount_rate": 15,
+        "id": 29564,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20211124_104816_%ED%95%98%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%9B%80-%ED%81%B4%EB%A0%8C%EC%A0%80.jpg",
+        "is_soldout": false,
+        "name": "하이드리움 트리플 히알루로닉 모이스처라이징 클렌저 150ml",
+        "original_price": 13000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 3000,
+        "discount_rate": 25,
+        "id": 29562,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20211124_104220_%ED%95%98%EC%9D%B4%EB%93%9C%EB%A6%AC%EC%9B%80-%EC%8B%9C%ED%8A%B8-%EB%A7%88%EC%8A%A4%ED%81%AC.jpg",
+        "is_soldout": false,
+        "name": "하이드리움 트리플 히알루로닉 워터 웨이브 시트 마스크 (1매)",
+        "original_price": 4000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 19700,
+        "discount_rate": 14,
+        "id": 6408,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/6408_02144217view.jpg",
+        "is_soldout": false,
+        "name": "하이드리움 그린티 아쿠아 수딩 젤 크림 50ml",
+        "original_price": 23000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 20000,
+        "discount_rate": 13,
+        "id": 6407,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/6407_02144235view.jpg",
+        "is_soldout": false,
+        "name": "하이드리움 모이스처 파워 인리치드 크림 50ml",
+        "original_price": 23000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 20400,
+        "discount_rate": 15,
+        "id": 6406,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/6406_02144254view.jpg",
+        "is_soldout": false,
+        "name": "하이드리움 센텔라 아쿠아 수딩 앰플 40ml",
+        "original_price": 24000,
+        "primal_badges": [
+          "GIFTS"
+        ],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 20000,
+        "discount_rate": 16,
+        "id": 6405,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/6405_02144313view.jpg",
+        "is_soldout": false,
+        "name": "하이드리움 트리플 히알루로닉 모이스처 앰플 40ml",
+        "original_price": 24000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV"
+        ],
+        "stamp": null
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

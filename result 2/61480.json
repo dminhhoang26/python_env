@@ -1,0 +1,473 @@
+{
+    "pageProps": {
+        "session": null,
+        "productAwardsData": [],
+        "productGoodsPairData": {
+            "common": {
+                "avg_ratings": 3,
+                "review_count": 2,
+                "rank_descriptions": [
+                    "클렌징 비누 -위",
+                    "바디워시 -위"
+                ],
+                "rankings": [
+                    {
+                        "rank": null,
+                        "category_code": "001:002:006",
+                        "category_name": "클렌징 비누",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4213
+                    },
+                    {
+                        "rank": null,
+                        "category_code": "001:008:001",
+                        "category_name": "바디워시",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4409
+                    }
+                ]
+            },
+            "product": {
+                "id": 2091999,
+                "uid": "067db99e-d6ba-4189-9e5a-bafa7d2e0859",
+                "encrypted_product_id": "096a486750d6a3ca96abb87f0de0147c",
+                "image_url": "https://img.hwahae.co.kr/products/2091999/2091999_20240326115442.jpg",
+                "obsolete": false,
+                "is_favorite": false,
+                "buy_info": "200g / 12,000원",
+                "name": "마르세유 올리브솝 큐브비누",
+                "product_type": 1,
+                "brand": {
+                    "id": 10006,
+                    "name": "마리우스파브르",
+                    "full_name": "마리우스파브르 (MARIUSFABRE)",
+                    "image_url": "https://img.hwahae.co.kr/brands/10006/10006_20230405140512.png"
+                },
+                "food_product_info": null,
+                "categories": [
+                    {
+                        "code": "001:002:006",
+                        "name": "클렌징 비누"
+                    },
+                    {
+                        "code": "001:008:001",
+                        "name": "바디워시"
+                    }
+                ]
+            },
+            "goods": {
+                "id": 61480,
+                "type": "NORMAL",
+                "partner": {
+                    "id": 5385,
+                    "name": "마리우스파브르 공식몰",
+                    "image_url": "https://img.hwahae.co.kr/commerce/cover/20240326/20240326174513496_logo.jpg"
+                },
+                "sale_status": "SELNG",
+                "title_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_152918_mf_mocubesoap200_v2.png",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_152924_mf_mocubesoap_img1_v2.jpg"
+                ],
+                "detail_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_153948_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_01.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_153950_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_02.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_153953_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_03.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_153955_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_04.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_153958_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_05.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154000_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_06.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154003_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_07.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154005_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_08.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154017_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_09.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154020_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_10.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154022_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_11.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154025_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_12.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154028_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_13.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154034_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_14.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154036_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_15.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154038_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_16.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154046_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_17.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154053_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_18.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154055_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_19.jpg"
+                ],
+                "short_notice": null,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "name": "마르세유 올리브솝 큐브비누 200g",
+                "discount_rate": 20,
+                "consumer_price": 12000,
+                "price": 9600,
+                "estimated_rewards": {
+                    "purchase": 96,
+                    "review_write": 1000,
+                    "review_photo": 100
+                },
+                "description_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_153948_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_01.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_153950_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_02.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_153953_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_03.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_153955_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_04.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_153958_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_05.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154000_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_06.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154003_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_07.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154005_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_08.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154017_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_09.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154020_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_10.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154022_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_11.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154025_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_12.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154028_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_13.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154034_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_14.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154036_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_15.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154038_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_16.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154046_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_17.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154053_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_18.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20240328_154055_230731-MF%ED%81%90%EB%B8%8C%EB%B9%84%EB%88%84_%EC%83%81%EC%84%B8%EB%A6%AC%EB%89%B4%EC%96%BC_FINAL1000_19.jpg"
+                ],
+                "notice_images": [],
+                "delivery_price": "3,000원",
+                "delivery_free_condition": "20,000원 이상 구매 시 무료",
+                "delivery_additional_price": null,
+                "delivery_company": "한진택배",
+                "ask_count": 0,
+                "wish_index": null,
+                "has_related_goods": false,
+                "has_applicable_coupon": false,
+                "capacity": "200g",
+                "gift": null,
+                "option_id": 1521624,
+                "available_stockcnt": 100,
+                "max_purchase_count": null,
+                "min_purchase_count": 1,
+                "is_promotion_set": false,
+                "stamp": null
+            }
+        },
+        "targetSaleEventNoticeData": {
+            "notice_lines": []
+        },
+        "sampleSurveysByProductData": null,
+        "productTopicsNegative": [
+            {
+                "id": "3346eb66-4cfc-4881-9839-dac9e74c4c21",
+                "name": "향이아쉬운",
+                "sentence": "향이 아쉬워요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 1.842
+            }
+        ],
+        "productTopicsPositive": [
+            {
+                "id": "46b6bd89-0bbe-465b-a17d-f205aa284847",
+                "name": "냄새가독하지않은",
+                "sentence": "냄새가 독하지 않아요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 3.899
+            },
+            {
+                "id": "9deac298-192e-468a-bdb6-4ad371e6f489",
+                "name": "보습잘되는",
+                "sentence": "보습이 잘 돼요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 1.579
+            }
+        ],
+        "productReviewSummaryData": {
+            "productMetaData": {
+                "productIndex": 2091999,
+                "avgRatings": 3,
+                "reviewImageArray": [
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9267189/9267189_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9267189/9267189_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 9267189
+                    }
+                ],
+                "totalCount": 2,
+                "totalImageCount": 1
+            },
+            "reviewList": [
+                {
+                    "userImageUrl": "https://img.hwahae.co.kr/users/profiles/5802694/5802694_20240713132231.jpg",
+                    "blind": 0,
+                    "badText": "1. 향: 저 같은 경우, 향을 좀 중요시하는 편입니다. 향이 별로면 쓰기가 싫어지는 사람인데, 향이 진짜 너무 심해요. 인공 향을 싫어하시는 분들은 오히려 좋아하시는 분이 계셨어요. 사람마다 차이가 있는 것 같습니다.\n\n2. 위생: 비누이다 보니 짜거나 덜어서 쓰는 것이 아닌 문지르면서 닦다 보니 초초초초초민감성인 제 피부에는 살짝 뭐가 올라왔습니다. 피부가 완~전 민감하지 않은 분과 이 향을 좋아하시는 분께 바칩니다…\n\n3. 효과: 효과가 크게 없고, 전 오히려 안 좋아서 비추하는 제품이에요.",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 1,
+                    "rating": 1,
+                    "likeCount": 0,
+                    "productName": "마르세유 올리브솝 큐브비누",
+                    "isCheckingReview": false,
+                    "skinType": "복합성",
+                    "modifyTime": 1723562653,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "마리우스파브르 (MARIUSFABRE)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/2091999/2091999_20240326115442.jpg",
+                    "images": [
+                        {
+                            "thumbnail": "https://img.hwahae.co.kr/reviews/9267189/9267189_0_0.png?size=120x120",
+                            "origin": "https://img.hwahae.co.kr/reviews/9267189/9267189_0_0.png",
+                            "type": "기타"
+                        }
+                    ],
+                    "productIndex": 2091999,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1723562653,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "Ddxxa",
+                    "userId": "5802694",
+                    "userReviewCount": 33,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "올리브 향을 좋아하시고, 피부가 초초초초초민감성이 아니신 분들께 추천드립니다. 근데 이럴 거면 다른 제품을 그냥 구매하는 게…",
+                    "goodText": "*****내돈내산*****\n좋았던 점은 딱히 없었던 것 같습니다. 20자.",
+                    "encryptedProductId": "096a486750d6a3ca96abb87f0de0147c",
+                    "reviewId": 9267189,
+                    "age": "2003",
+                    "isAdvertising": false
+                },
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "딱히 없긴한데 금방 사라지는 역한 냄새? 근데 뭐 자연그대로의 냄새라 저는 인공향료 보다는 이게 더 좋습니당",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 5,
+                    "likeCount": 0,
+                    "productName": "마르세유 올리브솝 큐브비누",
+                    "isCheckingReview": false,
+                    "skinType": "건성",
+                    "modifyTime": 1717321867,
+                    "isScrapped": false,
+                    "trouble": false,
+                    "brand": "마리우스파브르 (MARIUSFABRE)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/2091999/2091999_20240326115442.jpg",
+                    "images": [],
+                    "productIndex": 2091999,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1717321867,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "kimmi27",
+                    "userId": "535580",
+                    "userReviewCount": 3,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "리뷰 잘 안 쓰는데 이 비누 너무 좋아요. \n피부 예민하고 건조해서 늘 하얗게 일어나는데 \n코엑스 전시때 두개 사서 다 쓰고 오늘 다시 주문했어요. \n냄새가 좀 역하긴 한데 샤워하고 나면 다 사라져요. \n우선 이거 쓰고 피부가 맨질맨질 합니다. 건조하신분들 꼭 써보세요. 정말 좋아요!!",
+                    "encryptedProductId": "096a486750d6a3ca96abb87f0de0147c",
+                    "reviewId": 9110010,
+                    "age": "1988",
+                    "isAdvertising": false
+                }
+            ],
+            "productReviewMetaData": {
+                "reviewRatings": [
+                    1,
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "filterTotalCount": 2,
+                "limitedReviewNumber": 0,
+                "reviewKeywordList": []
+            }
+        },
+        "productIngredientInfoData": {
+            "product_type": 1,
+            "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+            "purpose_default_order": [
+                {
+                    "group_code": "IPGC_01",
+                    "group_name": "피부 보습"
+                },
+                {
+                    "group_code": "IPGC_02",
+                    "group_name": "수분 증발 차단"
+                },
+                {
+                    "group_code": "IPGC_03",
+                    "group_name": "피부 보호"
+                },
+                {
+                    "group_code": "IPGC_04",
+                    "group_name": "수렴 진정"
+                },
+                {
+                    "group_code": "IPGC_05",
+                    "group_name": "각질 제거"
+                },
+                {
+                    "group_code": "IPGC_06",
+                    "group_name": "피부 미백"
+                },
+                {
+                    "group_code": "IPGC_07",
+                    "group_name": "여드름 완화"
+                },
+                {
+                    "group_code": "IPGC_08",
+                    "group_name": "자외선 차단"
+                },
+                {
+                    "group_code": "IPGC_09",
+                    "group_name": "주름 개선"
+                }
+            ],
+            "ingredients": [
+                {
+                    "id": 3284,
+                    "korean": "소듐올리베이트",
+                    "english": "Sodium Olivate",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "점도증가제(비수성), 계면활성제(유화제), 계면활성제(세정제)",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3320,
+                    "korean": "소듐코코에이트",
+                    "english": "Sodium Cocoate",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "계면활성제(유화제), 계면활성제(세정제)",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5321,
+                    "korean": "정제수, 증류수, 물",
+                    "english": "Water, Aqua, Distilled Water, Purified Water",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 459,
+                    "korean": "글리세린",
+                    "english": "Glycerin, Glycerol",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gd",
+                    "skin_remark_good": "보습력 증가",
+                    "skin_remark_bad": null,
+                    "purpose": "보습제, 피부보호제, 변성제, 점도감소제, 피부컨디셔닝제(보습제), 헤어컨디셔닝제, 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3342,
+                    "korean": "소듐클로라이드",
+                    "english": "Sodium Chloride",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "점도증가제(수용성), 감미제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3381,
+                    "korean": "소듐하이드록사이드",
+                    "english": "Sodium Hydroxide",
+                    "ewg": "1_4",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "변성제, pH 조정제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "손톱표피 용해 목적일 경우 5%, pH 조정 목적으로 사용되고 최종 제품이 제5조제5항에 pH기준이 정하여 있지 아니한 경우에도 최종 제품의 pH는 11이하;제모제에서 pH조정 목적으로 사용되는 경우 최종 제품의 pH는 12.7이하",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                }
+            ],
+            "sub_product_ingredients": null
+        },
+        "goodsProductsData": null,
+        "goodsProductsCommonData": null
+    },
+    "__N_SSP": true
+}

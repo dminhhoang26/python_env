@@ -1,0 +1,821 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 5,
+        "rank_descriptions": [
+          "바디로션 -위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": null,
+            "category_code": "001:008:002",
+            "category_name": "바디로션",
+            "preview_ranking_id": 4410,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 2
+      },
+      "goods": {
+        "ask_count": 0,
+        "available_stockcnt": 0,
+        "capacity": "285ml",
+        "consumer_price": 36000,
+        "delivery_additional_price": "제주, 도서산간지역 3,000원 추가",
+        "delivery_company": "CJ대한통운",
+        "delivery_free_condition": null,
+        "delivery_price": "무료배송",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230518_165504_siita_detail_MEBL_01.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230518_165507_siita_detail_MEBL_02.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230518_165511_siita_detail_BS.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230518_165504_siita_detail_MEBL_01.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230518_165507_siita_detail_MEBL_02.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20230518_165511_siita_detail_BS.jpg"
+        ],
+        "discount_rate": 20,
+        "estimated_rewards": {
+          "purchase": 288,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": true,
+        "id": 49773,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "메르디에르 바디로션 285ml",
+        "notice_images": [],
+        "option_id": 693079,
+        "partner": {
+          "id": 4287,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/20230223/20230223105054585_화해_siita_1440x650.jpg",
+          "name": "시타 공식몰"
+        },
+        "price": 28800,
+        "primal_badges": [],
+        "sale_status": "SLDOT",
+        "secondary_badges": [
+          "FREDV",
+          "LMTSP"
+        ],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20230306_180932_siita_MEBL.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "시타 (SIITa)",
+          "id": 11689,
+          "image_url": "https://img.hwahae.co.kr/brands/11689/11689_20240228112442.png",
+          "name": "시타"
+        },
+        "buy_info": "285ml / 36,000원",
+        "categories": [
+          {
+            "code": "001:008:002",
+            "name": "바디로션"
+          }
+        ],
+        "encrypted_product_id": "c64ab4162e2df66f0b2c77cdf89c2e76",
+        "food_product_info": null,
+        "id": 2015114,
+        "image_url": "https://img.hwahae.co.kr/products/2015114/2015114_20221101101916.jpg",
+        "is_favorite": false,
+        "name": "바디로션 [메르디에르]",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "ba3fbf04-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycerin, Glycerol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 459,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세린",
+          "limitation": "해당 없음",
+          "purpose": "변성제, 피부보호제, 피부컨디셔닝제(보습제), 점도감소제, 헤어컨디셔닝제, 착향제, 보습제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "보습력 증가",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Cetyl Ethylhexanoate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 3057,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "세틸에틸헥사노에이트, 세틸에칠헥사노에이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제(유연제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Butylene Glycol, 1,3-Butylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2454,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제, 피부컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Fragrance, Parfum, Aroma",
+          "ewg": "8",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8030,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "향료",
+          "limitation": "해당 없음",
+          "purpose": "감미제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "향을 유발하는 성분을 통칭해 향료로 표기하기에 실체를 정확히 알 수 없다. 두통, 현기증, 발진, 색소침착, 기관지 자극을 유발한다고 알려져 있다."
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydrogenated Polydecene",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7706,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드로제네이티드폴리데센",
+          "limitation": "해당 없음",
+          "purpose": "향료, 피부컨디셔닝제, 피부컨디셔닝제(유연제), 용제, 헤어컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Cetearyl Alcohol, Cetostearyl Alcohol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 3029,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "세테아릴알코올",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 점도증가제(비수용성), 유화안정제, 불투명화제, 계면활성제(거품형성제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Polyglyceryl-3 Methylglucose Distearate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6737,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "폴리글리세릴-3메틸글루코오스다이스테아레이트, 폴리글리세릴-3메칠글루코오스디스테아레이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(유연제), 계면활성제(유화제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "1,2-Hexanediol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "1,2-헥산다이올, 1,2-헥산디올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydrogenated Olive Oil Decyl Esters",
+          "ewg": null,
+          "ewg_data_availability_text": "해당 없음",
+          "forbidden": "해당 없음",
+          "id": 7670,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드로제네이티드올리브오일데실에스터",
+          "limitation": "해당 없음",
+          "purpose": "헤어컨디셔닝제, 유화안정제, 피막형성제, 결합제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydroxyacetophenone",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 8572,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드록시아세토페논",
+          "limitation": "해당 없음",
+          "purpose": "산화방지제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Cetearyl Olivate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 3031,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "세테아릴올리베이트",
+          "limitation": "해당 없음",
+          "purpose": "수분증발차단제",
+          "purposes": [
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sorbitan Olivate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 3411,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "솔비탄올리베이트, 소르비탄올리베이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(유화제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Carbomer, Carboxyvinyl Polymer",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5562,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "카보머, 카복시비닐폴리머",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 유화안정제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Tromethamine",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "금지 (2급 아민함량이 0.5%를 초과하는 모노알킬아민, 모노알칸올아민 및 그 염류)",
+          "id": 6144,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "트로메타민",
+          "limitation": "해당 없음",
+          "purpose": "pH 조정제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Betaine",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 2314,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "베타인",
+          "limitation": "해당 없음",
+          "purpose": "헤어컨디셔닝제, 보습제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Myristyl Alcohol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2127,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "미리스틸알코올",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 향료, 점도증가제(비수용성), 유화안정제, 피부컨디셔닝제(유연제), 계면활성제(거품형성제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Xanthan Gum",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5256,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "잔탄검",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수용성), 피부컨디셔닝제, 계면활성제(유화제), 유화안정제, 결합제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Lauryl Alcohol",
+          "ewg": null,
+          "ewg_data_availability_text": "해당 없음",
+          "forbidden": "해당 없음",
+          "id": 1383,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "라우릴알코올",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(거품촉진제), 점도증가제(비수성), 점도증가제(수성), 유화안정제, 피부컨디셔닝제(유연제), 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Disodium EDTA",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1096,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이소듐이디티에이, 디소듐이디티에이(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Linalool",
+          "ewg": "3",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1675,
+          "is_allergy": true,
+          "is_twenty": false,
+          "korean": "리날룰",
+          "limitation": "해당 없음",
+          "purpose": "착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Farnesol",
+          "ewg": "3_4",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6342,
+          "is_allergy": true,
+          "is_twenty": false,
+          "korean": "파네솔",
+          "limitation": "해당 없음",
+          "purpose": "착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 5,
+        "productIndex": 2015114,
+        "reviewImageArray": [],
+        "totalCount": 2,
+        "totalImageCount": 0
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 2,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          0,
+          0,
+          0,
+          0,
+          2
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "1990",
+          "atopy": false,
+          "badText": "펌핑이 아니라 위생에 좀 더 신경써야 한다는점만 아쉬운데 끝까지 다 쓸수 있는 장점도 있어요",
+          "blind": 0,
+          "brand": "시타 (SIITa)",
+          "commentCount": 0,
+          "encryptedProductId": "c64ab4162e2df66f0b2c77cdf89c2e76",
+          "gender": "여성",
+          "goodText": "시타 초창기부터 사용해서 벌써 3년째 쓰고 있네요\n정말 고급진 향이고 발림도 좋아요\n흡수도 빨라요",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1692544357,
+          "productImageUrl": "https://img.hwahae.co.kr/products/2015114/2015114_20221101101916.jpg",
+          "productIndex": 2015114,
+          "productName": "바디로션 [메르디에르]",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 8375429,
+          "sensitive": false,
+          "skinType": "복합성",
+          "trouble": false,
+          "updateTime": 1692544357,
+          "usePeriod": 0,
+          "userId": "10578592",
+          "userImageUrl": null,
+          "userName": "물령망동정중여산",
+          "userPhotoToken": 0,
+          "userReviewCount": 1
+        },
+        {
+          "additionText": "",
+          "age": "1996",
+          "atopy": false,
+          "badText": "별로 없는데 용기가 얇은 플라스틱이라 잘 찌그러진다는 점? 하지만 환경을 생각한 용기라고 하니 전혀 상관없어요",
+          "blind": 0,
+          "brand": "시타 (SIITa)",
+          "commentCount": 0,
+          "encryptedProductId": "c64ab4162e2df66f0b2c77cdf89c2e76",
+          "gender": "여성",
+          "goodText": "메르디에르 향 정말 좋아요! 시타가 인기인 이유가 있었네요",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1688190634,
+          "productImageUrl": "https://img.hwahae.co.kr/products/2015114/2015114_20221101101916.jpg",
+          "productIndex": 2015114,
+          "productName": "바디로션 [메르디에르]",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 8249685,
+          "sensitive": true,
+          "skinType": "수부지",
+          "trouble": true,
+          "updateTime": 1688190634,
+          "usePeriod": 0,
+          "userId": "4491",
+          "userImageUrl": null,
+          "userName": "피부피부12",
+          "userPhotoToken": 0,
+          "userReviewCount": 67
+        }
+      ]
+    },
+    "productTopicsNegative": [],
+    "productTopicsPositive": [
+      {
+        "id": "d36d7f98-efe8-4eeb-84c8-caef5ca0435c",
+        "is_positive": true,
+        "name": "향에만족한",
+        "review_count": 2,
+        "score": 1.716,
+        "sentence": "향에 만족해요"
+      },
+      {
+        "id": "a697c45b-df3c-497f-97b9-d08dad3b498e",
+        "is_positive": true,
+        "name": "흡수잘되는",
+        "review_count": 1,
+        "score": 1.594,
+        "sentence": "흡수가 잘 돼요"
+      },
+      {
+        "id": "ee7ea6dc-cd6d-4058-992c-389bf792159d",
+        "is_positive": true,
+        "name": "잘발리는",
+        "review_count": 1,
+        "score": 1.49,
+        "sentence": "잘 발려요"
+      }
+    ],
+    "relationGoodsData": [
+      {
+        "discount_price": 28800,
+        "discount_rate": 20,
+        "id": 49773,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20230306_180932_siita_MEBL.jpg",
+        "is_soldout": true,
+        "name": "메르디에르 바디로션 285ml",
+        "original_price": 36000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV",
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 27200,
+        "discount_rate": 20,
+        "id": 49772,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20230306_180724_siita_MEBW.jpg",
+        "is_soldout": false,
+        "name": "메르디에르 바디워시 285ml",
+        "original_price": 34000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 28800,
+        "discount_rate": 20,
+        "id": 49771,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20230306_180443_siita_MOBL.jpg",
+        "is_soldout": false,
+        "name": "몽쏘 바디로션 285ml",
+        "original_price": 36000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 27200,
+        "discount_rate": 20,
+        "id": 49770,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20230306_180037_siita_MOBW.jpg",
+        "is_soldout": false,
+        "name": "몽쏘 바디워시 285ml",
+        "original_price": 34000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

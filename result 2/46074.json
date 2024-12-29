@@ -1,0 +1,637 @@
+{
+    "pageProps": {
+        "session": null,
+        "productAwardsData": [
+            {
+                "product_id": 2008128,
+                "award_id": 16,
+                "leaf_award_id": 16,
+                "award_full_name": "2023 뷰티 어워드",
+                "category_desc": "바디케어 패드 4위",
+                "category_full_name": "일반 카테고리:바디:바디케어 패드",
+                "is_legacy": false
+            }
+        ],
+        "productGoodsPairData": {
+            "common": {
+                "avg_ratings": 4.02,
+                "review_count": 114,
+                "rank_descriptions": [
+                    "바디케어 패드 6위"
+                ],
+                "rankings": [
+                    {
+                        "rank": 6,
+                        "category_code": "001:008:013",
+                        "category_name": "바디케어 패드",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4517
+                    }
+                ]
+            },
+            "product": {
+                "id": 2008128,
+                "uid": "b9e98efd-4208-11ee-b457-0a737d0456c2",
+                "encrypted_product_id": "da75465d7fb248094a52dbfdce927d93",
+                "image_url": "https://img.hwahae.co.kr/products/2008128/2008128_20220901122859.jpg",
+                "obsolete": false,
+                "is_favorite": false,
+                "buy_info": "100매 / 19,800원",
+                "name": "쿨링 패드",
+                "product_type": 1,
+                "brand": {
+                    "id": 15249,
+                    "name": "턱스",
+                    "full_name": "턱스 (TUCKS)",
+                    "image_url": "https://img.hwahae.co.kr/brands/15249/15249_20230405140512.png"
+                },
+                "food_product_info": null,
+                "categories": [
+                    {
+                        "code": "001:008:013",
+                        "name": "바디케어 패드"
+                    }
+                ]
+            },
+            "goods": {
+                "id": 46074,
+                "type": "NORMAL",
+                "partner": {
+                    "id": 332,
+                    "name": "블리스텍스/스트라이덱스/턱스",
+                    "image_url": "https://img.hwahae.co.kr/commerce/cover/210408_193041_%EC%BA%A1%EC%B2%98_3.PNG"
+                },
+                "sale_status": "SELNG",
+                "title_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20221019_130910_%ED%84%B1%EC%8A%A4_%EC%8D%B8%EB%84%A4%EC%9D%BC_00.jpg"
+                ],
+                "detail_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20221019_132925_Tucks_CoolingPad_01.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20221019_132928_Tucks_CoolingPad_02.jpg"
+                ],
+                "short_notice": "사용기한 : 24년 11월까지 *사용기한으로 인한 교환,환불X *사용기한 확인 후 구매요망",
+                "primal_badges": [],
+                "secondary_badges": [
+                    "FREDV",
+                    "LMTSP",
+                    "COUPN"
+                ],
+                "name": "턱스 여성청결 쿨링 패드(100매)",
+                "discount_rate": 9,
+                "consumer_price": 19800,
+                "price": 17900,
+                "estimated_rewards": {
+                    "purchase": 179,
+                    "review_write": 1000,
+                    "review_photo": 100
+                },
+                "description_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20221019_132925_Tucks_CoolingPad_01.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20221019_132928_Tucks_CoolingPad_02.jpg"
+                ],
+                "notice_images": [],
+                "delivery_price": "무료배송",
+                "delivery_free_condition": null,
+                "delivery_additional_price": "제주 4,000원, 그 외 도서산간지역 5,000원 추가",
+                "delivery_company": "한진택배",
+                "ask_count": 0,
+                "wish_index": null,
+                "has_related_goods": false,
+                "has_applicable_coupon": false,
+                "capacity": "100매",
+                "gift": null,
+                "option_id": 1306614,
+                "available_stockcnt": 992,
+                "max_purchase_count": 10,
+                "min_purchase_count": 1,
+                "is_promotion_set": false,
+                "stamp": null
+            }
+        },
+        "targetSaleEventNoticeData": {
+            "notice_lines": []
+        },
+        "sampleSurveysByProductData": null,
+        "productTopicsNegative": [
+            {
+                "id": "afffbc98-0306-41ae-aa2f-c663ffdfb007",
+                "name": "향이아쉬운",
+                "sentence": "향이 아쉬워요",
+                "is_positive": false,
+                "review_count": 32,
+                "score": 9.723
+            },
+            {
+                "id": "f4278ea2-5e58-4c5c-86fd-eb4af3a07f15",
+                "name": "인공향나는",
+                "sentence": "인공 향이 나요",
+                "is_positive": false,
+                "review_count": 14,
+                "score": 7.383
+            },
+            {
+                "id": "474eb75a-f687-43dc-836c-b5d3ec207170",
+                "name": "냄새가독한",
+                "sentence": "냄새가 독해요",
+                "is_positive": false,
+                "review_count": 13,
+                "score": 7.213
+            },
+            {
+                "id": "29baae10-a774-444c-bbb5-5c2960319ad7",
+                "name": "알콜냄새나는",
+                "sentence": "알콜 냄새가 나요",
+                "is_positive": false,
+                "review_count": 9,
+                "score": 5.827
+            },
+            {
+                "id": "3ecab947-fbf8-4d04-9261-f5fb139e9a4b",
+                "name": "가려운",
+                "sentence": "가려워요",
+                "is_positive": false,
+                "review_count": 4,
+                "score": 2.282
+            },
+            {
+                "id": "0a859cf9-28d6-4cb4-abd4-82b587562c28",
+                "name": "쿨링안되는",
+                "sentence": "쿨링이 안돼요",
+                "is_positive": false,
+                "review_count": 2,
+                "score": 1.877
+            },
+            {
+                "id": "1fc9e67f-50b5-4fd3-9d1d-a559d5a6fffe",
+                "name": "시원한향나는",
+                "sentence": "시원한 향이 나요",
+                "is_positive": false,
+                "review_count": 2,
+                "score": 1.877
+            }
+        ],
+        "productTopicsPositive": [
+            {
+                "id": "eb98a358-c15c-4928-9929-c3489a162bf5",
+                "name": "자극없는",
+                "sentence": "자극이 없어요",
+                "is_positive": true,
+                "review_count": 21,
+                "score": 4.789
+            },
+            {
+                "id": "1b94ff04-c7d5-41db-8d44-e6c99f60fc42",
+                "name": "따갑지않은",
+                "sentence": "따갑지 않아요",
+                "is_positive": true,
+                "review_count": 10,
+                "score": 4.685
+            },
+            {
+                "id": "a1cbbe85-a1e7-4692-b215-fa3bf45d6700",
+                "name": "수분있는",
+                "sentence": "수분이 있어요",
+                "is_positive": true,
+                "review_count": 17,
+                "score": 4.142
+            },
+            {
+                "id": "babf90ad-20a8-4cc3-98c8-d7bafdd6e649",
+                "name": "노폐물제거되는",
+                "sentence": "노폐물 제거가 잘 돼요",
+                "is_positive": true,
+                "review_count": 16,
+                "score": 3.719
+            },
+            {
+                "id": "b4a87565-d00d-4281-90a6-5ff0137875a5",
+                "name": "진정되는",
+                "sentence": "진정이 잘 돼요",
+                "is_positive": true,
+                "review_count": 7,
+                "score": 3.682
+            },
+            {
+                "id": "62d3bfa0-8845-4e6c-bc11-c2a3d6234e23",
+                "name": "상쾌한",
+                "sentence": "상쾌해요",
+                "is_positive": true,
+                "review_count": 7,
+                "score": 3.302
+            },
+            {
+                "id": "1c22bac7-c869-4754-9ed7-929e239de61a",
+                "name": "오래사용하는",
+                "sentence": "오래 사용해요",
+                "is_positive": true,
+                "review_count": 5,
+                "score": 3.199
+            }
+        ],
+        "productReviewSummaryData": {
+            "productMetaData": {
+                "productIndex": 2008128,
+                "avgRatings": 4.017543792724609,
+                "reviewImageArray": [
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8287979/8287979_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8287979/8287979_0_0.png",
+                                "type": "패키지"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8287979/8287979_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8287979/8287979_0_1.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 8287979
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8284974/8284974_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8284974/8284974_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 8284974
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7592283/7592283_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7592283/7592283_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 7592283
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7508014/7508014_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7508014/7508014_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 7508014
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7504266/7504266_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7504266/7504266_0_0.png",
+                                "type": "사용전"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7504266/7504266_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7504266/7504266_0_1.png",
+                                "type": "사용후"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7504266/7504266_0_2.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7504266/7504266_0_2.png",
+                                "type": "제형"
+                            }
+                        ],
+                        "reviewId": 7504266
+                    }
+                ],
+                "totalCount": 114,
+                "totalImageCount": 178
+            },
+            "reviewList": [
+                {
+                    "userImageUrl": "https://img.hwahae.co.kr/users/profiles/5802694/5802694_20240713132231.jpg",
+                    "blind": 0,
+                    "badText": "1. 향: 너무 맡기 힘든 향이 나요. 평점이 4점대면 호불호가 갈리는 향인 것 같아요. 무슨 향인지는 모르겠는데 아무튼 별로 사용하고 싶지 않은 향이 났어요.\n\n2. 사용감: 거친 면도 있고 부드러운 면도 있는 것 같았어요. 근데 향이 너무 심해서 저는 차마 사용하진 못했어요… 😭\n\n3. 위생: 위생적이지는 않은 것 같아요. 따로 분리되어 있는 것도 아니고 개봉하고 들고 다니면 흐를 것 같아요. 집에서 관리하시는 거면 이런 걱정은 필요 없을 것 같습니다. 🥲",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 1,
+                    "rating": 1,
+                    "likeCount": 0,
+                    "productName": "쿨링 패드",
+                    "isCheckingReview": false,
+                    "skinType": "복합성",
+                    "modifyTime": 1723218145,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "턱스 (TUCKS)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/2008128/2008128_20220901122859.jpg",
+                    "images": [],
+                    "productIndex": 2008128,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1723218145,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "Ddxxa",
+                    "userId": "5802694",
+                    "userReviewCount": 33,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "*****내돈내산*****\n좋았던 점은 제 기억으로 딱히 없었던 것 같습니다.",
+                    "encryptedProductId": "da75465d7fb248094a52dbfdce927d93",
+                    "reviewId": 9259416,
+                    "age": "2003",
+                    "isAdvertising": false
+                },
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "대용량으로 들어있다보니 위생적으로 쓰기가 쉽지는 않네요.",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 4,
+                    "likeCount": 0,
+                    "productName": "쿨링 패드",
+                    "isCheckingReview": false,
+                    "skinType": "복합성",
+                    "modifyTime": 1718589282,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "턱스 (TUCKS)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/2008128/2008128_20220901122859.jpg",
+                    "images": [],
+                    "productIndex": 2008128,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1718589282,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "v파인애플v",
+                    "userId": "9980105",
+                    "userReviewCount": 10,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "개인 휴지도 같이 들고 다니면 좋을 것 같습니다.\n물이 많은 제품이라 위생적으로 사용하기 위해 해당 제품 사용 후 개인 휴지를 쓰시는걸 추천드립니다.",
+                    "goodText": "화한 느낌이 있으나 따갑진 않습니다. 면도 부드럽습니다.",
+                    "encryptedProductId": "da75465d7fb248094a52dbfdce927d93",
+                    "reviewId": 9144349,
+                    "age": "1995",
+                    "isAdvertising": false
+                }
+            ],
+            "productReviewMetaData": {
+                "reviewRatings": [
+                    2,
+                    3,
+                    20,
+                    55,
+                    34
+                ],
+                "filterTotalCount": 114,
+                "limitedReviewNumber": 0,
+                "reviewKeywordList": []
+            }
+        },
+        "productIngredientInfoData": {
+            "product_type": 1,
+            "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+            "purpose_default_order": [
+                {
+                    "group_code": "IPGC_01",
+                    "group_name": "피부 보습"
+                },
+                {
+                    "group_code": "IPGC_02",
+                    "group_name": "수분 증발 차단"
+                },
+                {
+                    "group_code": "IPGC_03",
+                    "group_name": "피부 보호"
+                },
+                {
+                    "group_code": "IPGC_04",
+                    "group_name": "수렴 진정"
+                },
+                {
+                    "group_code": "IPGC_05",
+                    "group_name": "각질 제거"
+                },
+                {
+                    "group_code": "IPGC_06",
+                    "group_name": "피부 미백"
+                },
+                {
+                    "group_code": "IPGC_07",
+                    "group_name": "여드름 완화"
+                },
+                {
+                    "group_code": "IPGC_08",
+                    "group_name": "자외선 차단"
+                },
+                {
+                    "group_code": "IPGC_09",
+                    "group_name": "주름 개선"
+                }
+            ],
+            "ingredients": [
+                {
+                    "id": 4912,
+                    "korean": "버지니아풍년화추출물, 위치하젤추출물(구명칭)",
+                    "english": "Hamamelis Virginiana (Witch Hazel) Extract",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "go",
+                    "skin_remark_good": "수렴 및 진정",
+                    "skin_remark_bad": null,
+                    "purpose": null,
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5321,
+                    "korean": "정제수, 증류수, 물",
+                    "english": "Water, Aqua, Distilled Water, Purified Water",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 459,
+                    "korean": "글리세린",
+                    "english": "Glycerin, Glycerol",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gd",
+                    "skin_remark_good": "보습력 증가",
+                    "skin_remark_bad": null,
+                    "purpose": "보습제, 피부보호제, 변성제, 점도감소제, 피부컨디셔닝제(보습제), 헤어컨디셔닝제, 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3251,
+                    "korean": "소듐시트레이트",
+                    "english": "Sodium Citrate",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "pH 조정제, 착향제, 금속이온봉쇄제/킬레이트화제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3729,
+                    "korean": "시트릭애씨드, 구연산",
+                    "english": "Citric Acid",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "bs",
+                    "skin_remark_good": null,
+                    "skin_remark_bad": "고농도일경우 피부자극",
+                    "purpose": "pH 조정제, 착향제, 금속이온봉쇄제/킬레이트화제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4493,
+                    "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+                    "english": "Ethylhexylglycerin",
+                    "ewg": "2",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 6462,
+                    "korean": "페녹시에탄올",
+                    "english": "Phenoxyethanol",
+                    "ewg": "2_4",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": true,
+                    "twenty_detail": "파라벤과 함께 많이 사용되는 방부제로 피부 자극을 유발하며 체내 흡수시 마취작용을 하는 것으로 알려져 있다.",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "보존제, 착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "1.00%",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1096,
+                    "korean": "다이소듐이디티에이, 디소듐이디티에이(구명칭)",
+                    "english": "Disodium EDTA",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "금속이온봉쇄제/킬레이트화제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 6601,
+                    "korean": "포타슘솔베이트, 포타슘소르베이트(구명칭)",
+                    "english": "Potassium Sorbate",
+                    "ewg": "2",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "보존제, 착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "소르빅애씨드로서 0.6%",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                }
+            ],
+            "sub_product_ingredients": null
+        },
+        "goodsProductsData": null,
+        "goodsProductsCommonData": null
+    },
+    "__N_SSP": true
+}

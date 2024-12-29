@@ -1,0 +1,931 @@
+{
+    "pageProps": {
+        "session": null,
+        "productAwardsData": [
+            {
+                "product_id": 1860257,
+                "award_id": 24,
+                "leaf_award_id": null,
+                "award_full_name": "2021 명예의 전당",
+                "category_desc": "선케어 기타 부문",
+                "category_full_name": null,
+                "is_legacy": true
+            },
+            {
+                "product_id": 1860257,
+                "award_id": 22,
+                "leaf_award_id": null,
+                "award_full_name": "2021 화해 뷰티 어워드",
+                "category_desc": "선케어 기타 1위",
+                "category_full_name": "일반 카테고리:선케어:선케어 기타",
+                "is_legacy": true
+            },
+            {
+                "product_id": 1860257,
+                "award_id": 19,
+                "leaf_award_id": null,
+                "award_full_name": "2020 화해 뷰티 어워드",
+                "category_desc": "선케어 기타 1위",
+                "category_full_name": "일반 카테고리:선케어:선케어 기타",
+                "is_legacy": true
+            },
+            {
+                "product_id": 1860257,
+                "award_id": 16,
+                "leaf_award_id": null,
+                "award_full_name": "2019 화해 뷰티 어워드",
+                "category_desc": "선케어 기타 1위",
+                "category_full_name": "일반 카테고리:선케어:선케어 기타",
+                "is_legacy": true
+            },
+            {
+                "product_id": 1860257,
+                "award_id": 4,
+                "leaf_award_id": null,
+                "award_full_name": "2016 화해 뷰티 어워드",
+                "category_desc": "선케어 기타 5위",
+                "category_full_name": "일반 카테고리:선케어:선케어 기타",
+                "is_legacy": true
+            },
+            {
+                "product_id": 1860257,
+                "award_id": 2,
+                "leaf_award_id": null,
+                "award_full_name": "2016 상반기 화해 뷰티 어워드",
+                "category_desc": "선케어 기타 2위",
+                "category_full_name": "일반 카테고리:선케어:선케어 기타",
+                "is_legacy": true
+            }
+        ],
+        "productGoodsPairData": {
+            "common": {
+                "avg_ratings": 3.78,
+                "review_count": 505,
+                "rank_descriptions": [
+                    "선케어 기타 ・ 노세범 1위",
+                    "선케어 기타 6위"
+                ],
+                "rankings": [
+                    {
+                        "rank": 1,
+                        "category_code": "001:004:003",
+                        "category_name": "선케어 기타",
+                        "root_category_name": "일반",
+                        "attribute_name": "노세범",
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4291
+                    },
+                    {
+                        "rank": 6,
+                        "category_code": "001:004:003",
+                        "category_name": "선케어 기타",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4286
+                    }
+                ]
+            },
+            "product": {
+                "id": 1860257,
+                "uid": "b43771c6-4208-11ee-b457-0a737d0456c2",
+                "encrypted_product_id": "947c1305193813c2fa4cc8f0d6e8a99f",
+                "image_url": "https://img.hwahae.co.kr/products/1860257/1860257_20220801000000.jpg",
+                "obsolete": false,
+                "is_favorite": false,
+                "buy_info": "12g / 24,000원",
+                "name": "미네랄 썬킬RX [SPF46/PA+++]",
+                "product_type": 1,
+                "brand": {
+                    "id": 751,
+                    "name": "카트린",
+                    "full_name": "카트린 (CATRIN)",
+                    "image_url": "https://img.hwahae.co.kr/brands/751/751_20230405140512.png"
+                },
+                "food_product_info": null,
+                "categories": [
+                    {
+                        "code": "001:004:003",
+                        "name": "선케어 기타"
+                    }
+                ]
+            },
+            "goods": {
+                "id": 2847,
+                "type": "NORMAL",
+                "partner": {
+                    "id": 56,
+                    "name": "맥스클리닉&카트린 공식몰",
+                    "image_url": "https://img.hwahae.co.kr/commerce/cover/201222_181055_1222_%ED%99%94%ED%95%B4_%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%A1%9C%EA%B3%A0%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg"
+                },
+                "sale_status": "SELNG",
+                "title_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20220418_142259_KakaoTalk_20220418_141330788_02.jpg"
+                ],
+                "detail_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/2847_20113108mcontent.jpg"
+                ],
+                "short_notice": null,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "name": "내추럴100 미네랄 썬킬RX [SPF46/PA+++]12g C10120",
+                "discount_rate": 29,
+                "consumer_price": 24000,
+                "price": 17000,
+                "estimated_rewards": {
+                    "purchase": 170,
+                    "review_write": 1000,
+                    "review_photo": 100
+                },
+                "description_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/2847_20113108mcontent.jpg"
+                ],
+                "notice_images": [],
+                "delivery_price": "3,000원",
+                "delivery_free_condition": "20,000원 이상 구매 시 무료",
+                "delivery_additional_price": "제주 3,000원, 그 외 도서산간지역 5,000원 추가",
+                "delivery_company": "CJ대한통운",
+                "ask_count": 54,
+                "wish_index": null,
+                "has_related_goods": false,
+                "has_applicable_coupon": false,
+                "capacity": "12g",
+                "gift": null,
+                "option_id": 1367332,
+                "available_stockcnt": 996,
+                "max_purchase_count": 5,
+                "min_purchase_count": 1,
+                "is_promotion_set": false,
+                "stamp": null
+            }
+        },
+        "targetSaleEventNoticeData": {
+            "notice_lines": []
+        },
+        "sampleSurveysByProductData": null,
+        "productTopicsNegative": [
+            {
+                "id": "5d7a8cce-5f7b-45f2-9556-738296375019",
+                "name": "보습안되는",
+                "sentence": "보습이 안돼요",
+                "is_positive": false,
+                "review_count": 44,
+                "score": 10.879
+            },
+            {
+                "id": "163a5075-6afa-468a-aa31-4dac3b362fe6",
+                "name": "알러지반응오는",
+                "sentence": "알러지 반응이 와요",
+                "is_positive": false,
+                "review_count": 24,
+                "score": 6.955
+            },
+            {
+                "id": "064a7c24-815a-43e1-9ed4-6560a79d733d",
+                "name": "지속력안좋은",
+                "sentence": "지속력이 안 좋아요",
+                "is_positive": false,
+                "review_count": 15,
+                "score": 6.35
+            },
+            {
+                "id": "6809a172-eeac-4295-93c3-deb1ca3483fe",
+                "name": "밀림있는",
+                "sentence": "밀림이 있어요",
+                "is_positive": false,
+                "review_count": 19,
+                "score": 5.699
+            },
+            {
+                "id": "27d8086b-5144-4316-8ed9-5dddf0765f3b",
+                "name": "가려운",
+                "sentence": "가려워요",
+                "is_positive": false,
+                "review_count": 7,
+                "score": 3.483
+            },
+            {
+                "id": "23bc4822-decb-4d22-a919-164250d3fc2a",
+                "name": "밀착안되는",
+                "sentence": "밀착이 안돼요",
+                "is_positive": false,
+                "review_count": 6,
+                "score": 2.626
+            },
+            {
+                "id": "12dbc9d7-c1fb-40ce-a775-9be2aa266545",
+                "name": "따가운",
+                "sentence": "따가워요",
+                "is_positive": false,
+                "review_count": 6,
+                "score": 2.6
+            }
+        ],
+        "productTopicsPositive": [
+            {
+                "id": "75737670-de21-4a1b-b6ea-8f45ac4f5bf2",
+                "name": "뽀송한",
+                "sentence": "뽀송해요",
+                "is_positive": true,
+                "review_count": 95,
+                "score": 20.922
+            },
+            {
+                "id": "ddfe49cb-bc91-4e5e-a577-5d64b1a8eddb",
+                "name": "유분없는",
+                "sentence": "유분이 없어요",
+                "is_positive": true,
+                "review_count": 76,
+                "score": 19.16
+            },
+            {
+                "id": "4c94ae03-b8dd-49d9-902c-b3191f431af0",
+                "name": "트러블안생기는",
+                "sentence": "트러블이 안 생겨요",
+                "is_positive": true,
+                "review_count": 40,
+                "score": 12.201
+            },
+            {
+                "id": "b294b2c2-1d91-4c83-95d9-cbef5e23116d",
+                "name": "톤업되는",
+                "sentence": "톤 업 돼요",
+                "is_positive": true,
+                "review_count": 44,
+                "score": 12.08
+            },
+            {
+                "id": "1c45e8b2-569d-4129-b76b-718a2e773200",
+                "name": "편안해지는",
+                "sentence": "편안해져요",
+                "is_positive": true,
+                "review_count": 31,
+                "score": 11.171
+            },
+            {
+                "id": "41859b6a-b368-4b90-b241-0b8a5581ddce",
+                "name": "끈적하지않은",
+                "sentence": "끈적하지 않아요",
+                "is_positive": true,
+                "review_count": 33,
+                "score": 10.417
+            },
+            {
+                "id": "f324584a-764a-4a24-99fc-6f23f59a5dc7",
+                "name": "가벼운",
+                "sentence": "가벼워요",
+                "is_positive": true,
+                "review_count": 28,
+                "score": 10.119
+            }
+        ],
+        "productReviewSummaryData": {
+            "productMetaData": {
+                "productIndex": 1860257,
+                "avgRatings": 3.780198097229004,
+                "reviewImageArray": [
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9023749/9023749_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9023749/9023749_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 9023749
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8323262/8323262_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8323262/8323262_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 8323262
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8100009/8100009_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8100009/8100009_0_0.png",
+                                "type": "패키지"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8100009/8100009_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8100009/8100009_0_1.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 8100009
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8049496/8049496_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8049496/8049496_0_0.png",
+                                "type": "사용후"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8049496/8049496_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8049496/8049496_0_1.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 8049496
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8035731/8035731_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8035731/8035731_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8035731
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8034614/8034614_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8034614/8034614_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8034614
+                    }
+                ],
+                "totalCount": 505,
+                "totalImageCount": 147
+            },
+            "reviewList": [
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "별다른  아쉬운점은 없고 다만 여러번 두드려쓰다보면 볼 마크처럼 마크가생긴다. ㅎㅎ",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 5,
+                    "likeCount": 0,
+                    "productName": "미네랄 썬킬RX [SPF46/PA+++]",
+                    "isCheckingReview": false,
+                    "skinType": "복합성",
+                    "modifyTime": 1729855236,
+                    "isScrapped": false,
+                    "trouble": false,
+                    "brand": "카트린 (CATRIN)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1860257/1860257_20220801000000.jpg",
+                    "images": [],
+                    "productIndex": 1860257,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1729855236,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "진이빈이엄마",
+                    "userId": "755638",
+                    "userReviewCount": 16,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "다른 쿠션보다 가볍고, 쓰기편하고, 귀찮이즘인 나에게는 딱이다.",
+                    "encryptedProductId": "947c1305193813c2fa4cc8f0d6e8a99f",
+                    "reviewId": 9439278,
+                    "age": "1979",
+                    "isAdvertising": false
+                },
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "색이 밝아서 조금만 어두운 호수가 나오면 좋겠네요",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 5,
+                    "likeCount": 0,
+                    "productName": "미네랄 썬킬RX [SPF46/PA+++]",
+                    "isCheckingReview": false,
+                    "skinType": "지성",
+                    "modifyTime": 1724435107,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "카트린 (CATRIN)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/1860257/1860257_20220801000000.jpg",
+                    "images": [],
+                    "productIndex": 1860257,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1724435107,
+                    "isAdmin": false,
+                    "sensitive": false,
+                    "userName": "jjjiiiooo",
+                    "userId": "4015080",
+                    "userReviewCount": 38,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "사실 리뷰 잘 안쓰는데 이 제품 리뷰 보면서 퍼프가 불편하다고 하시는 분들이 많아서 리뷰 쓰게됬습니다.\n\n저는 일단 내장된 퍼프는 안씁니다. 쓰기 너무 어렵고 제대로 발리지도 않아요. 피부가 안좋다보니까 제대로 안발리면 너무 피부가 더러워보여서 사용하지도 못합니다. 가루날림도 심하구요\n\n전 일단 이 제품을 쓸때\n유기자차 선크림을 먼저 바르고나서 다른 퍼프를 사용해서 가루를 묻혀서 사용합니다. \n일반 쿠션에 있는 퍼프말구 너무 털로된 퍼프말고 적당히 가루 묻힐수 있는 파우더 퍼프를 사용합니다(다이소에서 사요)\n새로 산 퍼프로 가루를 그대로 묻혀서 사용하면 좀 많이 묻어나오기 때문에 피부 커버도 확실히 됩니다. \n저는 지성이기 때문에 파우더처리 꼭 해줘야하는데 이건 파우더 할필요도 없어요\n\n그대신 세안 꼼꼼히 해야합니다. 폼클렌징으로만 안돼요\n클렌징 오일이나 로션 꼭 사용하고 2차세안해주셔야 해요\n유기자차 아닌 무기자차 쓰거나 씻고나서 바로 안해주면 피부에 더럽게 발려요.\n\n다른 퍼프는 원래 있던 퍼프 위에 두고 뚜껑닫으면 됩니당",
+                    "goodText": "원래 리뷰 잘 안쓰는데 리뷰 읽어보니 불편하게 사용하시는 분들이 많아 제 꿀팁 알려드릴려고 씁니다. \n\n피부가 너무 민감해서 성분 조금만 안좋은거 사용해도 바로 여드름나고 좁쌀나는 사람입니다. 화장성분 주의한다고 웬만한 성분도 다 알구요. 근데 이건 성분도 적고 착해서 매일 사용합니다\n\n여드름인이다 보니까 사용이 불편해도 여드름만 안나면 너무 좋아서 다른템으로 갈아타고 싶어도 몇년을 이거만 사용합니다ㅠ\n단종되면 안되요 절대",
+                    "encryptedProductId": "947c1305193813c2fa4cc8f0d6e8a99f",
+                    "reviewId": 9288773,
+                    "age": "2004",
+                    "isAdvertising": false
+                }
+            ],
+            "productReviewMetaData": {
+                "reviewRatings": [
+                    22,
+                    34,
+                    113,
+                    200,
+                    136
+                ],
+                "filterTotalCount": 505,
+                "limitedReviewNumber": 0,
+                "reviewKeywordList": []
+            }
+        },
+        "productIngredientInfoData": {
+            "product_type": 2,
+            "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+            "purpose_default_order": [
+                {
+                    "group_code": "IPGC_01",
+                    "group_name": "피부 보습"
+                },
+                {
+                    "group_code": "IPGC_02",
+                    "group_name": "수분 증발 차단"
+                },
+                {
+                    "group_code": "IPGC_03",
+                    "group_name": "피부 보호"
+                },
+                {
+                    "group_code": "IPGC_04",
+                    "group_name": "수렴 진정"
+                },
+                {
+                    "group_code": "IPGC_05",
+                    "group_name": "각질 제거"
+                },
+                {
+                    "group_code": "IPGC_06",
+                    "group_name": "피부 미백"
+                },
+                {
+                    "group_code": "IPGC_07",
+                    "group_name": "여드름 완화"
+                },
+                {
+                    "group_code": "IPGC_08",
+                    "group_name": "자외선 차단"
+                },
+                {
+                    "group_code": "IPGC_09",
+                    "group_name": "주름 개선"
+                }
+            ],
+            "ingredients": null,
+            "sub_product_ingredients": [
+                {
+                    "sub_product_id": 29648,
+                    "sub_product_name": "내추럴100 미네랄 썬킬RX [SPF46/PA+++]",
+                    "ingredients": [
+                        {
+                            "id": 1769,
+                            "korean": "마이카",
+                            "english": "Mica, Sericite, CI 77019",
+                            "ewg": "2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "불투명화제, 착색제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2627,
+                            "korean": "비스머스옥시클로라이드",
+                            "english": "Bismuth Oxychloride, CI 77163",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "착색제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5430,
+                            "korean": "징크옥사이드",
+                            "english": "Zinc Oxide, CI 77947",
+                            "ewg": "1_3",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": "go",
+                            "skin_remark_good": "살균 및 항염",
+                            "skin_remark_bad": null,
+                            "purpose": "피부보호제, 자외선차단제, 벌킹제(증량제)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                },
+                                {
+                                    "group_code": "IPGC_08",
+                                    "group_name": "자외선 차단"
+                                }
+                            ],
+                            "cosmedical": "3",
+                            "limitation": "25%",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 6330,
+                            "korean": "티타늄디옥사이드, 티타늄다이옥사이드",
+                            "english": "Titanium Dioxide, CI 77891",
+                            "ewg": "1_3",
+                            "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": "go;gs",
+                            "skin_remark_good": "자외선 차단",
+                            "skin_remark_bad": null,
+                            "purpose": "자외선차단제, 불투명화제, 착색제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_08",
+                                    "group_name": "자외선 차단"
+                                }
+                            ],
+                            "cosmedical": "3",
+                            "limitation": "25%",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8202,
+                            "korean": "황색산화철",
+                            "english": "CI 77492, Hydrated Ferric Oxide, Yellow Oxide of Iron, Iron Oxide Yellow",
+                            "ewg": "2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "착색제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 3754,
+                            "korean": "실리카",
+                            "english": "Silica",
+                            "ewg": "1_3",
+                            "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "안티케이킹제, 스크럽제, 불투명화제, 현탁화제(비계면활성제), 벌킹제(증량제), 흡수제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_05",
+                                    "group_name": "각질 제거"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5308,
+                            "korean": "적색산화철",
+                            "english": "CI 77491, Ferric Oxide, Red Oxide of Iron, Iron Oxide Red",
+                            "ewg": "2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "착색제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8331,
+                            "korean": "흑색산화철",
+                            "english": "CI 77499, Black Oxide of Iron, Ferrous-Ferric, OxideIron Oxides, Iron Oxide Black",
+                            "ewg": "2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "착색제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2912,
+                            "korean": "석영",
+                            "english": "Quartz",
+                            "ewg": "1_6",
+                            "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "연마제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2740,
+                            "korean": "사파이어가루",
+                            "english": "Sapphire Powder",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": null,
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        }
+                    ]
+                },
+                {
+                    "sub_product_id": 29649,
+                    "sub_product_name": "리뉴얼 전. 내추럴100 미네랄 썬킬RX [SPF46/PA+++]",
+                    "ingredients": [
+                        {
+                            "id": 1769,
+                            "korean": "마이카",
+                            "english": "Mica, Sericite, CI 77019",
+                            "ewg": "2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "불투명화제, 착색제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5430,
+                            "korean": "징크옥사이드",
+                            "english": "Zinc Oxide, CI 77947",
+                            "ewg": "1_3",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": "go",
+                            "skin_remark_good": "살균 및 항염",
+                            "skin_remark_bad": null,
+                            "purpose": "피부보호제, 자외선차단제, 벌킹제(증량제)",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_03",
+                                    "group_name": "피부 보호"
+                                },
+                                {
+                                    "group_code": "IPGC_08",
+                                    "group_name": "자외선 차단"
+                                }
+                            ],
+                            "cosmedical": "3",
+                            "limitation": "25%",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 6330,
+                            "korean": "티타늄디옥사이드, 티타늄다이옥사이드",
+                            "english": "Titanium Dioxide, CI 77891",
+                            "ewg": "1_3",
+                            "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": "go;gs",
+                            "skin_remark_good": "자외선 차단",
+                            "skin_remark_bad": null,
+                            "purpose": "자외선차단제, 불투명화제, 착색제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_08",
+                                    "group_name": "자외선 차단"
+                                }
+                            ],
+                            "cosmedical": "3",
+                            "limitation": "25%",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2627,
+                            "korean": "비스머스옥시클로라이드",
+                            "english": "Bismuth Oxychloride, CI 77163",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "착색제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 3754,
+                            "korean": "실리카",
+                            "english": "Silica",
+                            "ewg": "1_3",
+                            "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "안티케이킹제, 스크럽제, 불투명화제, 현탁화제(비계면활성제), 벌킹제(증량제), 흡수제",
+                            "purposes": [
+                                {
+                                    "group_code": "IPGC_05",
+                                    "group_name": "각질 제거"
+                                }
+                            ],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8202,
+                            "korean": "황색산화철",
+                            "english": "CI 77492, Hydrated Ferric Oxide, Yellow Oxide of Iron, Iron Oxide Yellow",
+                            "ewg": "2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "착색제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 5308,
+                            "korean": "적색산화철",
+                            "english": "CI 77491, Ferric Oxide, Red Oxide of Iron, Iron Oxide Red",
+                            "ewg": "2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "착색제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 8331,
+                            "korean": "흑색산화철",
+                            "english": "CI 77499, Black Oxide of Iron, Ferrous-Ferric, OxideIron Oxides, Iron Oxide Black",
+                            "ewg": "2",
+                            "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "착색제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2912,
+                            "korean": "석영",
+                            "english": "Quartz",
+                            "ewg": "1_6",
+                            "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": "연마제",
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        },
+                        {
+                            "id": 2740,
+                            "korean": "사파이어가루",
+                            "english": "Sapphire Powder",
+                            "ewg": "1",
+                            "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                            "is_allergy": false,
+                            "is_twenty": false,
+                            "twenty_detail": "해당 없음",
+                            "skin_type": null,
+                            "skin_remark_good": null,
+                            "skin_remark_bad": null,
+                            "purpose": null,
+                            "purposes": [],
+                            "cosmedical": null,
+                            "limitation": "해당 없음",
+                            "forbidden": "해당 없음",
+                            "concentration_info": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "goodsProductsData": null,
+        "goodsProductsCommonData": null
+    },
+    "__N_SSP": true
+}

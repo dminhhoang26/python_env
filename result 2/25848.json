@@ -1,0 +1,986 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.5,
+        "rank_descriptions": [
+          "스킨/토너 ・ 수분 36위",
+          "스킨/토너 -위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": "수분",
+            "category_code": "001:001:001",
+            "category_name": "스킨/토너",
+            "preview_ranking_id": 4157,
+            "rank": 36,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:001:001",
+            "category_name": "스킨/토너",
+            "preview_ranking_id": 4156,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 228
+      },
+      "goods": {
+        "ask_count": 9,
+        "available_stockcnt": 706,
+        "capacity": "300ml",
+        "consumer_price": 25000,
+        "delivery_additional_price": "제주, 도서산간지역 3,000원 추가",
+        "delivery_company": "CJ대한통운",
+        "delivery_free_condition": null,
+        "delivery_price": "무료배송",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/210623_103044_lowph_pharrier_toner_1.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/210623_103055_lowph_pharrier_toner_2.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/210623_103044_lowph_pharrier_toner_1.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/210623_103055_lowph_pharrier_toner_2.jpg"
+        ],
+        "discount_rate": 42,
+        "estimated_rewards": {
+          "purchase": 145,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": true,
+        "id": 25848,
+        "is_promotion_set": false,
+        "max_purchase_count": 5,
+        "min_purchase_count": 1,
+        "name": "약산성 패리어 토너 300ml",
+        "notice_images": [],
+        "option_id": 1578180,
+        "partner": {
+          "id": 240,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/20230426/20230426091303991_1440650.png",
+          "name": "셀퓨전씨/수이스킨 공식몰"
+        },
+        "price": 14500,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [
+          "FREDV",
+          "LMTSP"
+        ],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/210623_103034_11.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "셀퓨전씨 (CellFusionC)",
+          "id": 415,
+          "image_url": "https://img.hwahae.co.kr/brands/415/415_20241115161348.png",
+          "name": "셀퓨전씨"
+        },
+        "buy_info": "300ml / 25,000원",
+        "categories": [
+          {
+            "code": "001:001:001",
+            "name": "스킨/토너"
+          }
+        ],
+        "encrypted_product_id": "2b2c19c82e0a1990c784ea108db21393",
+        "food_product_info": null,
+        "id": 1940102,
+        "image_url": "https://img.hwahae.co.kr/products/1940102/1940102_20220801000000.jpg",
+        "is_favorite": false,
+        "name": "약산성 패리어 토너",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "b735ad6b-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Melissa Officinalis Leaf Extract",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 1579,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "레몬밤잎추출물",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(수분차단제), 착향제, 피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Water, Aqua, Distilled Water, Purified Water",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+          "forbidden": "해당 없음",
+          "id": 5321,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "정제수, 증류수, 물",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Butylene Glycol, 1,3-Butylene Glycol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2454,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "부틸렌글라이콜, 1,3-부틸렌글라이콜",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제, 피부컨디셔닝제, 착향제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycerin, Glycerol",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 459,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세린",
+          "limitation": "해당 없음",
+          "purpose": "변성제, 피부보호제, 피부컨디셔닝제(보습제), 점도감소제, 헤어컨디셔닝제, 착향제, 보습제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "보습력 증가",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "1,2-Hexanediol",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "1,2-헥산다이올, 1,2-헥산디올(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Methyl Gluceth-20",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 1897,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "메틸글루세스-20, 메칠글루세스-20(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Glycereth-26",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 449,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글리세레스-26",
+          "limitation": "해당 없음",
+          "purpose": "점도감소제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ethylhexylglycerin",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 4493,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ammonium Acryloyldimethyltaurate/VP Copolymer",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 4288,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "암모늄아크릴로일다이메틸타우레이트/브이피코폴리머, 암모늄아크릴로일디메칠타우레이트/브이피코폴리머(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수성)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Citrate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 3251,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐시트레이트",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제, pH 조정제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Citric Acid",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 3729,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "시트릭애씨드, 구연산",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제, pH 조정제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": "고농도일경우 피부자극",
+          "skin_remark_good": null,
+          "skin_type": "bs",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Trisodium EDTA",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6226,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "트라이소듐이디티에이, 트리소듐이디티에이(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "금속이온봉쇄제/킬레이트화제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Gluconolactone",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 420,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "글루코노락톤",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Hyaluronate Crosspolymer",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 3387,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐하이알루로네이트크로스폴리머",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydrolyzed Hyaluronic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7949,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드롤라이즈드하이알루로닉애씨드",
+          "limitation": "해당 없음",
+          "purpose": "헤어컨디셔닝제, 피부컨디셔닝제(보습제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sodium Hyaluronate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 3385,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "소듐하이알루로네이트",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "강력 보습",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Rosmarinic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1634,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "로즈마리닉애씨드",
+          "limitation": "해당 없음",
+          "purpose": "산화방지제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hyaluronic Acid",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 7968,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이알루로닉애씨드, 히아루론산, 히알루론산",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(수성), 피부컨디셔닝제(기타)",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.495614051818848,
+        "productIndex": 1940102,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9461899/9461899_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9461899/9461899_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9461899
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9396790/9396790_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9396790/9396790_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9396790
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9179188/9179188_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9179188/9179188_0_0.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9179188/9179188_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9179188/9179188_0_1.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9179188
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9137830/9137830_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9137830/9137830_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9137830
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9075842/9075842_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9075842/9075842_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9075842
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8771558/8771558_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8771558/8771558_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 8771558
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/8679191/8679191_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/8679191/8679191_0_0.png?size=120x120",
+                "type": "사용전"
+              }
+            ],
+            "reviewId": 8679191
+          }
+        ],
+        "totalCount": 228,
+        "totalImageCount": 185
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 228,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          1,
+          5,
+          18,
+          60,
+          144
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "1981",
+          "atopy": false,
+          "badText": "아주 예민할때 사용했는데 자극없었고 트러블도 없었네요",
+          "blind": 0,
+          "brand": "셀퓨전씨 (CellFusionC)",
+          "commentCount": 0,
+          "encryptedProductId": "2b2c19c82e0a1990c784ea108db21393",
+          "gender": "여성",
+          "goodText": "발림성 -  좋음\n흡수력 - 아주좋음\n보습력 -  좋음\n\n사용기간 - 한달\n\n추천피부 - 모든피부가능\n\n용량 - 300ml\n\n구매가격 - 13,050",
+          "images": [
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/9461899/9461899_0_0.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/9461899/9461899_0_0.png?size=120x120",
+              "type": "기타"
+            }
+          ],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1731065554,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1940102/1940102_20220801000000.jpg",
+          "productIndex": 1940102,
+          "productName": "약산성 패리어 토너",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9461899,
+          "sensitive": true,
+          "skinType": "복합성",
+          "trouble": false,
+          "updateTime": 1731065554,
+          "usePeriod": 0,
+          "userId": "11676251",
+          "userImageUrl": null,
+          "userName": "yuranluk",
+          "userPhotoToken": 0,
+          "userReviewCount": 3
+        },
+        {
+          "additionText": "",
+          "age": "1997",
+          "atopy": true,
+          "badText": "건성인 분은 잘 안맞을 수도 있습니다 지성이 좋은듯",
+          "blind": 0,
+          "brand": "셀퓨전씨 (CellFusionC)",
+          "commentCount": 0,
+          "encryptedProductId": "2b2c19c82e0a1990c784ea108db21393",
+          "gender": "남성",
+          "goodText": "무조건 쓰셔야함 올영에서 테스트재품 받았는데 아직까지 쓰는중",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1729544909,
+          "productImageUrl": "https://img.hwahae.co.kr/products/1940102/1940102_20220801000000.jpg",
+          "productIndex": 1940102,
+          "productName": "약산성 패리어 토너",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9431463,
+          "sensitive": true,
+          "skinType": "지성",
+          "trouble": true,
+          "updateTime": 1729544909,
+          "usePeriod": 0,
+          "userId": "3970215",
+          "userImageUrl": null,
+          "userName": "으하하하라라",
+          "userPhotoToken": 0,
+          "userReviewCount": 26
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "41ed55cf-bdd4-40c3-9d4f-b8a8224887b7",
+        "is_positive": false,
+        "name": "따가운",
+        "review_count": 10,
+        "score": 4.468,
+        "sentence": "따가워요"
+      },
+      {
+        "id": "1282bf00-eb2c-4823-8c85-30ac057684f7",
+        "is_positive": false,
+        "name": "알러지반응오는",
+        "review_count": 11,
+        "score": 4.242,
+        "sentence": "알러지 반응이 와요"
+      },
+      {
+        "id": "5cb5b54f-8106-4aa6-a2a8-d758a535829e",
+        "is_positive": false,
+        "name": "눈통증있는",
+        "review_count": 5,
+        "score": 3.404,
+        "sentence": "눈 통증이 있어요"
+      },
+      {
+        "id": "0247ea3a-3d9c-4e19-b9be-12295a1b2dd2",
+        "is_positive": false,
+        "name": "흘러내리는",
+        "review_count": 5,
+        "score": 2.488,
+        "sentence": "흘러내려요"
+      },
+      {
+        "id": "8495db14-41f0-497e-a5d0-9c9e5f336743",
+        "is_positive": false,
+        "name": "쿨링안되는",
+        "review_count": 2,
+        "score": 2.182,
+        "sentence": "쿨링이 안돼요"
+      },
+      {
+        "id": "69a42030-24a6-4109-b968-ab2241a0064c",
+        "is_positive": false,
+        "name": "알콜냄새나는",
+        "review_count": 3,
+        "score": 2.024,
+        "sentence": "알콜 냄새가 나요"
+      },
+      {
+        "id": "cc830111-3f98-482f-ba65-9034ea2b3c1f",
+        "is_positive": false,
+        "name": "인공향나는",
+        "review_count": 3,
+        "score": 1.786,
+        "sentence": "인공 향이 나요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "ef7717cc-acf0-439e-805a-2549ac664d83",
+        "is_positive": true,
+        "name": "약산성인",
+        "review_count": 57,
+        "score": 38.474,
+        "sentence": "약산성이에요"
+      },
+      {
+        "id": "477ced55-acdb-4041-bcc3-6800fd6cdf46",
+        "is_positive": true,
+        "name": "자극없는",
+        "review_count": 85,
+        "score": 14.706,
+        "sentence": "자극이 없어요"
+      },
+      {
+        "id": "7fa7e9ea-1662-4b7f-bdfa-783060e72549",
+        "is_positive": true,
+        "name": "보습잘되는",
+        "review_count": 45,
+        "score": 10.747,
+        "sentence": "보습이 잘 돼요"
+      },
+      {
+        "id": "63afda19-b3bb-4363-a6b8-45f61212481a",
+        "is_positive": true,
+        "name": "수분있는",
+        "review_count": 64,
+        "score": 10.393,
+        "sentence": "수분이 있어요"
+      },
+      {
+        "id": "0de00f77-7b13-4b75-88a7-db3ae4432c1b",
+        "is_positive": true,
+        "name": "흡수잘되는",
+        "review_count": 35,
+        "score": 9.949,
+        "sentence": "흡수가 잘 돼요"
+      },
+      {
+        "id": "41928d91-667f-4c6c-8e51-be78a10112da",
+        "is_positive": true,
+        "name": "가벼운",
+        "review_count": 22,
+        "score": 8.063,
+        "sentence": "가벼워요"
+      },
+      {
+        "id": "35f4f2f6-4686-41b6-bf67-f302e800ebfa",
+        "is_positive": true,
+        "name": "산뜻한",
+        "review_count": 18,
+        "score": 7.748,
+        "sentence": "산뜻해요"
+      }
+    ],
+    "relationGoodsData": [
+      {
+        "discount_price": 14500,
+        "discount_rate": 42,
+        "id": 25848,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/210623_103034_11.jpg",
+        "is_soldout": false,
+        "name": "약산성 패리어 토너 300ml",
+        "original_price": 25000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV",
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 32500,
+        "discount_rate": 35,
+        "id": 43116,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20220726_172641_14.jpg",
+        "is_soldout": false,
+        "name": "약산성 패리어 토너 300ml (2개입)",
+        "original_price": 50000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV",
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 11000,
+        "discount_rate": 50,
+        "id": 28143,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20220726_173329_16.jpg",
+        "is_soldout": false,
+        "name": "약산성 패리어 클렌징폼 165ml",
+        "original_price": 22000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV",
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 13900,
+        "discount_rate": 42,
+        "id": 25847,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/210623_102928_10.jpg",
+        "is_soldout": false,
+        "name": "약산성 패리어 클렌징 워터 500ml",
+        "original_price": 24000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV",
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 14500,
+        "discount_rate": 42,
+        "id": 25848,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/210623_103034_11.jpg",
+        "is_soldout": false,
+        "name": "약산성 패리어 토너 300ml",
+        "original_price": 25000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV",
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 21000,
+        "discount_rate": 41,
+        "id": 31589,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20220726_173647_17.jpg",
+        "is_soldout": false,
+        "name": "약산성 패리어 수분 크림 80ml",
+        "original_price": 36000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV",
+          "LMTSP"
+        ],
+        "stamp": null
+      },
+      {
+        "discount_price": 19500,
+        "discount_rate": 39,
+        "id": 28142,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/210923_103635_low_pharrier_cream_55ml.jpg",
+        "is_soldout": false,
+        "name": "약산성 패리어 크림 55ml",
+        "original_price": 32000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [
+          "FREDV",
+          "LMTSP"
+        ],
+        "stamp": null
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

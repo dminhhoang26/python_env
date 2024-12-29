@@ -1,0 +1,945 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 4.62,
+        "rank_descriptions": [
+          "마스카라/픽서 ・ 컬링 5위",
+          "마스카라/픽서 8위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": "컬링",
+            "category_code": "001:006:004",
+            "category_name": "마스카라/픽서",
+            "preview_ranking_id": 4389,
+            "rank": 5,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:006:004",
+            "category_name": "마스카라/픽서",
+            "preview_ranking_id": 4386,
+            "rank": 8,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 119
+      },
+      "goods": {
+        "ask_count": 0,
+        "available_stockcnt": 999,
+        "capacity": "8g",
+        "consumer_price": 16000,
+        "delivery_additional_price": "제주, 도서산간지역 0원 추가",
+        "delivery_company": "CJ대한통운",
+        "delivery_free_condition": "15,000원 이상 구매 시 무료",
+        "delivery_price": "2,500원",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151648_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_01.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151651_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_02.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151654_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_03.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151657_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_04.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151700_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_05.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151702_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_06.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151705_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_07.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151708_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_08.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151648_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_01.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151651_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_02.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151654_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_03.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151657_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_04.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151700_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_05.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151702_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_06.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151705_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_07.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151708_%EC%83%81%EC%84%B8_%EC%BB%AC%ED%94%BD%EC%8A%A4%EB%A7%88%EC%8A%A4%EC%B9%B4%EB%9D%BC_%234%EA%B0%80%EB%8B%A5%EB%B3%BC%EB%A5%A8_08.jpg"
+        ],
+        "discount_rate": 25,
+        "estimated_rewards": {
+          "purchase": 120,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": true,
+        "id": 64338,
+        "is_promotion_set": false,
+        "max_purchase_count": null,
+        "min_purchase_count": 1,
+        "name": "컬 픽스 마스카라 [03 그레이브라운] 8g",
+        "notice_images": [],
+        "option_id": 1555288,
+        "partner": {
+          "id": 19,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/210728_110213_210728_%ED%99%94%ED%95%B4_%EB%B8%8C%EB%9E%9C%EB%93%9C%EA%B4%80.jpg",
+          "name": "에뛰드 공식몰"
+        },
+        "price": 12000,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20240723_145213_curlfix2023_graybrown.png",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151719_curlfix_volume_01.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20240730_151714_%EC%BB%AC%ED%94%BD%EC%8A%A4_1000x1000.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "에뛰드 (ETUDE)",
+          "id": 34,
+          "image_url": "https://img.hwahae.co.kr/brands/34/34_20230607152541.png",
+          "name": "에뛰드"
+        },
+        "buy_info": "8g / 16,000원",
+        "categories": [
+          {
+            "code": "001:006:004",
+            "name": "마스카라/픽서"
+          }
+        ],
+        "encrypted_product_id": "19ded5ee468fac75a9bfafd084ddd716",
+        "food_product_info": null,
+        "id": 2033390,
+        "image_url": "https://img.hwahae.co.kr/products/2033390/2033390_20230413165915.jpg",
+        "is_favorite": false,
+        "name": "컬 픽스 마스카라 [03 그레이브라운]",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "bb41f4c2-4208-11ee-b457-0a737d0456c2"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Isododecane",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 5014,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "아이소도데케인, 이소도데칸(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Trimethylsiloxysilicate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6187,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "트라이메틸실록시실리케이트, 트리메칠실록시실리케이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "기포방지제/소포제, 피부컨디셔닝제(수분차단제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Ceresin",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 2959,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "세레신",
+          "limitation": "해당 없음",
+          "purpose": "점도증가제(비수용성), 결합제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Dextrin Palmitate/Ethylhexanoate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 868,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "덱스트린팔미테이트/에틸헥사노에이트, 덱스트린팔미테이트/에칠헥사노에이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "안티케이킹제, 계면활성제(유화제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Talc",
+          "ewg": "5_8",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "금지 (대한민국약전(식품의약품안전처 고시) ‘탤크’항 중 석면기준에 적합하지 않은 탤크)",
+          "id": 6037,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "탤크, 탈크",
+          "limitation": "해당 없음",
+          "purpose": "벌킹제(증량제), 안티케이킹제, 스크럽제, 흡수제, 피부보호제, 미끄럼조정제/활택제, 불투명화제",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            },
+            {
+              "group_code": "IPGC_05",
+              "group_name": "각질 제거"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Isobutylmethacrylate/Bis-Hydroxypropyl Dimethicone Acrylate Copolymer",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 5028,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "아이소부틸메타크릴레이트/비스-하이드록시프로필다이메티콘아크릴레이트코폴리머, 이소부틸메타크릴레이트/비스-하이드록시프로필디메치콘아크릴레이트코폴리머(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피막형성제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Microcrystalline Wax, Cera Microcristallina",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1772,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "마이크로크리스탈린왁스, 세라마이크로크리스탈리나(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "유화안정제, 벌킹제(증량제), 결합제, 점도증가제(비수성)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Disteardimonium Hectorite",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 1117,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이스테아다이모늄헥토라이트, 디스테아디모늄헥토라이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "현탁화제(비계면활성제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "CI 77499, Black Oxide of Iron, Ferrous-Ferric, OxideIron Oxides, Iron Oxide Black",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8331,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "흑색산화철",
+          "limitation": "해당 없음",
+          "purpose": "착색제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Polypropylsilsesquioxane",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6957,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "폴리프로필실세스퀴옥세인, 폴리프로필실세스퀴옥산(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피막형성제, 결합제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Propylene Carbonate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7032,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "프로필렌카보네이트",
+          "limitation": "해당 없음",
+          "purpose": "용제, 점도감소제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydrogenated Polyisobutene",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7709,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드로제네이티드폴리아이소부텐, 하이드로제네이티드폴리이소부텐(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(유연제), 점도증가제(비수성)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "CI 77492, Hydrated Ferric Oxide, Yellow Oxide of Iron, Iron Oxide Yellow",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8202,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "황색산화철",
+          "limitation": "해당 없음",
+          "purpose": "착색제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": "3",
+          "english": "Titanium Dioxide, CI 77891",
+          "ewg": "1_3",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 6330,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "티타늄디옥사이드, 티타늄다이옥사이드",
+          "limitation": "25%",
+          "purpose": "착색제, 불투명화제, 자외선차단제",
+          "purposes": [
+            {
+              "group_code": "IPGC_08",
+              "group_name": "자외선 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "자외선 차단",
+          "skin_type": "go;gs",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "CI 77491, Ferric Oxide, Red Oxide of Iron, Iron Oxide Red",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5308,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "적색산화철",
+          "limitation": "해당 없음",
+          "purpose": "착색제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Triethoxycaprylylsilane",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6245,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "트라이에톡시카프릴릴실레인, 트리에톡시카프릴릴실란(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "결합제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Aluminum Hydroxide, CI 77002",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 4203,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "알루미늄하이드록사이드",
+          "limitation": "해당 없음",
+          "purpose": "피부보호제, 불투명화제",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "BHT, Butylated hydroxytoluene, Butyl Hydroxytoluene, Dibutyl Hydroxy Toluene",
+          "ewg": "5",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 2631,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "비에이치티, 부틸하이드록시톨루엔, 다이부틸하이드록시톨루엔, 부틸레이티드하이드록시톨루엔",
+          "limitation": "해당 없음",
+          "purpose": "산화방지제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "탈모 및 피부 과민반응의 원인이 된다. 유전자 이상을 일으킬 수 있고, 피하지방에 쉽게 쌓이며, 알레르기를 유발하는 성분으로 알려져 있다."
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 4.6218485832214355,
+        "productIndex": 2033390,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9470005/9470005_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9470005/9470005_0_0.png?size=120x120",
+                "type": "발색"
+              }
+            ],
+            "reviewId": 9470005
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9445566/9445566_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9445566/9445566_0_0.png?size=120x120",
+                "type": "사용전"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9445566/9445566_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9445566/9445566_0_1.png?size=120x120",
+                "type": "사용후"
+              }
+            ],
+            "reviewId": 9445566
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9418537/9418537_1_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9418537/9418537_1_0.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9418537/9418537_1_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9418537/9418537_1_1.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9418537
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9384044/9384044_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9384044/9384044_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9384044
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9350052/9350052_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9350052/9350052_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9350052
+          },
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9322459/9322459_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9322459/9322459_0_0.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9322459
+          }
+        ],
+        "totalCount": 119,
+        "totalImageCount": 89
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 119,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          1,
+          2,
+          3,
+          29,
+          84
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "두번 뾱뾱 해주고 한바퀴 슥 돌려서 뺙 빼서 써주는게 젤 깔끔하답니당",
+          "age": "2002",
+          "atopy": false,
+          "badText": "대신 깔끔하게 발리기때문에 풍성하게 섬유질이 붙지는 않아요",
+          "blind": 0,
+          "brand": "에뛰드 (ETUDE)",
+          "commentCount": 0,
+          "encryptedProductId": "19ded5ee468fac75a9bfafd084ddd716",
+          "gender": "여성",
+          "goodText": "중학교때부터 화장을 해온 23살 ◞✧ \n돌돌에... ♥ 마스카라 다양한거 써봤는데 가루 떨어짐. 번짐. 뭉침 없이 깔끔히 쓸 수 있는 마스카라 !!!! \n심지어 블랙은 너무 답답해보이고 갈색은 살짝 흰끼돌아서 아쉬웠는데 그레이 브라운에 미치고 쟁여두고 쓰는 사람 나요 *.☆⸜(⑉˙ᗜ˙⑉)⸝♡.* \n돌고돌아 항상 에이 에뛰드 사야지 하게되는 제품... ♥ 굿",
+          "images": [
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/9470005/9470005_0_0.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/9470005/9470005_0_0.png?size=120x120",
+              "type": "발색"
+            }
+          ],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1731510517,
+          "productImageUrl": "https://img.hwahae.co.kr/products/2033390/2033390_20230413165915.jpg",
+          "productIndex": 2033390,
+          "productName": "컬 픽스 마스카라 [03 그레이브라운]",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9470005,
+          "sensitive": false,
+          "skinType": "수부지",
+          "trouble": false,
+          "updateTime": 1731510517,
+          "usePeriod": 0,
+          "userId": "11901654",
+          "userImageUrl": null,
+          "userName": "sseaaa",
+          "userPhotoToken": 0,
+          "userReviewCount": 3
+        },
+        {
+          "additionText": "",
+          "age": "2001",
+          "atopy": false,
+          "badText": "뷰러 버리고.. 흠 뭐 딱히 단점은 앖는 듯? 굳이 찾자면 용기가 핑크라 뭐가 잘 묻는다?",
+          "blind": 0,
+          "brand": "에뛰드 (ETUDE)",
+          "commentCount": 0,
+          "encryptedProductId": "19ded5ee468fac75a9bfafd084ddd716",
+          "gender": "여성",
+          "goodText": "뷰러 주길래 사 봤는데 뷰러는 버리고 마스카라 짱이네여 너무 좋음ㅜㅜ 저는 핀셋으로 가닥 잡아서 뭉쳐놓는데 얘가 그거 하기 딱 좋아여",
+          "images": [],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1731034960,
+          "productImageUrl": "https://img.hwahae.co.kr/products/2033390/2033390_20230413165915.jpg",
+          "productIndex": 2033390,
+          "productName": "컬 픽스 마스카라 [03 그레이브라운]",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9461061,
+          "sensitive": false,
+          "skinType": "지성",
+          "trouble": false,
+          "updateTime": 1731034960,
+          "usePeriod": 0,
+          "userId": "737625",
+          "userImageUrl": null,
+          "userName": "rnnjdlq",
+          "userPhotoToken": 0,
+          "userReviewCount": 19
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "bd34fe0d-b5bc-487e-8933-5ee8af49e2f9",
+        "is_positive": false,
+        "name": "흰기있는",
+        "review_count": 4,
+        "score": 3.432,
+        "sentence": "흰기가 있어요"
+      },
+      {
+        "id": "58c834ba-23e7-48e7-925f-0f67399646be",
+        "is_positive": false,
+        "name": "발색안되는",
+        "review_count": 2,
+        "score": 1.615,
+        "sentence": "발색이 안돼요"
+      },
+      {
+        "id": "6b44f245-c4ad-4535-9c51-6899ef746a1c",
+        "is_positive": false,
+        "name": "실버톤이아닌",
+        "review_count": 2,
+        "score": 1.348,
+        "sentence": "실버 톤이 아니에요"
+      },
+      {
+        "id": "921e836c-f0a9-4aaf-a0c8-e43d436b3559",
+        "is_positive": false,
+        "name": "잘굳는",
+        "review_count": 4,
+        "score": 1.183,
+        "sentence": "잘 굳어요"
+      },
+      {
+        "id": "1ae315aa-d892-43ee-a07f-8f1b2118109c",
+        "is_positive": false,
+        "name": "묻어나는",
+        "review_count": 2,
+        "score": 1.123,
+        "sentence": "잘 묻어나요"
+      },
+      {
+        "id": "9d44fbbc-358d-4592-8ac7-930eeff96415",
+        "is_positive": false,
+        "name": "롱래쉬안되는",
+        "review_count": 2,
+        "score": 1.075,
+        "sentence": "롱래쉬가 안돼요"
+      },
+      {
+        "id": "2a5ad053-9e42-45b8-b343-0fb07b08c244",
+        "is_positive": false,
+        "name": "주황톤이아닌",
+        "review_count": 1,
+        "score": 1.064,
+        "sentence": "주황 톤이 아니에요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "49587981-982b-42c9-a698-27ff8be0b96f",
+        "is_positive": true,
+        "name": "그레이브라운톤의",
+        "review_count": 16,
+        "score": 20.692,
+        "sentence": "그레이 브라운 톤이에요"
+      },
+      {
+        "id": "e743c391-fa6f-49d4-898d-ffcf192dea79",
+        "is_positive": true,
+        "name": "브라운톤의",
+        "review_count": 33,
+        "score": 19.146,
+        "sentence": "브라운 톤이에요"
+      },
+      {
+        "id": "e8c0144c-8ddc-4d32-b02a-2d1aa4e09eec",
+        "is_positive": true,
+        "name": "색감좋은",
+        "review_count": 23,
+        "score": 13.044,
+        "sentence": "색감이 좋아요"
+      },
+      {
+        "id": "86a8aa0b-c392-4d08-9587-9aecfe99f03c",
+        "is_positive": true,
+        "name": "자연스러운",
+        "review_count": 41,
+        "score": 10.829,
+        "sentence": "자연스러워요"
+      },
+      {
+        "id": "80b8cae4-cfbf-4b5f-9c77-812d031fbf36",
+        "is_positive": true,
+        "name": "연한",
+        "review_count": 9,
+        "score": 7.202,
+        "sentence": "연해요"
+      },
+      {
+        "id": "46a192bb-2612-406f-85fc-65d63710da92",
+        "is_positive": true,
+        "name": "지속력좋은",
+        "review_count": 31,
+        "score": 6.108,
+        "sentence": "지속력이 좋아요"
+      },
+      {
+        "id": "49912a6a-3cdb-467f-badb-b2889e02fbe3",
+        "is_positive": true,
+        "name": "잘발리는",
+        "review_count": 14,
+        "score": 4.714,
+        "sentence": "잘 발려요"
+      }
+    ],
+    "relationGoodsData": [
+      {
+        "discount_price": 12000,
+        "discount_rate": 25,
+        "id": 64338,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20240723_145213_curlfix2023_graybrown.png",
+        "is_soldout": false,
+        "name": "컬 픽스 마스카라 [03 그레이브라운] 8g",
+        "original_price": 16000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 11200,
+        "discount_rate": 30,
+        "id": 26114,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20240723_144930_curlfix2023_black.png",
+        "is_soldout": false,
+        "name": "컬 픽스 마스카라 [01 블랙] 8g",
+        "original_price": 16000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 11200,
+        "discount_rate": 30,
+        "id": 26115,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20240722_140903_curlfix2023_brown.png",
+        "is_soldout": false,
+        "name": "컬 픽스 마스카라 [02 브라운] 8g",
+        "original_price": 16000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 12000,
+        "discount_rate": 25,
+        "id": 64338,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20240723_145213_curlfix2023_graybrown.png",
+        "is_soldout": false,
+        "name": "컬 픽스 마스카라 [03 그레이브라운] 8g",
+        "original_price": 16000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 16000,
+        "discount_rate": 30,
+        "id": 65452,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20241101_111903_e0gfx_101606_1.jpg",
+        "is_soldout": false,
+        "name": "컬 픽스 마스카라 [04 가닥볼륨 + 속눈썹 빗 기획세트] 8g",
+        "original_price": 23000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 16000,
+        "discount_rate": 30,
+        "id": 58698,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20231129_153452_%EB%B8%94%EB%9E%99.jpg",
+        "is_soldout": false,
+        "name": "컬 픽스 마스카라 [01 블랙 + 뷰러 기획세트] 8g",
+        "original_price": 23000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 16000,
+        "discount_rate": 30,
+        "id": 58701,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20231129_153517_%EB%B8%8C%EB%9D%BC%EC%9A%B4.jpg",
+        "is_soldout": false,
+        "name": "컬 픽스 마스카라 [02 브라운 + 뷰러 기획세트] 8g",
+        "original_price": 23000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 16000,
+        "discount_rate": 30,
+        "id": 58703,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20231129_154356_%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%B8%8C%EB%9D%BC%EC%9A%B4.jpg",
+        "is_soldout": false,
+        "name": "컬 픽스 마스카라 [03 그레이 브라운 + 뷰러 기획세트] 8g",
+        "original_price": 23000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}

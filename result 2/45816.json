@@ -1,0 +1,880 @@
+{
+    "pageProps": {
+        "session": null,
+        "productAwardsData": [],
+        "productGoodsPairData": {
+            "common": {
+                "avg_ratings": 4.67,
+                "review_count": 3,
+                "rank_descriptions": [
+                    "헤어미스트 -위",
+                    "바디미스트/샤워코롱 -위"
+                ],
+                "rankings": [
+                    {
+                        "rank": null,
+                        "category_code": "001:009:004",
+                        "category_name": "헤어미스트",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4441
+                    },
+                    {
+                        "rank": null,
+                        "category_code": "001:008:006",
+                        "category_name": "바디미스트/샤워코롱",
+                        "root_category_name": "일반",
+                        "attribute_name": null,
+                        "ranking_id": 1,
+                        "preview_ranking_id": 4414
+                    }
+                ]
+            },
+            "product": {
+                "id": 2003798,
+                "uid": "b9bb1636-4208-11ee-b457-0a737d0456c2",
+                "encrypted_product_id": "e9b150067f56f756d5a8be438cf9dd96",
+                "image_url": "https://img.hwahae.co.kr/products/2003798/2003798_20220801000000.jpg",
+                "obsolete": true,
+                "is_favorite": false,
+                "buy_info": "65ml / 35,000원",
+                "name": "모먼트 프래그런스 미스트 쏘 캄 [우디플로럴향]",
+                "product_type": 1,
+                "brand": {
+                    "id": 13554,
+                    "name": "온호프",
+                    "full_name": "온호프 (onhope)",
+                    "image_url": "https://img.hwahae.co.kr/brands/13554/13554_20230405140512.png"
+                },
+                "food_product_info": null,
+                "categories": [
+                    {
+                        "code": "001:009:004",
+                        "name": "헤어미스트"
+                    },
+                    {
+                        "code": "001:008:006",
+                        "name": "바디미스트/샤워코롱"
+                    }
+                ]
+            },
+            "goods": {
+                "id": 45816,
+                "type": "NORMAL",
+                "partner": {
+                    "id": 179,
+                    "name": "아모레퍼시픽 공식몰 [생활]",
+                    "image_url": "https://img.hwahae.co.kr/commerce/cover/210105_174136_%EC%95%84%EB%AA%A8%EB%A0%88%ED%8D%BC%EC%8B%9C%ED%94%BD%20%EB%A1%9C%EA%B3%A0jpg.jpg"
+                },
+                "sale_status": "SLDOT",
+                "title_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20221013_172110_%EC%98%A8%ED%98%B8%ED%94%84_%EB%AA%A8%EB%A8%BC%ED%8A%B8_%ED%94%84%EB%9E%98%EA%B7%B8%EB%9F%B0%EC%8A%A4_%EB%AF%B8%EC%8A%A4%ED%8A%B8_%EC%8F%98%EC%BA%8465ml_1000.jpg"
+                ],
+                "detail_images": [
+                    "https://img.hwahae.co.kr/commerce/notice/20240920/20240920091902316_notice_top_720_화해.jpg",
+                    "https://img.hwahae.co.kr/commerce/goods/20230220_095054_127780042.jpg"
+                ],
+                "short_notice": null,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "name": "모먼트 쏘 캄 65ml 1입",
+                "discount_rate": 20,
+                "consumer_price": 35000,
+                "price": 28000,
+                "estimated_rewards": {
+                    "purchase": 280,
+                    "review_write": 1000,
+                    "review_photo": 100
+                },
+                "description_images": [
+                    "https://img.hwahae.co.kr/commerce/goods/20230220_095054_127780042.jpg"
+                ],
+                "notice_images": [
+                    "https://img.hwahae.co.kr/commerce/notice/20240920/20240920091902316_notice_top_720_화해.jpg"
+                ],
+                "delivery_price": "무료배송",
+                "delivery_free_condition": null,
+                "delivery_additional_price": null,
+                "delivery_company": "CJ대한통운",
+                "ask_count": 0,
+                "wish_index": null,
+                "has_related_goods": true,
+                "has_applicable_coupon": false,
+                "capacity": "65ml",
+                "gift": null,
+                "option_id": 946286,
+                "available_stockcnt": 0,
+                "max_purchase_count": 10,
+                "min_purchase_count": 1,
+                "is_promotion_set": false,
+                "stamp": null
+            }
+        },
+        "relationGoodsData": [
+            {
+                "id": 45816,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221013_172110_%EC%98%A8%ED%98%B8%ED%94%84_%EB%AA%A8%EB%A8%BC%ED%8A%B8_%ED%94%84%EB%9E%98%EA%B7%B8%EB%9F%B0%EC%8A%A4_%EB%AF%B8%EC%8A%A4%ED%8A%B8_%EC%8F%98%EC%BA%8465ml_1000.jpg",
+                "name": "모먼트 쏘 캄 65ml 1입",
+                "discount_rate": 20,
+                "discount_price": 28000,
+                "original_price": 35000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": true,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 45809,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221013_171239_%EC%98%A8%ED%98%B8%ED%94%84_%ED%95%B8%EB%93%9C%EB%A6%AC%ED%94%84%EB%A0%88%EC%85%94_%EC%8F%98%ED%9D%AC30mlx2.jpg",
+                "name": "핸드 리프레셔 쏘 희 30ml 2입",
+                "discount_rate": 15,
+                "discount_price": 17000,
+                "original_price": 20000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": true,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 45813,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221013_171816_%EC%98%A8%ED%98%B8%ED%94%84_%EB%AA%A8%EB%A8%BC%ED%8A%B8_%ED%94%84%EB%9E%98%EA%B7%B8%EB%9F%B0%EC%8A%A4_%EB%AF%B8%EC%8A%A4%ED%8A%B8_%EC%8F%98%ED%9D%AC65ml_1000.jpg",
+                "name": "모먼트 쏘 희 65ml 1입",
+                "discount_rate": 20,
+                "discount_price": 28000,
+                "original_price": 35000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": true,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 45814,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221013_171932_%EC%98%A8%ED%98%B8%ED%94%84_%EB%AA%A8%EB%A8%BC%ED%8A%B8_%ED%94%84%EB%9E%98%EA%B7%B8%EB%9F%B0%EC%8A%A4_%EB%AF%B8%EC%8A%A4%ED%8A%B8_%EC%8F%98%ED%94%84%EB%A0%88%EC%89%AC65ml_1000.jpg",
+                "name": "모먼트 쏘 프레쉬 65ml 1입",
+                "discount_rate": 20,
+                "discount_price": 28000,
+                "original_price": 35000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": true,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            },
+            {
+                "id": 45815,
+                "image_url": "https://img.hwahae.co.kr/commerce/goods/20221013_172025_%EC%98%A8%ED%98%B8%ED%94%84_%EB%AA%A8%EB%A8%BC%ED%8A%B8_%ED%94%84%EB%9E%98%EA%B7%B8%EB%9F%B0%EC%8A%A4_%EB%AF%B8%EC%8A%A4%ED%8A%B8_%EC%8F%98%EC%BB%B4%ED%8F%AC%ED%8A%B865ml_1000.jpg",
+                "name": "모먼트 쏘 컴포트 65ml 1입",
+                "discount_rate": 20,
+                "discount_price": 28000,
+                "original_price": 35000,
+                "primal_badges": [],
+                "secondary_badges": [],
+                "is_soldout": true,
+                "sale_goods_type": "NORMAL",
+                "stamp": null
+            }
+        ],
+        "targetSaleEventNoticeData": {
+            "notice_lines": []
+        },
+        "sampleSurveysByProductData": null,
+        "productTopicsNegative": [
+            {
+                "id": "727cb11c-fb2a-4798-9526-8f078e57d23f",
+                "name": "가벼운",
+                "sentence": "가벼워요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 2.936
+            },
+            {
+                "id": "01828827-e925-433c-8d0b-a0c8025b3a3e",
+                "name": "향지속잘되지않는",
+                "sentence": "향이 잘 지속되지 않아요",
+                "is_positive": false,
+                "review_count": 1,
+                "score": 1.61
+            }
+        ],
+        "productTopicsPositive": [
+            {
+                "id": "9a5cbff7-91cb-44f4-8e25-ed7e58c41e4d",
+                "name": "지속력좋은",
+                "sentence": "지속력이 좋아요",
+                "is_positive": true,
+                "review_count": 2,
+                "score": 4.154
+            },
+            {
+                "id": "6f67264f-0422-49b2-a60d-932cefd5d6ef",
+                "name": "보습잘되는",
+                "sentence": "보습이 잘 돼요",
+                "is_positive": true,
+                "review_count": 2,
+                "score": 3.864
+            },
+            {
+                "id": "ca6d8fea-6f37-4dcf-a60c-0682c363b93f",
+                "name": "우드향나는",
+                "sentence": "우드 향이 나요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 3.447
+            },
+            {
+                "id": "a327a712-1de8-4cd1-ac2a-040eac42116e",
+                "name": "수분있는",
+                "sentence": "수분이 있어요",
+                "is_positive": true,
+                "review_count": 1,
+                "score": 2.153
+            },
+            {
+                "id": "39e46234-08e9-4a45-8a24-85f667c5e551",
+                "name": "향에만족한",
+                "sentence": "향에 만족해요",
+                "is_positive": true,
+                "review_count": 2,
+                "score": 0.906
+            }
+        ],
+        "productReviewSummaryData": {
+            "productMetaData": {
+                "productIndex": 2003798,
+                "avgRatings": 4.666666507720947,
+                "reviewImageArray": [
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_0.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_1.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_1.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_2.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_2.png",
+                                "type": "기타"
+                            },
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_3.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_3.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 9343093
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/8351656/8351656_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/8351656/8351656_0_0.png",
+                                "type": "기타"
+                            }
+                        ],
+                        "reviewId": 8351656
+                    },
+                    {
+                        "images": [
+                            {
+                                "thumbnail": "https://img.hwahae.co.kr/reviews/7310749/7310749_0_0.png?size=120x120",
+                                "origin": "https://img.hwahae.co.kr/reviews/7310749/7310749_0_0.png",
+                                "type": "패키지"
+                            }
+                        ],
+                        "reviewId": 7310749
+                    }
+                ],
+                "totalCount": 3,
+                "totalImageCount": 6
+            },
+            "reviewList": [
+                {
+                    "userImageUrl": "https://img.hwahae.co.kr/users/profiles/8581432/8581432_20241110004213.jpg",
+                    "blind": 0,
+                    "badText": "향도 머리아픈 향도 아니고 가볍게 뿌리기 좋아요 아쉬운 점 없어요",
+                    "gender": "여성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 3,
+                    "rating": 5,
+                    "likeCount": 0,
+                    "productName": "모먼트 프래그런스 미스트 쏘 캄 [우디플로럴향]",
+                    "isCheckingReview": false,
+                    "skinType": "복합성",
+                    "modifyTime": 1725983239,
+                    "isScrapped": false,
+                    "trouble": false,
+                    "brand": "온호프 (onhope)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/2003798/2003798_20220801000000.jpg",
+                    "images": [
+                        {
+                            "thumbnail": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_0.png?size=120x120",
+                            "origin": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_0.png",
+                            "type": "기타"
+                        },
+                        {
+                            "thumbnail": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_1.png?size=120x120",
+                            "origin": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_1.png",
+                            "type": "기타"
+                        },
+                        {
+                            "thumbnail": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_2.png?size=120x120",
+                            "origin": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_2.png",
+                            "type": "기타"
+                        },
+                        {
+                            "thumbnail": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_3.png?size=120x120",
+                            "origin": "https://img.hwahae.co.kr/reviews/9343093/9343093_0_3.png",
+                            "type": "기타"
+                        }
+                    ],
+                    "productIndex": 2003798,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1725983239,
+                    "isAdmin": false,
+                    "sensitive": true,
+                    "userName": "낑주은",
+                    "userId": "8581432",
+                    "userReviewCount": 232,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "온호프 모먼트 바디미스트\n\n#쏘캄 비 온 뒤 촉촉히 젖은 흙내음을 머금은 고요한 숲속 향이에요\n제가 우드향을 잘 안쓰는 편인데 가벼운 우드향이라서 좋은 것 같아요",
+                    "encryptedProductId": "e9b150067f56f756d5a8be438cf9dd96",
+                    "reviewId": 9343093,
+                    "age": "1993",
+                    "isAdvertising": false
+                },
+                {
+                    "userImageUrl": null,
+                    "blind": 0,
+                    "badText": "[주의.지극히 주관적인 의견이며 사용감이 피부타입에 따라 다를 수 있습니다.]\n\n[구매 이유: 아는 지인이 선물해주어서 쓰고 있습니다]\n\n[피부 타입: 지성 타입이었던 건성]\n\n1. 향이 다른 분들은 모르겠지만 제가 느끼기에는\n미스트 특유의 향이 매우 강해서 향수를 뿌린 것 같아서\n이 미스트를 뿌린 다음에 향수를 뿌릴 수 없었습니다.\n\n2. 향이 매우 어지럽습니다. 향수를 농축 해놓은 정도의 강한 향을 느끼는 경우도 있었습니다. 한번에 많은 양의 미스트가 나와서 인거 같습니다.\n\n",
+                    "gender": "남성",
+                    "isActiveUser": true,
+                    "userPhotoToken": 0,
+                    "rating": 4,
+                    "likeCount": 0,
+                    "productName": "모먼트 프래그런스 미스트 쏘 캄 [우디플로럴향]",
+                    "isCheckingReview": false,
+                    "skinType": "지성",
+                    "modifyTime": 1691672292,
+                    "isScrapped": false,
+                    "trouble": true,
+                    "brand": "온호프 (onhope)",
+                    "productImageUrl": "https://img.hwahae.co.kr/products/2003798/2003798_20220801000000.jpg",
+                    "images": [
+                        {
+                            "thumbnail": "https://img.hwahae.co.kr/reviews/8351656/8351656_0_0.png?size=120x120",
+                            "origin": "https://img.hwahae.co.kr/reviews/8351656/8351656_0_0.png",
+                            "type": "기타"
+                        }
+                    ],
+                    "productIndex": 2003798,
+                    "usePeriod": 0,
+                    "atopy": false,
+                    "isLiked": false,
+                    "repurchase": -1,
+                    "updateTime": 1691672292,
+                    "isAdmin": false,
+                    "sensitive": false,
+                    "userName": "Oooooso",
+                    "userId": "10535536",
+                    "userReviewCount": 4,
+                    "isFollowed": false,
+                    "commentCount": 0,
+                    "additionText": "",
+                    "goodText": "[주의.지극히 주관적인 의견이며 사용감이 피부타입에 따라 다를 수 있습니다.]\n\n[구매 이유: 아는 지인이 선물해주어서 쓰고 있습니다]\n\n[피부 타입: 지성 타입이었던 건성]\n\n1. 수분을 채워 주는 느낌이 나는게 좋았습니다.\n미스트 뿌리면서 안에서 부터 수분을 채워 주는 느낌을 잘 못 받았는데 이 미스트를 사용하면서 이 느낌을 잘 느꼈네요\n\n2. 보습효과 지속성이 길어서 좋았습니다.\n보통 미스트는 뿌리고 일시적으로 수분을 채워주는 용도 였는데 지속성이 길어서 너무 좋았습니다. 제가 느끼기에는\n거의 수분크림과 비슷한정도에 지속성이었습니다.\n\n3. 미스트의 향의 지속성이 길었습니다. 미스트를 뿌린 다음에 물로 씻어도 향이 남아있고 향이 오래 남아있었습니다.\n\n4. 미스트 용기의 디자인이 매우 마음에 들었습니다.\n외관이 매우 심플하면서 예뻐서 선물용으로 괜찮을 것 같습니다.",
+                    "encryptedProductId": "e9b150067f56f756d5a8be438cf9dd96",
+                    "reviewId": 8351656,
+                    "age": "2009",
+                    "isAdvertising": false
+                }
+            ],
+            "productReviewMetaData": {
+                "reviewRatings": [
+                    0,
+                    0,
+                    0,
+                    1,
+                    2
+                ],
+                "filterTotalCount": 3,
+                "limitedReviewNumber": 0,
+                "reviewKeywordList": []
+            }
+        },
+        "productIngredientInfoData": {
+            "product_type": 1,
+            "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+            "purpose_default_order": [
+                {
+                    "group_code": "IPGC_01",
+                    "group_name": "피부 보습"
+                },
+                {
+                    "group_code": "IPGC_02",
+                    "group_name": "수분 증발 차단"
+                },
+                {
+                    "group_code": "IPGC_03",
+                    "group_name": "피부 보호"
+                },
+                {
+                    "group_code": "IPGC_04",
+                    "group_name": "수렴 진정"
+                },
+                {
+                    "group_code": "IPGC_05",
+                    "group_name": "각질 제거"
+                },
+                {
+                    "group_code": "IPGC_06",
+                    "group_name": "피부 미백"
+                },
+                {
+                    "group_code": "IPGC_07",
+                    "group_name": "여드름 완화"
+                },
+                {
+                    "group_code": "IPGC_08",
+                    "group_name": "자외선 차단"
+                },
+                {
+                    "group_code": "IPGC_09",
+                    "group_name": "주름 개선"
+                }
+            ],
+            "ingredients": [
+                {
+                    "id": 4253,
+                    "korean": "알코올, 에탄올",
+                    "english": "Alcohol, Ethanol",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "bs;bd",
+                    "skin_remark_good": null,
+                    "skin_remark_bad": "수분증발, 피부건조",
+                    "purpose": "기포방지제/소포제, 용제, 점도감소제, 수렴제, 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_04",
+                            "group_name": "수렴 진정"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5321,
+                    "korean": "정제수, 증류수, 물",
+                    "english": "Water, Aqua, Distilled Water, Purified Water",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 매우 많음(Robust)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 피부컨디셔닝제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 8030,
+                    "korean": "향료",
+                    "english": "Fragrance, Parfum, Aroma",
+                    "ewg": "8",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": false,
+                    "is_twenty": true,
+                    "twenty_detail": "향을 유발하는 성분을 통칭해 향료로 표기하기에 실체를 정확히 알 수 없다. 두통, 현기증, 발진, 색소침착, 기관지 자극을 유발한다고 알려져 있다.",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "감미제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 459,
+                    "korean": "글리세린",
+                    "english": "Glycerin, Glycerol",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gd",
+                    "skin_remark_good": "보습력 증가",
+                    "skin_remark_bad": null,
+                    "purpose": "보습제, 피부보호제, 변성제, 점도감소제, 피부컨디셔닝제(보습제), 헤어컨디셔닝제, 착향제",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        },
+                        {
+                            "group_code": "IPGC_03",
+                            "group_name": "피부 보호"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 62,
+                    "korean": "C12-14파레스-12(구명칭), C12-14알케스-12",
+                    "english": "C12-14 Pareth-12, C12-14 Alketh-12",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "계면활성제(유화제)",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 2,
+                    "korean": "1,2-헥산다이올, 1,2-헥산디올(구명칭)",
+                    "english": "1,2-Hexanediol",
+                    "ewg": "1",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 2366,
+                    "korean": "벤질벤조에이트",
+                    "english": "Benzyl Benzoate",
+                    "ewg": "4_5",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1675,
+                    "korean": "리날룰",
+                    "english": "Linalool",
+                    "ewg": "3",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 1686,
+                    "korean": "d-리모넨, ㎗-리모넨, 리모넨",
+                    "english": "d-Limonene, dl-Limonene, Limonene",
+                    "ewg": "4_6",
+                    "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "용제, 착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "금지 (과산화물가가 20mmol/L을 초과하는 d-리모넨;과산화물가가 20mmol/L을 초과하는 ㎗-리모넨;과산화물가가 20mmol/L을 초과하는 ℓ-리모넨)",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5875,
+                    "korean": "쿠마린",
+                    "english": "Coumarin",
+                    "ewg": "4_5",
+                    "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4493,
+                    "korean": "에틸헥실글리세린, 에칠헥실글리세린(구명칭)",
+                    "english": "Ethylhexylglycerin",
+                    "ewg": "2",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4263,
+                    "korean": "알파-아이소메틸아이오논, 알파-이소메칠이오논(구명칭)",
+                    "english": "Alpha-Isomethyl Ionone",
+                    "ewg": "3_5",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제, 피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 8078,
+                    "korean": "헥실신남알, 헥실신나몰(구명칭)",
+                    "english": "Hexyl Cinnamal",
+                    "ewg": "3",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5326,
+                    "korean": "제라니올",
+                    "english": "Geraniol",
+                    "ewg": "3_5",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 2367,
+                    "korean": "벤질살리실레이트",
+                    "english": "Benzyl Salicylate",
+                    "ewg": "3_5",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제, 변색방지제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 7734,
+                    "korean": "하이드록시시트로넬알",
+                    "english": "Hydroxycitronellal",
+                    "ewg": "3_6",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 3722,
+                    "korean": "시트랄",
+                    "english": "Citral",
+                    "ewg": "3_5",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제, 감미제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "금지 (과산화물가가 10mmol/L을 초과하는 테르펜 및 테르페노이드(다만, 리모넨류는 제외))",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5698,
+                    "korean": "캐모마일꽃수",
+                    "english": "Anthemis Nobilis Flower Water",
+                    "ewg": "1_2",
+                    "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+                    "is_allergy": false,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": "gs;gd",
+                    "skin_remark_good": "습윤, 예민현상 진정",
+                    "skin_remark_bad": null,
+                    "purpose": "착향제, 피부컨디셔닝제(기타)",
+                    "purposes": [
+                        {
+                            "group_code": "IPGC_01",
+                            "group_name": "피부 보습"
+                        }
+                    ],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 5079,
+                    "korean": "아이소유제놀, 이소유제놀(구명칭)",
+                    "english": "Isoeugenol",
+                    "ewg": "3_4",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "착향제, 감미제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                },
+                {
+                    "id": 4943,
+                    "korean": "유제놀",
+                    "english": "Eugenol",
+                    "ewg": "3_5",
+                    "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+                    "is_allergy": true,
+                    "is_twenty": false,
+                    "twenty_detail": "해당 없음",
+                    "skin_type": null,
+                    "skin_remark_good": null,
+                    "skin_remark_bad": null,
+                    "purpose": "변성제, 착향제",
+                    "purposes": [],
+                    "cosmedical": null,
+                    "limitation": "해당 없음",
+                    "forbidden": "해당 없음",
+                    "concentration_info": null
+                }
+            ],
+            "sub_product_ingredients": null
+        },
+        "goodsProductsData": null,
+        "goodsProductsCommonData": null
+    },
+    "__N_SSP": true
+}

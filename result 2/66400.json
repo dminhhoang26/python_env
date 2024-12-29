@@ -1,0 +1,794 @@
+{
+  "__N_SSP": true,
+  "pageProps": {
+    "goodsProductsCommonData": null,
+    "goodsProductsData": null,
+    "productAwardsData": [],
+    "productGoodsPairData": {
+      "common": {
+        "avg_ratings": 5,
+        "rank_descriptions": [
+          "립글로스 ・ 글로시 -위",
+          "립글로스 -위"
+        ],
+        "rankings": [
+          {
+            "attribute_name": "글로시",
+            "category_code": "001:007:003",
+            "category_name": "립글로스",
+            "preview_ranking_id": 4405,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          },
+          {
+            "attribute_name": null,
+            "category_code": "001:007:003",
+            "category_name": "립글로스",
+            "preview_ranking_id": 4403,
+            "rank": null,
+            "ranking_id": 1,
+            "root_category_name": "일반"
+          }
+        ],
+        "review_count": 1
+      },
+      "goods": {
+        "ask_count": 0,
+        "available_stockcnt": 100,
+        "capacity": "3g",
+        "consumer_price": 12000,
+        "delivery_additional_price": null,
+        "delivery_company": "우체국택배",
+        "delivery_free_condition": "15,000원 이상 구매 시 무료",
+        "delivery_price": "2,500원",
+        "description_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20241104_141957_%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%8B%A8%EB%8F%85_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4%20%2B%20%EB%B2%A0%EB%A5%B4%EC%83%A4%EC%9D%B8%EA%B8%80%EB%A1%9C%EC%8A%A4.png",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132151_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_01.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132156_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_02.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132159_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_03.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132203_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_04.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132207_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_05.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132209_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_06.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132212_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_07.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132215_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_08.jpg"
+        ],
+        "detail_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20241104_141957_%EC%98%A8%EB%9D%BC%EC%9D%B8%EB%8B%A8%EB%8F%85_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4%20%2B%20%EB%B2%A0%EB%A5%B4%EC%83%A4%EC%9D%B8%EA%B8%80%EB%A1%9C%EC%8A%A4.png",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132151_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_01.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132156_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_02.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132159_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_03.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132203_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_04.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132207_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_05.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132209_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_06.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132212_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_07.jpg",
+          "https://img.hwahae.co.kr/commerce/goods/20241023_132215_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4_08.jpg"
+        ],
+        "discount_rate": 20,
+        "estimated_rewards": {
+          "purchase": 96,
+          "review_photo": 100,
+          "review_write": 1000
+        },
+        "gift": null,
+        "has_applicable_coupon": false,
+        "has_related_goods": true,
+        "id": 66400,
+        "is_promotion_set": false,
+        "max_purchase_count": 10,
+        "min_purchase_count": 1,
+        "name": "베르 컬러 글로스 [1호 블랜디드 피치] 2.6g + 미니 글로스 증정",
+        "notice_images": [],
+        "option_id": 1557071,
+        "partner": {
+          "id": 242,
+          "image_url": "https://img.hwahae.co.kr/commerce/cover/210412_141619_cover0412.jpg",
+          "name": "투쿨포스쿨 공식몰"
+        },
+        "price": 9600,
+        "primal_badges": [],
+        "sale_status": "SELNG",
+        "secondary_badges": [],
+        "short_notice": null,
+        "stamp": null,
+        "title_images": [
+          "https://img.hwahae.co.kr/commerce/goods/20241104_142557_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4%201%ED%98%B8.jpg"
+        ],
+        "type": "NORMAL",
+        "wish_index": null
+      },
+      "product": {
+        "brand": {
+          "full_name": "투쿨포스쿨 (toocoolforschool)",
+          "id": 172,
+          "image_url": "https://img.hwahae.co.kr/brands/172/172_20230405140512.png",
+          "name": "투쿨포스쿨"
+        },
+        "buy_info": "2.6g / 12,000원",
+        "categories": [
+          {
+            "code": "001:007:003",
+            "name": "립글로스"
+          }
+        ],
+        "encrypted_product_id": "affb60709d4b131b861a52d9ca817a65",
+        "food_product_info": null,
+        "id": 2118876,
+        "image_url": "https://img.hwahae.co.kr/products/2118876/2118876_20241022163317.jpg",
+        "is_favorite": false,
+        "name": "베르 컬러 글로스 [1호 블랜디드피치]",
+        "obsolete": false,
+        "product_type": 1,
+        "uid": "035dab59-51d0-48fb-99eb-0fa37f42d96d"
+      }
+    },
+    "productIngredientInfoData": {
+      "ingredients": [
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Hydrogenated Polyisobutene",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 7709,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "하이드로제네이티드폴리아이소부텐, 하이드로제네이티드폴리이소부텐(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "피부컨디셔닝제(유연제), 점도증가제(비수성)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Bis-Behenyl/Isostearyl/Phytosteryl Dimer Dilinoleyl Dimer Dilinoleate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 2584,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "비스-베헤닐/아이소스테아릴/피토스테릴다이머다이리놀레일다이머다이리놀리에이트, 비스-베헤닐/이소스테아릴/피토스테릴다이머디리놀레일다이머디리놀리에이트(구명칭), 비스-베헤닐/아이소스테아릴/피토스체릴다이머다이리놀레일다이머다이리놀리에이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "헤어컨디셔닝제, 피부컨디셔닝제(유연제), 피부컨디셔닝제(수분차단제), 점도증가제(비수성)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            },
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Diisostearyl Malate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1183,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "다이아이소스테아릴말레이트, 디이소스테아릴말레이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제(유연제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Caprylic/Capric Triglyceride",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 5619,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "카프릴릭/카프릭트라이글리세라이드, 카프릴릭/카프릭트리글리세라이드(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 착향제, 피부컨디셔닝제(수분차단제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Silica Dimethyl Silylate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 3756,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "실리카다이메틸실릴레이트, 실리카디메칠실릴레이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "안티케이킹제, 벌킹제(증량제), 미끄럼조정제/활택제, 점도증가제(비수성)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Microcrystalline Wax, Cera Microcristallina",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 1772,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "마이크로크리스탈린왁스, 세라마이크로크리스탈리나(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "유화안정제, 벌킹제(증량제), 결합제, 점도증가제(비수성)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Polyglyceryl-2 Triisostearate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적음(Limited)",
+          "forbidden": "해당 없음",
+          "id": 6727,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "폴리글리세릴-2트라이아이소스테아레이트, 폴리글리세릴-2트리이소스테아레이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "용제, 피부컨디셔닝제(유연제), 계면활성제(유화제)",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Menthyl Lactate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 1988,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "멘틸락테이트",
+          "limitation": "해당 없음",
+          "purpose": "향료, 감미제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Sorbitan Isostearate",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 거의 없음(None)",
+          "forbidden": "해당 없음",
+          "id": 3413,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "솔비탄아이소스테아레이트, 소르비탄이소스테아레이트(구명칭)",
+          "limitation": "해당 없음",
+          "purpose": "계면활성제(유화제)",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "CI 77492, Hydrated Ferric Oxide, Yellow Oxide of Iron, Iron Oxide Yellow",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8202,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "황색산화철",
+          "limitation": "해당 없음",
+          "purpose": "착색제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": "3",
+          "english": "Titanium Dioxide, CI 77891",
+          "ewg": "1_3",
+          "ewg_data_availability_text": "데이터 등급: 충분함(Good)",
+          "forbidden": "해당 없음",
+          "id": 6330,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "티타늄디옥사이드, 티타늄다이옥사이드",
+          "limitation": "25%",
+          "purpose": "착색제, 불투명화제, 자외선차단제",
+          "purposes": [
+            {
+              "group_code": "IPGC_08",
+              "group_name": "자외선 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "자외선 차단",
+          "skin_type": "go;gs",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Fragrance, Parfum, Aroma",
+          "ewg": "8",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8030,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "향료",
+          "limitation": "해당 없음",
+          "purpose": "감미제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "향을 유발하는 성분을 통칭해 향료로 표기하기에 실체를 정확히 알 수 없다. 두통, 현기증, 발진, 색소침착, 기관지 자극을 유발한다고 알려져 있다."
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "CI 15850:1, Red 7, Lithol Rubine BCA",
+          "ewg": null,
+          "ewg_data_availability_text": "해당 없음",
+          "forbidden": "해당 없음",
+          "id": 5287,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "적색202호",
+          "limitation": "해당 없음",
+          "purpose": "착색제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "입술염의 원인으로 알려져 있다. 착색료공통: 식품에서 사용가능한 타르색소라 해도 위험성이 없다고 할 수 없기에 주의가 필요한 성분이다."
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "CI 77499, Black Oxide of Iron, Ferrous-Ferric, OxideIron Oxides, Iron Oxide Black",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 8331,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "흑색산화철",
+          "limitation": "해당 없음",
+          "purpose": "착색제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "CI 77491, Ferric Oxide, Red Oxide of Iron, Iron Oxide Red",
+          "ewg": "2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5308,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "적색산화철",
+          "limitation": "해당 없음",
+          "purpose": "착색제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "CI 42090, Brilliant Blue FCF",
+          "ewg": "3_8",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 5491,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "청색1호",
+          "limitation": "해당 없음",
+          "purpose": "착색제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "착색료공통: 식품에서 사용가능한 타르색소라 해도 위험성이 없다고 할 수 없기에 주의가 필요한 성분이다."
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Aluminum Hydroxide, CI 77002",
+          "ewg": "1",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 4203,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "알루미늄하이드록사이드",
+          "limitation": "해당 없음",
+          "purpose": "피부보호제, 불투명화제",
+          "purposes": [
+            {
+              "group_code": "IPGC_03",
+              "group_name": "피부 보호"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "Tocopherol, Vitamin E",
+          "ewg": "1_2",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 6098,
+          "is_allergy": false,
+          "is_twenty": false,
+          "korean": "토코페롤, 비타민E",
+          "limitation": "20%",
+          "purpose": "산화방지제, 피부컨디셔닝제, 착향제, 수분증발차단제",
+          "purposes": [
+            {
+              "group_code": "IPGC_01",
+              "group_name": "피부 보습"
+            },
+            {
+              "group_code": "IPGC_02",
+              "group_name": "수분 증발 차단"
+            }
+          ],
+          "skin_remark_bad": null,
+          "skin_remark_good": "피부 재생, 탄력",
+          "skin_type": "gd",
+          "twenty_detail": "해당 없음"
+        },
+        {
+          "concentration_info": null,
+          "cosmedical": null,
+          "english": "BHT, Butylated hydroxytoluene, Butyl Hydroxytoluene, Dibutyl Hydroxy Toluene",
+          "ewg": "5",
+          "ewg_data_availability_text": "데이터 등급: 적당함(Fair)",
+          "forbidden": "해당 없음",
+          "id": 2631,
+          "is_allergy": false,
+          "is_twenty": true,
+          "korean": "비에이치티, 부틸하이드록시톨루엔, 다이부틸하이드록시톨루엔, 부틸레이티드하이드록시톨루엔",
+          "limitation": "해당 없음",
+          "purpose": "산화방지제, 착향제",
+          "purposes": [],
+          "skin_remark_bad": null,
+          "skin_remark_good": null,
+          "skin_type": null,
+          "twenty_detail": "탈모 및 피부 과민반응의 원인이 된다. 유전자 이상을 일으킬 수 있고, 피하지방에 쉽게 쌓이며, 알레르기를 유발하는 성분으로 알려져 있다."
+        }
+      ],
+      "notification_text": "1) 구매 전에 제조판매업자가 표기한 전성분 표를 한 번 더 확인하시길 권장드립니다.\n2) 화해 정보를 허가없이 상업적으로 활용할 경우, 법적 조치를 받을 수 있습니다.\n3) 성분별 해당 제품 내 배합 비율은 브랜드사에서 제공한 정보로 모든 책임은 브랜드사에 있습니다.",
+      "product_type": 1,
+      "purpose_default_order": [
+        {
+          "group_code": "IPGC_01",
+          "group_name": "피부 보습"
+        },
+        {
+          "group_code": "IPGC_02",
+          "group_name": "수분 증발 차단"
+        },
+        {
+          "group_code": "IPGC_03",
+          "group_name": "피부 보호"
+        },
+        {
+          "group_code": "IPGC_04",
+          "group_name": "수렴 진정"
+        },
+        {
+          "group_code": "IPGC_05",
+          "group_name": "각질 제거"
+        },
+        {
+          "group_code": "IPGC_06",
+          "group_name": "피부 미백"
+        },
+        {
+          "group_code": "IPGC_07",
+          "group_name": "여드름 완화"
+        },
+        {
+          "group_code": "IPGC_08",
+          "group_name": "자외선 차단"
+        },
+        {
+          "group_code": "IPGC_09",
+          "group_name": "주름 개선"
+        }
+      ],
+      "sub_product_ingredients": null
+    },
+    "productReviewSummaryData": {
+      "productMetaData": {
+        "avgRatings": 5,
+        "productIndex": 2118876,
+        "reviewImageArray": [
+          {
+            "images": [
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9452401/9452401_0_0.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9452401/9452401_0_0.png?size=120x120",
+                "type": "기타"
+              },
+              {
+                "origin": "https://img.hwahae.co.kr/reviews/9452401/9452401_0_1.png",
+                "thumbnail": "https://img.hwahae.co.kr/reviews/9452401/9452401_0_1.png?size=120x120",
+                "type": "기타"
+              }
+            ],
+            "reviewId": 9452401
+          }
+        ],
+        "totalCount": 1,
+        "totalImageCount": 2
+      },
+      "productReviewMetaData": {
+        "filterTotalCount": 1,
+        "limitedReviewNumber": 0,
+        "reviewKeywordList": [],
+        "reviewRatings": [
+          0,
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "reviewList": [
+        {
+          "additionText": "",
+          "age": "1995",
+          "atopy": false,
+          "badText": "플럼핑이 있어서 입술산 언저리에 하면 좀 따가워요",
+          "blind": 0,
+          "brand": "투쿨포스쿨 (toocoolforschool)",
+          "commentCount": 0,
+          "encryptedProductId": "affb60709d4b131b861a52d9ca817a65",
+          "gender": "여성",
+          "goodText": "색 너무예뻐요 모브한 장미빛인데 끈적이지도않고 자체로도 좋음 위에얹었을때 더 분위기있어요 사진은 미드나잇모브위에얹었어요",
+          "images": [
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/9452401/9452401_0_0.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/9452401/9452401_0_0.png?size=120x120",
+              "type": "기타"
+            },
+            {
+              "origin": "https://img.hwahae.co.kr/reviews/9452401/9452401_0_1.png",
+              "thumbnail": "https://img.hwahae.co.kr/reviews/9452401/9452401_0_1.png?size=120x120",
+              "type": "기타"
+            }
+          ],
+          "isActiveUser": true,
+          "isAdmin": false,
+          "isAdvertising": false,
+          "isCheckingReview": false,
+          "isFollowed": false,
+          "isLiked": false,
+          "isScrapped": false,
+          "likeCount": 0,
+          "modifyTime": 1730553956,
+          "productImageUrl": "https://img.hwahae.co.kr/products/2118876/2118876_20241022163317.jpg",
+          "productIndex": 2118876,
+          "productName": "베르 컬러 글로스 [1호 블랜디드피치]",
+          "rating": 5,
+          "repurchase": -1,
+          "reviewId": 9452401,
+          "sensitive": true,
+          "skinType": "복합성",
+          "trouble": false,
+          "updateTime": 1730553956,
+          "usePeriod": 0,
+          "userId": "6567419",
+          "userImageUrl": "https://img.hwahae.co.kr/users/profiles/6567419/6567419_20240811122523.png",
+          "userName": "갈뮽ㅡ딥도파민중독자",
+          "userPhotoToken": 0,
+          "userReviewCount": 239
+        }
+      ]
+    },
+    "productTopicsNegative": [
+      {
+        "id": "cf1407a2-5e66-4416-97eb-60c35015718b",
+        "is_positive": false,
+        "name": "따가운",
+        "review_count": 1,
+        "score": 4.142,
+        "sentence": "따가워요"
+      }
+    ],
+    "productTopicsPositive": [
+      {
+        "id": "5608c40b-be61-42b9-986d-bd48706bda49",
+        "is_positive": true,
+        "name": "말린장미톤의",
+        "review_count": 1,
+        "score": 4.712,
+        "sentence": "말린 장미 톤이에요"
+      },
+      {
+        "id": "c6025803-1d77-4d8f-afe8-cf518bb0d129",
+        "is_positive": true,
+        "name": "끈적하지않은",
+        "review_count": 1,
+        "score": 2.689,
+        "sentence": "끈적하지 않아요"
+      }
+    ],
+    "relationGoodsData": [
+      {
+        "discount_price": 9600,
+        "discount_rate": 20,
+        "id": 66400,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20241104_142557_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4%201%ED%98%B8.jpg",
+        "is_soldout": false,
+        "name": "베르 컬러 글로스 [1호 블랜디드 피치] 2.6g + 미니 글로스 증정",
+        "original_price": 12000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 9600,
+        "discount_rate": 20,
+        "id": 66405,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20241023_133740_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4%206%ED%98%B8.jpg",
+        "is_soldout": false,
+        "name": "베르 컬러 글로스 [6호 플럼 샷] 2.6g + 미니 글로스 증정",
+        "original_price": 12000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 9600,
+        "discount_rate": 20,
+        "id": 66404,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20241023_133700_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4%205%ED%98%B8.jpg",
+        "is_soldout": false,
+        "name": "베르 컬러 글로스 [5호 레드 오크] 2.6g + 미니 글로스 증정",
+        "original_price": 12000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 9600,
+        "discount_rate": 20,
+        "id": 66403,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20241023_133336_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4%204%ED%98%B8.jpg",
+        "is_soldout": false,
+        "name": "베르 컬러 글로스 [4호 모브 럼] 2.6g + 미니 글로스 증정",
+        "original_price": 12000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 9600,
+        "discount_rate": 20,
+        "id": 66402,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20241023_133248_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4%203%ED%98%B8.jpg",
+        "is_soldout": false,
+        "name": "베르 컬러 글로스 [3호 로지 버번] 2.6g + 미니 글로스 증정",
+        "original_price": 12000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 9600,
+        "discount_rate": 20,
+        "id": 66401,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20241023_133138_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4%202%ED%98%B8.jpg",
+        "is_soldout": false,
+        "name": "베르 컬러 글로스 [2호 휘그 몰트] 2.6g + 미니 글로스 증정",
+        "original_price": 12000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      },
+      {
+        "discount_price": 9600,
+        "discount_rate": 20,
+        "id": 66400,
+        "image_url": "https://img.hwahae.co.kr/commerce/goods/20241104_142557_%EB%B2%A0%EB%A5%B4%EC%BB%AC%EB%9F%AC%EA%B8%80%EB%A1%9C%EC%8A%A4%201%ED%98%B8.jpg",
+        "is_soldout": false,
+        "name": "베르 컬러 글로스 [1호 블랜디드 피치] 2.6g + 미니 글로스 증정",
+        "original_price": 12000,
+        "primal_badges": [],
+        "sale_goods_type": "NORMAL",
+        "secondary_badges": [],
+        "stamp": null
+      }
+    ],
+    "sampleSurveysByProductData": null,
+    "session": null,
+    "targetSaleEventNoticeData": {
+      "notice_lines": []
+    }
+  }
+}
