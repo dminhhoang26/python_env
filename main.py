@@ -22,7 +22,7 @@ def read_json_folder(folder_path):
     """
     Lấy danh sách tất cả các file JSON trong thư mục
     """
-    json_files = glob.glob("data/*.json")
+    json_files = glob.glob("result 2/*.json")
     print(json_files)
 
 def random_json_files(folder_path, num_files=500):
