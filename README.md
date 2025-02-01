@@ -1,4 +1,4 @@
-1. Mới đầu vào thì chạy lệnh `poetry shell` để khởi tạo môi trường ảo chạy python
+1. Mới đầu vào thì chạy lệnh `eval $(poetry env activate)` để khởi tạo môi trường ảo chạy python
 
 2. Để thêm thư viện vào python thì chạy lệnh (note: `poetry add` = `pip install`, thấy hướng dẫn lệnh pip install thì cứ chuyển thành `poetry add`):
 ```bash
